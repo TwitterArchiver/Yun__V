@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1862844511501930585",
+    "created_at": "2024-12-11T12:47:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T13:47:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866827245823893545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1735172054041927680",
+          "start": 0,
+          "username": "Brewster_DavidT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866827245823893545",
+    "in_reply_to_user_id": "1735172054041927680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866826958631473382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Brewster_DavidT 是的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1862844511501930585",
+        "created_at": "2024-12-11T12:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T13:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866827245823893545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1735172054041927680",
+              "start": 0,
+              "username": "Brewster_DavidT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866827245823893545",
+        "in_reply_to_user_id": "1735172054041927680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866826958631473382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Brewster_DavidT 是的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735172054041927680",
+        "conversation_id": "1862844511501930585",
+        "created_at": "2024-12-11T12:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T13:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866826958631473382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866826958631473382",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862844511501930585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 是奈奈嘛hhh 感觉很可爱呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866383708397490307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8701,
+          "following_count": 170,
+          "like_count": 3360,
+          "listed_count": 20,
+          "media_count": 481,
+          "tweet_count": 3756
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-14T05:37:18.000Z",
+        "description": "01/南京/infp/双鱼男/微颜/性取向女/普本/国网当吗喽/礼貌要照会发/私信最好爆照（喜欢可爱的女孩帅气的女孩纸也喜欢！）/欢迎打扰！（真的快寡死惹！）",
+        "id": "1735172054041927680",
+        "name": "Shan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735172499476996096/FAZNza0G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 593,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 122
+        },
+        "username": "Brewster_DavidT",
+        "verified": false
+      }
+    ]
+  }
+}

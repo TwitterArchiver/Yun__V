@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1954693567794073947",
+    "created_at": "2025-08-11T03:14:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T04:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954743257365360716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1226849579951243266",
+          "start": 0,
+          "username": "admi_n123456"
+        },
+        {
+          "end": 26,
+          "id": "1608426211814019072",
+          "start": 14,
+          "username": "bzh59193717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954743257365360716",
+    "in_reply_to_user_id": "1226849579951243266",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954737970181009582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@admi_n123456 @bzh59193717 笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1954693567794073947",
+        "created_at": "2025-08-11T03:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T04:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954743257365360716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1226849579951243266",
+              "start": 0,
+              "username": "admi_n123456"
+            },
+            {
+              "end": 26,
+              "id": "1608426211814019072",
+              "start": 14,
+              "username": "bzh59193717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954743257365360716",
+        "in_reply_to_user_id": "1226849579951243266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954737970181009582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@admi_n123456 @bzh59193717 笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1226849579951243266",
+        "conversation_id": "1954693567794073947",
+        "created_at": "2025-08-11T02:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T03:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954737970181009582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1608426211814019072",
+              "start": 0,
+              "username": "bzh59193717"
+            },
+            {
+              "end": 20,
+              "id": "1650126478213001216",
+              "start": 13,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954737970181009582",
+        "in_reply_to_user_id": "1608426211814019072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954733870693405078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bzh59193717 @Yun__V 他高中辍学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 在脊柱上紋一對翅膀我會飛走嗎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：afterthesheep",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1954140315712893198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14002,
+          "following_count": 97,
+          "like_count": 4653,
+          "listed_count": 27,
+          "media_count": 673,
+          "tweet_count": 5480
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-10T12:45:17.000Z",
+        "description": "150/45kg 🚪52 双相混合型",
+        "id": "1226849579951243266",
+        "location": "距离你约 1km",
+        "name": "Yumemi",
+        "pinned_tweet_id": "1953361666546253991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940652356065976320/uTPzGYBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2036,
+          "following_count": 992,
+          "like_count": 14395,
+          "listed_count": 4,
+          "media_count": 1268,
+          "tweet_count": 8721
+        },
+        "username": "admi_n123456",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-29T11:34:40.000Z",
+        "description": "",
+        "id": "1608426211814019072",
+        "location": "天堂",
+        "name": "不知",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941109025061433344/YBND1K_D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 731,
+          "like_count": 9950,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 476
+        },
+        "username": "bzh59193717",
+        "verified": false
+      }
+    ]
+  }
+}

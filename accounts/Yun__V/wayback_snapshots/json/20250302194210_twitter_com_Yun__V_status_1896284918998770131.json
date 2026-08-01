@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1896278464229257309",
+    "created_at": "2025-03-02T19:42:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T20:42:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896284918998770131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1826687223812816901",
+          "start": 0,
+          "username": "syd_ether"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896284918998770131",
+    "in_reply_to_user_id": "1826687223812816901",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896278464229257309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@syd_ether cute！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1170,
+        "media_key": "3_1896278457593851904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlDvNdQbcAAXK_P.jpg",
+        "width": 1877
+      },
+      {
+        "height": 1170,
+        "media_key": "3_1896278457585381376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlDvNdOaMAACo2E.jpg",
+        "width": 1726
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1896278464229257309",
+        "created_at": "2025-03-02T19:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T20:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896284918998770131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1826687223812816901",
+              "start": 0,
+              "username": "syd_ether"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896284918998770131",
+        "in_reply_to_user_id": "1826687223812816901",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896278464229257309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syd_ether cute！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896278457593851904",
+            "3_1896278457585381376"
+          ]
+        },
+        "author_id": "1826687223812816901",
+        "conversation_id": "1896278464229257309",
+        "created_at": "2025-03-02T19:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T20:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896278464229257309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gr4MlQKxiU",
+              "end": 31,
+              "expanded_url": "https://x.com/syd_ether/status/1896278464229257309/photo/1",
+              "media_key": "3_1896278457593851904",
+              "start": 8,
+              "url": "https://t.co/Gr4MlQKxiU"
+            },
+            {
+              "display_url": "pic.x.com/Gr4MlQKxiU",
+              "end": 31,
+              "expanded_url": "https://x.com/syd_ether/status/1896278464229257309/photo/1",
+              "media_key": "3_1896278457585381376",
+              "start": 8,
+              "url": "https://t.co/Gr4MlQKxiU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896278464229257309",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "青髪に戻りたい https://t.co/Gr4MlQKxiU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 🐦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1886731232559686084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895105510761697280/q6WuEY8O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10810,
+          "following_count": 213,
+          "like_count": 4165,
+          "listed_count": 23,
+          "media_count": 560,
+          "tweet_count": 4797
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T18:26:01.000Z",
+        "description": "i only respect dead people. @blyatifull_drug←art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 28,
+                "username": "blyatifull_drug"
+              }
+            ]
+          }
+        },
+        "id": "1826687223812816901",
+        "location": "恥 注意",
+        "name": "𝔰𝔦𝔡 𝔢𝔱𝔥𝔢𝔯",
+        "pinned_tweet_id": "1883152571688435950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826687352363991040/sLzAccjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 87,
+          "like_count": 8340,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 1518
+        },
+        "username": "syd_ether",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1867138341290062087",
+    "created_at": "2024-12-12T19:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T20:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867292872846061944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1520449581292855298",
+          "start": 0,
+          "username": "kkkStonee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867292872846061944",
+    "in_reply_to_user_id": "1520449581292855298",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867291481855386044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkkStonee 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1867138341290062087",
+        "created_at": "2024-12-12T19:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T20:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867292872846061944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1520449581292855298",
+              "start": 0,
+              "username": "kkkStonee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867292872846061944",
+        "in_reply_to_user_id": "1520449581292855298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867291481855386044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkkStonee 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520449581292855298",
+        "conversation_id": "1867138341290062087",
+        "created_at": "2024-12-12T19:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T20:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867291481855386044"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "萌萌",
+              "probability": 0.6085,
+              "start": 8,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867291481855386044",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867138341290062087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 萌萌的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9097,
+          "following_count": 176,
+          "like_count": 3441,
+          "listed_count": 21,
+          "media_count": 487,
+          "tweet_count": 3826
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-30T17:06:53.000Z",
+        "description": "不要醒来",
+        "id": "1520449581292855298",
+        "name": "kkk3",
+        "pinned_tweet_id": "1706879133471609146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780652231395831810/J3be0LkJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2668,
+          "following_count": 421,
+          "like_count": 3787,
+          "listed_count": 9,
+          "media_count": 2327,
+          "tweet_count": 11885
+        },
+        "username": "kkkStonee",
+        "verified": false
+      }
+    ]
+  }
+}

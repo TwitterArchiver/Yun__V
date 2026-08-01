@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1981266429769904128"
+      ]
+    },
+    "author_id": "1650126478213001216",
+    "conversation_id": "1981267190277165519",
+    "created_at": "2025-10-23T07:51:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T08:51:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981267190277165519"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gjFiGAsLMR",
+          "end": 23,
+          "expanded_url": "https://x.com/Yun__V/status/1981267190277165519/video/1",
+          "media_key": "7_1981266429769904128",
+          "start": 0,
+          "url": "https://t.co/gjFiGAsLMR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981267190277165519",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/gjFiGAsLMR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16766,
+        "height": 960,
+        "media_key": "7_1981266429769904128",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1981266429769904128/pu/img/e9-Sj79cMENsffdj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981266429769904128/pu/vid/avc1/320x426/54_XTwnvzy0dTC4R.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981266429769904128/pu/vid/avc1/480x640/XsrqccfSQlVyioNT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981266429769904128/pu/vid/avc1/720x960/vpyTmOF_uN4fCfQ0.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1981266429769904128/pu/pl/NkrsAO4HBmJRbv1Z.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1981266429769904128"
+          ]
+        },
+        "author_id": "1650126478213001216",
+        "conversation_id": "1981267190277165519",
+        "created_at": "2025-10-23T07:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T08:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981267190277165519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gjFiGAsLMR",
+              "end": 23,
+              "expanded_url": "https://x.com/Yun__V/status/1981267190277165519/video/1",
+              "media_key": "7_1981266429769904128",
+              "start": 0,
+              "url": "https://t.co/gjFiGAsLMR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981267190277165519",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gjFiGAsLMR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 在脊柱上紋一對翅膀我會飛走嗎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1957837993022222486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14350,
+          "following_count": 106,
+          "like_count": 4897,
+          "listed_count": 28,
+          "media_count": 764,
+          "tweet_count": 6067
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

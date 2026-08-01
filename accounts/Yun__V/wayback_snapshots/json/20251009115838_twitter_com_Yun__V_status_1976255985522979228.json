@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975916301194252288"
+      ],
+      "media_source_tweet_id": [
+        "1975916304667496885"
+      ]
+    },
+    "author_id": "1650126478213001216",
+    "conversation_id": "1976255985522979228",
+    "created_at": "2025-10-09T11:58:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T12:58:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976255985522979228"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 50,
+          "normalized_text": "Karuizawa",
+          "probability": 0.7146,
+          "start": 42,
+          "type": "Place"
+        },
+        {
+          "end": 68,
+          "normalized_text": "Nobuyoshi Araki",
+          "probability": 0.6784,
+          "start": 54,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1972439441492078592",
+          "start": 3,
+          "username": "objectfetishist"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tQLL7F5AL4",
+          "end": 115,
+          "expanded_url": "https://x.com/objectfetishist/status/1975916304667496885/photo/1",
+          "media_key": "3_1975916301194252288",
+          "start": 92,
+          "url": "https://t.co/tQLL7F5AL4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976255985522979228",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 707
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975916304667496885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @objectfetishist: “(Double) Suicide in Karuizawa,” Nobuyoshi Araki, 1996. Scanned by me. https://t.co/tQLL7F5AL4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1517,
+        "media_key": "3_1975916301194252288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2vdaDaWUAA5oGj.jpg",
+        "width": 1071
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975916301194252288"
+          ],
+          "media_source_tweet_id": [
+            "1975916304667496885"
+          ]
+        },
+        "author_id": "1650126478213001216",
+        "conversation_id": "1976255985522979228",
+        "created_at": "2025-10-09T11:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T12:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976255985522979228"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "Karuizawa",
+              "probability": 0.7146,
+              "start": 42,
+              "type": "Place"
+            },
+            {
+              "end": 68,
+              "normalized_text": "Nobuyoshi Araki",
+              "probability": 0.6784,
+              "start": 54,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1972439441492078592",
+              "start": 3,
+              "username": "objectfetishist"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tQLL7F5AL4",
+              "end": 115,
+              "expanded_url": "https://x.com/objectfetishist/status/1975916304667496885/photo/1",
+              "media_key": "3_1975916301194252288",
+              "start": 92,
+              "url": "https://t.co/tQLL7F5AL4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976255985522979228",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 707
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975916304667496885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @objectfetishist: “(Double) Suicide in Karuizawa,” Nobuyoshi Araki, 1996. Scanned by me. https://t.co/tQLL7F5AL4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975916301194252288"
+          ]
+        },
+        "author_id": "1972439441492078592",
+        "conversation_id": "1975916304667496885",
+        "created_at": "2025-10-08T13:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T14:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975916304667496885"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "Karuizawa",
+              "probability": 0.7388,
+              "start": 21,
+              "type": "Place"
+            },
+            {
+              "end": 47,
+              "normalized_text": "Nobuyoshi Araki",
+              "probability": 0.5457,
+              "start": 33,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tQLL7F5AL4",
+              "end": 94,
+              "expanded_url": "https://x.com/objectfetishist/status/1975916304667496885/photo/1",
+              "media_key": "3_1975916301194252288",
+              "start": 71,
+              "url": "https://t.co/tQLL7F5AL4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975916304667496885",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1089,
+          "impression_count": 96353,
+          "like_count": 5768,
+          "quote_count": 24,
+          "reply_count": 9,
+          "retweet_count": 707
+        },
+        "reply_settings": "everyone",
+        "text": "“(Double) Suicide in Karuizawa,” Nobuyoshi Araki, 1996. Scanned by me. https://t.co/tQLL7F5AL4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 在脊柱上紋一對翅膀我會飛走嗎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1957837993022222486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14328,
+          "following_count": 99,
+          "like_count": 4780,
+          "listed_count": 28,
+          "media_count": 735,
+          "tweet_count": 5886
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-28T23:13:16.000Z",
+        "description": "original scans and images from my collection and other things I find interesting. @pinakotheca",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "pinakotheca"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pinakotheca.com",
+                "end": 23,
+                "expanded_url": "http://pinakotheca.com",
+                "start": 0,
+                "url": "https://t.co/QgJ7HRooIl"
+              }
+            ]
+          }
+        },
+        "id": "1972439441492078592",
+        "name": "fintan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972450171494531072/2V1zaNg__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3181,
+          "following_count": 39,
+          "like_count": 160,
+          "listed_count": 4,
+          "media_count": 29,
+          "tweet_count": 36
+        },
+        "url": "https://t.co/QgJ7HRooIl",
+        "username": "objectfetishist",
+        "verified": false
+      }
+    ]
+  }
+}

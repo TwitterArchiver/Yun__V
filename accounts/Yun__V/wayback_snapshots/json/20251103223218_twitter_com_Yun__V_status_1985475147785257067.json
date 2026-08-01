@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1985473361808670954",
+    "created_at": "2025-11-03T22:32:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T23:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985475147785257067"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1985475147785257067",
+    "in_reply_to_user_id": "1650126478213001216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985473361808670954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我受够我爸了受够那个房子周围的傻逼邻居了，我肯定会自己租房住的只是时间早晚问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1985473361808670954",
+        "created_at": "2025-11-03T22:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T23:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985475147785257067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985475147785257067",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985473361808670954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我受够我爸了受够那个房子周围的傻逼邻居了，我肯定会自己租房住的只是时间早晚问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1985473361808670954",
+        "created_at": "2025-11-03T22:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T23:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985473361808670954"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985473361808670954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯我真的在考虑来上海生活了，经过这次在上海的几天更加确定了我这个想法。上次一个人去士多啤梨和打酒师聊天她说我经常三番五次来上海为什么不考虑直接来上海生活呢，我来这么多次上海其实来回路费加上乱七八糟的费用加起来也跟房租差不多了，相当有道理啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 在脊柱上紋一對翅膀我會飛走嗎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1957837993022222486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14551,
+          "following_count": 109,
+          "like_count": 4976,
+          "listed_count": 28,
+          "media_count": 774,
+          "tweet_count": 6156
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

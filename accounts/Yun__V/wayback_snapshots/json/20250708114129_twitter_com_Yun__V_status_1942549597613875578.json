@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942549589111844864"
+      ]
+    },
+    "author_id": "1650126478213001216",
+    "conversation_id": "1942548843524235687",
+    "created_at": "2025-07-08T11:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T12:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942549597613875578"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Coa3R4bVfo",
+          "end": 26,
+          "expanded_url": "https://x.com/Yun__V/status/1942549597613875578/photo/1",
+          "media_key": "3_1942549589111844864",
+          "start": 3,
+          "url": "https://t.co/Coa3R4bVfo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942549597613875578",
+    "in_reply_to_user_id": "1650126478213001216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942548843524235687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然後 https://t.co/Coa3R4bVfo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942549589111844864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvVSjymXsAAMWdB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1942548829871456256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvVR3mNWwAA41Pz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942549589111844864"
+          ]
+        },
+        "author_id": "1650126478213001216",
+        "conversation_id": "1942548843524235687",
+        "created_at": "2025-07-08T11:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T12:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942549597613875578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Coa3R4bVfo",
+              "end": 26,
+              "expanded_url": "https://x.com/Yun__V/status/1942549597613875578/photo/1",
+              "media_key": "3_1942549589111844864",
+              "start": 3,
+              "url": "https://t.co/Coa3R4bVfo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942549597613875578",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942548843524235687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然後 https://t.co/Coa3R4bVfo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942548829871456256"
+          ]
+        },
+        "author_id": "1650126478213001216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1942548843524235687",
+        "created_at": "2025-07-08T11:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T12:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942548843524235687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nq8i5q3vpu",
+              "end": 29,
+              "expanded_url": "https://x.com/Yun__V/status/1942548843524235687/photo/1",
+              "media_key": "3_1942548829871456256",
+              "start": 6,
+              "url": "https://t.co/nq8i5q3vpu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942548843524235687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又在聽了⋯ https://t.co/nq8i5q3vpu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 我養的鳥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1941923000317546552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13154,
+          "following_count": 97,
+          "like_count": 4577,
+          "listed_count": 24,
+          "media_count": 614,
+          "tweet_count": 5246
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982512230571675648",
+        "3_1982512231687262209"
+      ]
+    },
+    "author_id": "1650126478213001216",
+    "conversation_id": "1982512260129128924",
+    "created_at": "2025-10-26T18:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T19:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982512260129128924"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 17,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "广州"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hgQ2S4iDqw",
+          "end": 49,
+          "expanded_url": "https://x.com/Yun__V/status/1982512260129128924/photo/1",
+          "media_key": "3_1982512230571675648",
+          "start": 26,
+          "url": "https://t.co/hgQ2S4iDqw"
+        },
+        {
+          "display_url": "pic.x.com/hgQ2S4iDqw",
+          "end": 49,
+          "expanded_url": "https://x.com/Yun__V/status/1982512260129128924/photo/1",
+          "media_key": "3_1982512231687262209",
+          "start": 26,
+          "url": "https://t.co/hgQ2S4iDqw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982512260129128924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我下个月中旬在广州谁找我约爸爸活 #爸爸活 #广州 https://t.co/hgQ2S4iDqw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982512230571675648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4NMXrIXkAA5A60.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1550,
+        "media_key": "3_1982512231687262209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4NMXvSWEAERx4g.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982512230571675648",
+            "3_1982512231687262209"
+          ]
+        },
+        "author_id": "1650126478213001216",
+        "conversation_id": "1982512260129128924",
+        "created_at": "2025-10-26T18:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T19:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982512260129128924"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "广州"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hgQ2S4iDqw",
+              "end": 49,
+              "expanded_url": "https://x.com/Yun__V/status/1982512260129128924/photo/1",
+              "media_key": "3_1982512230571675648",
+              "start": 26,
+              "url": "https://t.co/hgQ2S4iDqw"
+            },
+            {
+              "display_url": "pic.x.com/hgQ2S4iDqw",
+              "end": 49,
+              "expanded_url": "https://x.com/Yun__V/status/1982512260129128924/photo/1",
+              "media_key": "3_1982512231687262209",
+              "start": 26,
+              "url": "https://t.co/hgQ2S4iDqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982512260129128924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我下个月中旬在广州谁找我约爸爸活 #爸爸活 #广州 https://t.co/hgQ2S4iDqw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 在脊柱上紋一對翅膀我會飛走嗎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1957837993022222486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14517,
+          "following_count": 106,
+          "like_count": 4923,
+          "listed_count": 28,
+          "media_count": 770,
+          "tweet_count": 6107
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

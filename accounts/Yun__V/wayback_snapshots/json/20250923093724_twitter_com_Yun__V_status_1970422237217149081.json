@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1970405784124354974",
+    "created_at": "2025-09-23T09:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T10:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970422237217149081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1926989108049596419",
+          "start": 0,
+          "username": "hikkiloveu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970422237217149081",
+    "in_reply_to_user_id": "1926989108049596419",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970405784124354974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hikkiloveu 萌神"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15033,
+        "height": 1280,
+        "media_key": "13_1970405692164161536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1970405692164161536/img/RjO8JhlCDOypzrpa.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970405692164161536/vid/avc1/320x568/DEYgvt1DrCs0vaZy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970405692164161536/vid/avc1/480x852/IfpK50gU3yGly6bf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970405692164161536/vid/avc1/720x1280/K2zomm-SpSQZRDcM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1970405692164161536/pl/RugXVkxVxystsP-z.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1970405784124354974",
+        "created_at": "2025-09-23T09:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T10:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970422237217149081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1926989108049596419",
+              "start": 0,
+              "username": "hikkiloveu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970422237217149081",
+        "in_reply_to_user_id": "1926989108049596419",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970405784124354974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hikkiloveu 萌神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1970405692164161536"
+          ]
+        },
+        "author_id": "1926989108049596419",
+        "conversation_id": "1970405784124354974",
+        "created_at": "2025-09-23T08:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T09:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970405784124354974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JssIys6va6",
+              "end": 49,
+              "expanded_url": "https://x.com/hikkiloveu/status/1970405784124354974/video/1",
+              "media_key": "13_1970405692164161536",
+              "start": 26,
+              "url": "https://t.co/JssIys6va6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970405784124354974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被pr說背景雜亂需要重拍的視頻…\n我覺得比較萌呢… https://t.co/JssIys6va6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 在脊柱上紋一對翅膀我會飛走嗎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：afterthesheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1957837993022222486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14127,
+          "following_count": 97,
+          "like_count": 4683,
+          "listed_count": 28,
+          "media_count": 713,
+          "tweet_count": 5718
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T13:09:51.000Z",
+        "description": "這裡綠子 /也可以叫我乔乔/170,46~49kg/雙相II型（快速循環）/討好型人格/偏執/恐慌/回避型/我會碎碎念/我喜歡所有小動物/渴望和女性建立友誼/沒有門檻不加直男不接活（我有男朋友）/最想見的人最愛的人最思念的人@utadahikaru",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 112,
+                "username": "utadahikaru"
+              }
+            ]
+          }
+        },
+        "id": "1926989108049596419",
+        "location": "？",
+        "name": "綠子",
+        "pinned_tweet_id": "1969361549388365909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966060783806394369/Mjoc5sZ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 50,
+          "like_count": 3409,
+          "listed_count": 2,
+          "media_count": 103,
+          "tweet_count": 613
+        },
+        "username": "hikkiloveu",
+        "verified": false
+      }
+    ]
+  }
+}

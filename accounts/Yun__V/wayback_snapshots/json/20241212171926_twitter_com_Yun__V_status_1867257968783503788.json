@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1867257095654937068",
+    "created_at": "2024-12-12T17:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T18:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867257968783503788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1500308085335728131",
+          "start": 0,
+          "username": "WX919795"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867257968783503788",
+    "in_reply_to_user_id": "1500308085335728131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867257095654937068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WX919795 爱妹 让人受尽委屈～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1867257095654937068",
+        "created_at": "2024-12-12T17:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T18:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867257968783503788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1500308085335728131",
+              "start": 0,
+              "username": "WX919795"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867257968783503788",
+        "in_reply_to_user_id": "1500308085335728131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867257095654937068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WX919795 爱妹 让人受尽委屈～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1500308085335728131",
+        "conversation_id": "1867257095654937068",
+        "created_at": "2024-12-12T17:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T18:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867257095654937068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yun__V/status/…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/Yun__V/status/1866595091848237342",
+              "start": 43,
+              "url": "https://t.co/qOQ2PBuUvb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867257095654937068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866595091848237342",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她的爱直白又热烈，所以那时的我尽己所能地想要去回报。却被上了一课。恋妹让人受尽委屈☝ https://t.co/qOQ2PBuUvb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9074,
+          "following_count": 174,
+          "like_count": 3437,
+          "listed_count": 21,
+          "media_count": 487,
+          "tweet_count": 3823
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-06T03:11:52.000Z",
+        "description": "🇨🇳",
+        "id": "1500308085335728131",
+        "name": "芜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861787542728704000/DjFD8xhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 366,
+          "like_count": 3013,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 446
+        },
+        "username": "WX919795",
+        "verified": false
+      }
+    ]
+  }
+}

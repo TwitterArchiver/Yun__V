@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1862904912084185297",
+    "created_at": "2024-11-30T19:06:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T20:06:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862936173171368175"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "歌曲名《季節 (feat. ～離)》，由 moreru、〜離 演唱，收录于《山田花子》专辑中，《季節 (feat. ～離)》下载，《季節 (feat. ～離)》在线试听，更多季節 (feat. ～離)相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/zzn62LY",
+          "end": 52,
+          "expanded_url": "http://163cn.tv/zzn62LY",
+          "start": 29,
+          "status": 200,
+          "title": "季節 (feat. ～離) - moreru/〜離 - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?app_version=8.20.02&id=1931103877&userid=539411966&dlt=0846",
+          "url": "https://t.co/VyhRKxXh2m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862936173171368175",
+    "in_reply_to_user_id": "1650126478213001216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862904912084185297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "分享moreru/〜離的单曲《季節 (feat. ～離)》https://t.co/VyhRKxXh2m (@网易云音乐)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1862904912084185297",
+        "created_at": "2024-11-30T19:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T20:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862936173171368175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《季節 (feat. ～離)》，由 moreru、〜離 演唱，收录于《山田花子》专辑中，《季節 (feat. ～離)》下载，《季節 (feat. ～離)》在线试听，更多季節 (feat. ～離)相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/zzn62LY",
+              "end": 52,
+              "expanded_url": "http://163cn.tv/zzn62LY",
+              "start": 29,
+              "status": 200,
+              "title": "季節 (feat. ～離) - moreru/〜離 - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?app_version=8.20.02&id=1931103877&userid=539411966&dlt=0846",
+              "url": "https://t.co/VyhRKxXh2m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862936173171368175",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862904912084185297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "分享moreru/〜離的单曲《季節 (feat. ～離)》https://t.co/VyhRKxXh2m (@网易云音乐)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1862904912084185297",
+        "created_at": "2024-11-30T17:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T18:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862904912084185297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "afterthesheep’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1OyKA…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1OyKAZyZjBLGb",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1862904913661218816/0w4tlAqF?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1862904913661218816/0w4tlAqF?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 我是小羊imsheep",
+              "unwound_url": "https://twitter.com/i/spaces/1OyKAZyZjBLGb/peek",
+              "url": "https://t.co/peYNY4O1h6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862904912084185297",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 242,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/peYNY4O1h6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1853874978472825156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7958,
+          "following_count": 167,
+          "like_count": 3203,
+          "listed_count": 19,
+          "media_count": 474,
+          "tweet_count": 3620
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

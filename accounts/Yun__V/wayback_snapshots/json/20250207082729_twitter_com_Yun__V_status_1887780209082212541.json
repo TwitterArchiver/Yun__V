@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1887095440736477314",
+    "created_at": "2025-02-07T08:27:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T09:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887780209082212541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1784223685747908608",
+          "start": 0,
+          "username": "DDLGAbigail"
+        },
+        {
+          "end": 24,
+          "id": "3362173438",
+          "start": 13,
+          "username": "fujyoriaru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887780209082212541",
+    "in_reply_to_user_id": "1784223685747908608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887767097851175176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDLGAbigail @fujyoriaru 宝宝我想问问详情！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1887095440736477314",
+        "created_at": "2025-02-07T08:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T09:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887780209082212541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1784223685747908608",
+              "start": 0,
+              "username": "DDLGAbigail"
+            },
+            {
+              "end": 24,
+              "id": "3362173438",
+              "start": 13,
+              "username": "fujyoriaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887780209082212541",
+        "in_reply_to_user_id": "1784223685747908608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887767097851175176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDLGAbigail @fujyoriaru 宝宝我想问问详情！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784223685747908608",
+        "conversation_id": "1887095440736477314",
+        "created_at": "2025-02-07T07:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T08:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887767097851175176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            },
+            {
+              "end": 19,
+              "id": "3362173438",
+              "start": 8,
+              "username": "fujyoriaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887767097851175176",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887110202782294184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V @fujyoriaru 我呆的那家客人素质还可以，包间里有监控，可以明确拒绝，小宝想来上海可以来问问我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1886731232559686084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10469,
+          "following_count": 213,
+          "like_count": 4110,
+          "listed_count": 23,
+          "media_count": 556,
+          "tweet_count": 4581
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-27T14:11:04.000Z",
+        "description": "冲浪口嗨用的/喜欢我的照片请给我打钱",
+        "id": "1784223685747908608",
+        "location": "上海",
+        "name": "蓝莓慕斯蛋糕",
+        "pinned_tweet_id": "1881369036002599013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784225793561751552/_FZi-n3R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 89,
+          "like_count": 750,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 148
+        },
+        "username": "DDLGAbigail",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-06T09:19:01.000Z",
+        "description": "元Vtuber、哲学をする。 サブカル批判/バタイユ主義者/Anarchism/Cinema/Parfume 日本語/中文/English\n“我已不再写诗　世界はもう詩なんていらん”🗿",
+        "id": "3362173438",
+        "location": "子宮",
+        "name": "摩艾石像厨",
+        "pinned_tweet_id": "1881215415894052971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751196444332285952/antWi7vL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 82,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 641
+        },
+        "username": "fujyoriaru",
+        "verified": false
+      }
+    ]
+  }
+}

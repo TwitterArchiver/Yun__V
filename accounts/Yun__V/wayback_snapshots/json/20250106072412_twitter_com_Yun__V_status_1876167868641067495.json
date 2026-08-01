@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1876149538618331480",
+    "created_at": "2025-01-06T07:24:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T08:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876167868641067495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1473929590535983104",
+          "start": 0,
+          "username": "yecang7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876167868641067495",
+    "in_reply_to_user_id": "1473929590535983104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876152334763655433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yecang7 哇！我喜歡這個名字"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1876149538618331480",
+        "created_at": "2025-01-06T07:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T08:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876167868641067495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1473929590535983104",
+              "start": 0,
+              "username": "yecang7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876167868641067495",
+        "in_reply_to_user_id": "1473929590535983104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876152334763655433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yecang7 哇！我喜歡這個名字"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473929590535983104",
+        "conversation_id": "1876149538618331480",
+        "created_at": "2025-01-06T06:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T07:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876152334763655433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876152334763655433",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876149538618331480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 想起一个网友的ID叫我需要你的目光"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873052534652477440/cWEl1eck_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9436,
+          "following_count": 190,
+          "like_count": 3845,
+          "listed_count": 20,
+          "media_count": 521,
+          "tweet_count": 4220
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-23T08:13:13.000Z",
+        "description": "放心，一切都不会更糟的\n\n未经同意禁止转载",
+        "id": "1473929590535983104",
+        "name": "叶藏",
+        "pinned_tweet_id": "1631488822080073729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675100979723931648/AiNg-QOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1723,
+          "following_count": 451,
+          "like_count": 10790,
+          "listed_count": 10,
+          "media_count": 376,
+          "tweet_count": 3271
+        },
+        "username": "yecang7",
+        "verified": false
+      }
+    ]
+  }
+}

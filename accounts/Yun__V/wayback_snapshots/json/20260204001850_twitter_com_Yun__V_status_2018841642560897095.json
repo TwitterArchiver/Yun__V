@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2018763241850372306",
+    "created_at": "2026-02-04T00:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T01:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018841642560897095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1888861128304087040",
+          "start": 0,
+          "username": "LiePill2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018841642560897095",
+    "in_reply_to_user_id": "1888861128304087040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018763241850372306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiePill2025 好久没喝highball了。。好想念"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018763231008022529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAQWdnXaYAEbL2o.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2018763241850372306",
+        "created_at": "2026-02-04T00:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T01:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018841642560897095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888861128304087040",
+              "start": 0,
+              "username": "LiePill2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018841642560897095",
+        "in_reply_to_user_id": "1888861128304087040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018763241850372306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiePill2025 好久没喝highball了。。好想念"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018763231008022529"
+          ]
+        },
+        "author_id": "1888861128304087040",
+        "conversation_id": "2018763241850372306",
+        "created_at": "2026-02-03T19:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T20:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018763241850372306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7zxPypI1cn",
+              "end": 40,
+              "expanded_url": "https://x.com/LiePill2025/status/2018763241850372306/photo/1",
+              "media_key": "3_2018763231008022529",
+              "start": 17,
+              "url": "https://t.co/7zxPypI1cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018763241850372306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Highball确实是酒鬼的归宿 https://t.co/7zxPypI1cn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14455,
+          "following_count": 119,
+          "like_count": 5091,
+          "listed_count": 28,
+          "media_count": 815,
+          "tweet_count": 6406
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T08:02:50.000Z",
+        "description": "没有期待的爱就是纯洁的爱",
+        "id": "1888861128304087040",
+        "name": "谎言药丸",
+        "pinned_tweet_id": "2016178495081349400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888863436077174784/fEwL5XKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 2057,
+          "like_count": 47097,
+          "listed_count": 3,
+          "media_count": 566,
+          "tweet_count": 2094
+        },
+        "username": "LiePill2025",
+        "verified": false
+      }
+    ]
+  }
+}

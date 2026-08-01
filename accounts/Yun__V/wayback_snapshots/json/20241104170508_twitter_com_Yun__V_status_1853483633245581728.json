@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1853218429584789822",
+    "created_at": "2024-11-04T17:05:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T18:05:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853483633245581728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1467368317258248192",
+          "start": 0,
+          "username": "loolzaozmin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853483633245581728",
+    "in_reply_to_user_id": "1467368317258248192",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853464144277819683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loolzaozmin 喂、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1853218429584789822",
+        "created_at": "2024-11-04T17:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T18:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853483633245581728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1467368317258248192",
+              "start": 0,
+              "username": "loolzaozmin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853483633245581728",
+        "in_reply_to_user_id": "1467368317258248192",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853464144277819683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loolzaozmin 喂、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467368317258248192",
+        "conversation_id": "1853218429584789822",
+        "created_at": "2024-11-04T15:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T16:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853464144277819683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853464144277819683",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853296989573874043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 先这样  再那样 再这样 就完成啦 你学废了吗小朋友？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1849804879109451906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6883,
+          "following_count": 228,
+          "like_count": 3015,
+          "listed_count": 17,
+          "tweet_count": 3339
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T05:40:54.000Z",
+        "description": "我是藻｜泛性恋｜ta/它｜非二元性别",
+        "id": "1467368317258248192",
+        "location": "🚪：18 188 1888",
+        "name": "我胃里面的蝴蝶",
+        "pinned_tweet_id": "1768900241447927965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852108367315243008/HB3K5YTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7588,
+          "following_count": 188,
+          "like_count": 465,
+          "listed_count": 10,
+          "tweet_count": 406
+        },
+        "username": "loolzaozmin",
+        "verified": false
+      }
+    ]
+  }
+}

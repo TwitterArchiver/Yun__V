@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1897265965144133769",
+    "created_at": "2025-03-05T14:31:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T15:31:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897293992020337003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1490538046973902851",
+          "start": 0,
+          "username": "7elllMe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897293992020337003",
+    "in_reply_to_user_id": "1490538046973902851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897293214232797545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7elllMe 我也觉得会很适合！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1897265965144133769",
+        "created_at": "2025-03-05T14:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T15:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897293992020337003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1490538046973902851",
+              "start": 0,
+              "username": "7elllMe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897293992020337003",
+        "in_reply_to_user_id": "1490538046973902851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897293214232797545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7elllMe 我也觉得会很适合！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490538046973902851",
+        "conversation_id": "1897265965144133769",
+        "created_at": "2025-03-05T14:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T15:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897293214232797545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897293214232797545",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897265965144133769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 2纹锁骨那一块！锁骨胸口那边"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 🐦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1886731232559686084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896312946994937856/JzQllmQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10798,
+          "following_count": 183,
+          "like_count": 4176,
+          "listed_count": 23,
+          "media_count": 560,
+          "tweet_count": 4814
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T04:09:19.000Z",
+        "description": "千篇一律的无聊面孔",
+        "id": "1490538046973902851",
+        "name": "舌",
+        "pinned_tweet_id": "1870034769989513536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880664461729755136/kFZp7Lfj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 9,
+          "like_count": 51413,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1791
+        },
+        "username": "7elllMe",
+        "verified": false
+      }
+    ]
+  }
+}

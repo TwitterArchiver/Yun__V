@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1868872279826088381",
+    "created_at": "2024-12-17T04:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T05:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868875516952166541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1489291007867101184",
+          "start": 0,
+          "username": "H6p98c3qHmMfSaz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868875516952166541",
+    "in_reply_to_user_id": "1489291007867101184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868874847264411745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H6p98c3qHmMfSaz 。因为我说的别人是我对象🙄其他人出轨关我鸡毛事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1868872279826088381",
+        "created_at": "2024-12-17T04:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T05:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868875516952166541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1489291007867101184",
+              "start": 0,
+              "username": "H6p98c3qHmMfSaz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868875516952166541",
+        "in_reply_to_user_id": "1489291007867101184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868874847264411745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H6p98c3qHmMfSaz 。因为我说的别人是我对象🙄其他人出轨关我鸡毛事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489291007867101184",
+        "conversation_id": "1868872279826088381",
+        "created_at": "2024-12-17T04:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T05:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868874847264411745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868874847264411745",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868872279826088381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 别人出轨 关你啥事  怎么这么担心\n 还是说你有点道德洁癖不会和私德不太好的人交朋友 认识男女都有滥交的朋友 反正做朋友挺好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9202,
+          "following_count": 180,
+          "like_count": 3578,
+          "listed_count": 21,
+          "media_count": 498,
+          "tweet_count": 3959
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-03T17:33:53.000Z",
+        "description": "我现在已经不做自己的梦了，有时候我觉得我是你。",
+        "id": "1489291007867101184",
+        "name": "玲子jkig",
+        "pinned_tweet_id": "1857287210443428308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859525346573549570/PdstgAdC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 541,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 297
+        },
+        "username": "H6p98c3qHmMfSaz",
+        "verified": false
+      }
+    ]
+  }
+}

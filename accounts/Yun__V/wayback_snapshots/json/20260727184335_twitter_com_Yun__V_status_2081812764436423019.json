@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2081756584334733666",
+    "created_at": "2026-07-27T18:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T19:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081812764436423019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1662293107738640384",
+          "start": 0,
+          "username": "SHUGE0731"
+        },
+        {
+          "end": 23,
+          "id": "1767122266414882816",
+          "start": 11,
+          "username": "shu_fan0228"
+        },
+        {
+          "end": 36,
+          "id": "1909540060699279362",
+          "start": 24,
+          "username": "suzukii_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081812764436423019",
+    "in_reply_to_user_id": "1662293107738640384",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081791422404182132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SHUGE0731 @shu_fan0228 @suzukii_ovo 🥹🥹🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2081756584334733666",
+        "created_at": "2026-07-27T18:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T19:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081812764436423019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662293107738640384",
+              "start": 0,
+              "username": "SHUGE0731"
+            },
+            {
+              "end": 23,
+              "id": "1767122266414882816",
+              "start": 11,
+              "username": "shu_fan0228"
+            },
+            {
+              "end": 36,
+              "id": "1909540060699279362",
+              "start": 24,
+              "username": "suzukii_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081812764436423019",
+        "in_reply_to_user_id": "1662293107738640384",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081791422404182132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUGE0731 @shu_fan0228 @suzukii_ovo 🥹🥹🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2081756584334733666",
+        "created_at": "2026-07-27T17:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081791422404182132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            },
+            {
+              "end": 20,
+              "id": "1767122266414882816",
+              "start": 8,
+              "username": "shu_fan0228"
+            },
+            {
+              "end": 33,
+              "id": "1909540060699279362",
+              "start": 21,
+              "username": "suzukii_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081791422404182132",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081756584334733666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V @shu_fan0228 @suzukii_ovo 老大们都是神派来的吗🥺已美到无言"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "2078707436295430185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16199,
+          "following_count": 141,
+          "like_count": 5722,
+          "listed_count": 28,
+          "media_count": 889,
+          "tweet_count": 7016
+        },
+        "url": "",
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno（2024.12.20-2026.7.17）｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 114,
+                "username": "Dorcus10031"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTtCZA"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964（低浮上）",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 1196,
+          "like_count": 34277,
+          "listed_count": 4,
+          "media_count": 750,
+          "tweet_count": 11644
+        },
+        "url": "https://t.co/ApKveTtCZA",
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T09:36:16.000Z",
+        "description": "(o^^o)",
+        "id": "1767122266414882816",
+        "name": "临死前最后一顿饭要吃什么好？",
+        "pinned_tweet_id": "2071318336601030813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081039190616412160/fja64vW3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2275,
+          "following_count": 168,
+          "like_count": 3430,
+          "listed_count": 3,
+          "media_count": 748,
+          "tweet_count": 4542
+        },
+        "url": "",
+        "username": "shu_fan0228",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T09:33:38.000Z",
+        "description": "🚪88好友位 可验证 不线下\n只回复女孩子和口令",
+        "id": "1909540060699279362",
+        "name": "我操这个世界对我好坏",
+        "pinned_tweet_id": "2052405602203373994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033712599741919232/IQCuiwR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2046,
+          "following_count": 75,
+          "like_count": 1678,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 219
+        },
+        "url": "",
+        "username": "suzukii_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1885990936586727733",
+    "created_at": "2025-02-02T10:19:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T11:19:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885996503480881642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "362228606",
+          "start": 0,
+          "username": "7th7th7th7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885996503480881642",
+    "in_reply_to_user_id": "362228606",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885995825509388777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7th7th7th7 好！！😭😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1885990936586727733",
+        "created_at": "2025-02-02T10:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T11:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885996503480881642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "362228606",
+              "start": 0,
+              "username": "7th7th7th7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885996503480881642",
+        "in_reply_to_user_id": "362228606",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885995825509388777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7th7th7th7 好！！😭😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "362228606",
+        "conversation_id": "1885990936586727733",
+        "created_at": "2025-02-02T10:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T11:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885995825509388777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885995825509388777",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885990936586727733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 洗纹身巨——疼  而且要洗好多次  请一定认真考虑且选好图案（泪）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9786,
+          "following_count": 197,
+          "like_count": 4023,
+          "listed_count": 20,
+          "media_count": 544,
+          "tweet_count": 4431
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-26T01:55:12.000Z",
+        "description": "顽劣的、温和的/可以叫我七七/ENFP/ADHD/世界上所有人都是我的爱人（精神上）/switch/braaaat♀️/无孩爱猫待业做题家/欢迎找我玩🥺https://t.co/dRPOCGY8Ft",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/7th7th7th7",
+                "end": 99,
+                "expanded_url": "https://ngl.link/7th7th7th7",
+                "start": 76,
+                "url": "https://t.co/dRPOCGY8Ft"
+              }
+            ]
+          }
+        },
+        "id": "362228606",
+        "location": "Guangdong",
+        "name": "第七避难所",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882399929173483520/dwJDOPDR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 151,
+          "like_count": 457,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 107
+        },
+        "username": "7th7th7th7",
+        "verified": false
+      }
+    ]
+  }
+}

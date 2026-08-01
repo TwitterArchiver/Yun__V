@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1870406804804628939",
+    "created_at": "2024-12-21T09:51:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-21T10:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1870406804804628939"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1870406804804628939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的愿望是可以和他在一起久一点、久到过完一整个四季那么长。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1870406804804628939",
+        "created_at": "2024-12-21T09:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T10:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870406804804628939"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1870406804804628939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的愿望是可以和他在一起久一点、久到过完一整个四季那么长。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9251,
+          "following_count": 179,
+          "like_count": 3611,
+          "listed_count": 21,
+          "media_count": 504,
+          "tweet_count": 4013
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

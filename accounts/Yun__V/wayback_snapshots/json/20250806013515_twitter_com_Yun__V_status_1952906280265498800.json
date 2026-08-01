@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952906270522105856"
+      ]
+    },
+    "author_id": "1650126478213001216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1952906280265498800",
+    "created_at": "2025-08-06T01:35:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T02:35:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952906280265498800"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VCvTfFebKe",
+          "end": 55,
+          "expanded_url": "https://x.com/Yun__V/status/1952906280265498800/photo/1",
+          "media_key": "3_1952906270522105856",
+          "start": 32,
+          "url": "https://t.co/VCvTfFebKe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952906280265498800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁能赞助我一张yuragi的预售可以直接过门槛…(T ^ T) https://t.co/VCvTfFebKe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1952906270522105856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxod5_YaYAA5XDr.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952906270522105856"
+          ]
+        },
+        "author_id": "1650126478213001216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1952906280265498800",
+        "created_at": "2025-08-06T01:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T02:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952906280265498800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VCvTfFebKe",
+              "end": 55,
+              "expanded_url": "https://x.com/Yun__V/status/1952906280265498800/photo/1",
+              "media_key": "3_1952906270522105856",
+              "start": 32,
+              "url": "https://t.co/VCvTfFebKe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952906280265498800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁能赞助我一张yuragi的预售可以直接过门槛…(T ^ T) https://t.co/VCvTfFebKe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 today is the greatest",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：afterthesheep",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1941923000317546552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13967,
+          "following_count": 98,
+          "like_count": 4631,
+          "listed_count": 26,
+          "media_count": 667,
+          "tweet_count": 5447
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

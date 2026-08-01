@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1953782593452687450",
+    "created_at": "2025-08-08T11:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T12:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953782593452687450"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1953782593452687450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 47,
+      "like_count": 4,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我只是一个蠢蠢的每天想的东西很简单很固定的恋爱脑性缘脑而已我有什么错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1953782593452687450",
+        "created_at": "2025-08-08T11:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T12:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953782593452687450"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953782593452687450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只是一个蠢蠢的每天想的东西很简单很固定的恋爱脑性缘脑而已我有什么错"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 today is the greatest",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：afterthesheep",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1941923000317546552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14000,
+          "following_count": 97,
+          "like_count": 4636,
+          "listed_count": 26,
+          "media_count": 664,
+          "tweet_count": 5452
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

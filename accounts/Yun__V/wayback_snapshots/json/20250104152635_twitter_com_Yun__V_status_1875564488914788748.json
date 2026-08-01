@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1875560187656073510",
+    "created_at": "2025-01-04T15:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T16:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875564488914788748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1829609141649952768",
+          "start": 0,
+          "username": "wbuchishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875564488914788748",
+    "in_reply_to_user_id": "1829609141649952768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875560187656073510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wbuchishi 我坐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1875560187656073510",
+        "created_at": "2025-01-04T15:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T16:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875564488914788748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1829609141649952768",
+              "start": 0,
+              "username": "wbuchishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875564488914788748",
+        "in_reply_to_user_id": "1829609141649952768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875560187656073510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wbuchishi 我坐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875560172577525760",
+            "3_1875560172577538048"
+          ]
+        },
+        "author_id": "1829609141649952768",
+        "conversation_id": "1875560187656073510",
+        "created_at": "2025-01-04T15:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T16:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875560187656073510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sSUdtrK2Pz",
+              "end": 29,
+              "expanded_url": "https://x.com/wbuchishi/status/1875560187656073510/photo/1",
+              "media_key": "3_1875560172577525760",
+              "start": 6,
+              "url": "https://t.co/sSUdtrK2Pz"
+            },
+            {
+              "display_url": "pic.x.com/sSUdtrK2Pz",
+              "end": 29,
+              "expanded_url": "https://x.com/wbuchishi/status/1875560187656073510/photo/1",
+              "media_key": "3_1875560172577538048",
+              "start": 6,
+              "url": "https://t.co/sSUdtrK2Pz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875560187656073510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以坐上来 https://t.co/sSUdtrK2Pz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873052534652477440/cWEl1eck_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9392,
+          "following_count": 191,
+          "like_count": 3821,
+          "listed_count": 20,
+          "media_count": 514,
+          "tweet_count": 4183
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T19:56:39.000Z",
+        "description": "不可结缘",
+        "id": "1829609141649952768",
+        "name": "绝望的人夫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874165413627781123/2Er_U_0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2244,
+          "following_count": 88,
+          "like_count": 3188,
+          "listed_count": 6,
+          "media_count": 32,
+          "tweet_count": 1523
+        },
+        "username": "wbuchishi",
+        "verified": false
+      }
+    ]
+  }
+}

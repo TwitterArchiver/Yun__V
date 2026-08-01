@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1916888360939065472",
+    "created_at": "2025-04-28T16:21:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T17:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916890487438688694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1717576910270836736",
+          "start": 0,
+          "username": "k_mugu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916890487438688694",
+    "in_reply_to_user_id": "1717576910270836736",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916888360939065472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k_mugu ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1916888360939065472",
+        "created_at": "2025-04-28T16:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T17:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916890487438688694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1717576910270836736",
+              "start": 0,
+              "username": "k_mugu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916890487438688694",
+        "in_reply_to_user_id": "1717576910270836736",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916888360939065472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k_mugu ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717576910270836736",
+        "conversation_id": "1916888360939065472",
+        "created_at": "2025-04-28T16:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T17:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916888360939065472"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "Qoo",
+              "probability": 0.5604,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/yun__v/status/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/yun__v/status/1916535288328839176",
+              "start": 28,
+              "url": "https://t.co/qLHbtxVBb4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916888360939065472",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916535288328839176",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Qoo lighter is sick as hell https://t.co/qLHbtxVBb4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 🐦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "开朋友圈🚪288",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1904841644140097911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896312946994937856/JzQllmQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12040,
+          "following_count": 98,
+          "like_count": 4375,
+          "listed_count": 25,
+          "media_count": 589,
+          "tweet_count": 5045
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T16:22:00.000Z",
+        "description": "^ greyscaled netl0ser\nforever digitally extant, much to my own dismay.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "meow-or-never.neocities.org",
+                "end": 23,
+                "expanded_url": "http://meow-or-never.neocities.org",
+                "start": 0,
+                "url": "https://t.co/nXTtGbCKyJ"
+              }
+            ]
+          }
+        },
+        "id": "1717576910270836736",
+        "location": "dah internet!!!!!!!!!!!!",
+        "name": "無",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884542407515185152/25rbOu1l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 207,
+          "like_count": 42785,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1395
+        },
+        "url": "https://t.co/nXTtGbCKyJ",
+        "username": "k_mugu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1872317723302367645",
+    "created_at": "2024-12-26T17:47:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T18:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872338444648907191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1486592421962022919",
+          "start": 0,
+          "username": "aki_hayfd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872338444648907191",
+    "in_reply_to_user_id": "1486592421962022919",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872328875243717081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aki_hayfd 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1872317723302367645",
+        "created_at": "2024-12-26T17:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T18:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872338444648907191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1486592421962022919",
+              "start": 0,
+              "username": "aki_hayfd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872338444648907191",
+        "in_reply_to_user_id": "1486592421962022919",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872328875243717081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aki_hayfd 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486592421962022919",
+        "conversation_id": "1872317723302367645",
+        "created_at": "2024-12-26T17:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T18:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872328875243717081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872328875243717081",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872317723302367645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 肺癌太煎熬了，直接心肌梗塞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9321,
+          "following_count": 182,
+          "like_count": 3664,
+          "listed_count": 21,
+          "media_count": 509,
+          "tweet_count": 4063
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-27T06:50:37.000Z",
+        "description": "梦想遥不可及\n死亡近在咫尺\n提问箱https://t.co/rcF6WWpOBT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aki_hayfd",
+                "end": 40,
+                "expanded_url": "https://ngl.link/aki_hayfd",
+                "start": 17,
+                "url": "https://t.co/rcF6WWpOBT"
+              }
+            ]
+          }
+        },
+        "id": "1486592421962022919",
+        "location": "惟有长江水无语东流",
+        "name": "问君能有几多愁",
+        "pinned_tweet_id": "1872337326640369765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870767127696756736/9mDrgsbi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 62,
+          "like_count": 2883,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 1080
+        },
+        "username": "aki_hayfd",
+        "verified": false
+      }
+    ]
+  }
+}

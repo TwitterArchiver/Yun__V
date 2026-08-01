@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2040446498274460160",
+    "created_at": "2026-04-04T15:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T16:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040446498274460160"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/weita2024/stat…",
+          "end": 196,
+          "expanded_url": "https://twitter.com/weita2024/status/2024733289030754579",
+          "start": 173,
+          "url": "https://t.co/b1jfMbDDDN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040446498274460160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024733289030754579",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🇨🇳🇨🇳中国国内。\n🎫🎫正品大牌，一次性系列，烟弹，烟杆。\n热门品牌：悦刻relx，冰熊zgar，小崧系列song，鸭嘴兽大板砖snowplus，阿尔法赫，高维Gowif，icemax 冰爆正品回归！！bubblemon，elfbar\n-----------\n点击头像看联系方式➕➕➕客服，\n欢迎来了解。\n1件起全国邮寄，全品带售后，客户至上。 https://t.co/b1jfMbDDDN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3696,
+        "height": 1182,
+        "media_key": "7_2024732668538089472",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2024732668538089472/pu/img/DdQJq1oK5cqy0f1Y.jpg",
+        "public_metrics": {
+          "view_count": 2009
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024732668538089472/pu/vid/avc1/320x530/GCPsClbg9NfaFLnt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024732668538089472/pu/vid/avc1/480x796/aExkVzI4s4FAnXZT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024732668538089472/pu/vid/avc1/712x1182/erzdGde3A3fkEwZH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2024732668538089472/pu/pl/l1C0PDvHF2sSm3ut.m3u8"
+          }
+        ],
+        "width": 712
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2024732668525432832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBlLonCWUAAJinK.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2040446498274460160",
+        "created_at": "2026-04-04T15:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T16:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040446498274460160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/weita2024/stat…",
+              "end": 196,
+              "expanded_url": "https://twitter.com/weita2024/status/2024733289030754579",
+              "start": 173,
+              "url": "https://t.co/b1jfMbDDDN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040446498274460160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024733289030754579",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🇨🇳🇨🇳中国国内。\n🎫🎫正品大牌，一次性系列，烟弹，烟杆。\n热门品牌：悦刻relx，冰熊zgar，小崧系列song，鸭嘴兽大板砖snowplus，阿尔法赫，高维Gowif，icemax 冰爆正品回归！！bubblemon，elfbar\n-----------\n点击头像看联系方式➕➕➕客服，\n欢迎来了解。\n1件起全国邮寄，全品带售后，客户至上。 https://t.co/b1jfMbDDDN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2024732668538089472",
+            "3_2024732668525432832"
+          ]
+        },
+        "author_id": "1863153995159687168",
+        "conversation_id": "2024733289030754579",
+        "created_at": "2026-02-20T06:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T07:28:22.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024732846238163266",
+          "2024733289030754579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uIm2d1VjxL",
+              "end": 196,
+              "expanded_url": "https://x.com/weita2024/status/2024733289030754579/video/1",
+              "media_key": "7_2024732668538089472",
+              "start": 173,
+              "url": "https://t.co/uIm2d1VjxL"
+            },
+            {
+              "display_url": "pic.x.com/uIm2d1VjxL",
+              "end": 196,
+              "expanded_url": "https://x.com/weita2024/status/2024733289030754579/video/1",
+              "media_key": "3_2024732668525432832",
+              "start": 173,
+              "url": "https://t.co/uIm2d1VjxL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024733289030754579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8268,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "🇨🇳🇨🇳中国国内。\n🎫🎫正品大牌，一次性系列，烟弹，烟杆。\n热门品牌：悦刻relx，冰熊zgar，小崧系列song，鸭嘴兽大板砖snowplus，阿尔法赫，高维Gowif，icemax 冰爆正品回归！！bubblemon，elfbar\n-----------\n点击头像看联系方式➕➕➕客服，\n欢迎来了解。\n1件起全国邮寄，全品带售后，客户至上。 https://t.co/uIm2d1VjxL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15189,
+          "following_count": 116,
+          "like_count": 5293,
+          "listed_count": 29,
+          "media_count": 836,
+          "tweet_count": 6582
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T09:31:53.000Z",
+        "description": "#电子烟 各品牌正品零售联系方式：\n///薇v：RELX0️⃣1️⃣JK，///\n///QQ：2422848889，///\n///备用V：WKT9️⃣PD2️⃣2️⃣，///\n///TG：https://t.co/oqdMiOkDWM，///\n悦刻，冰熊，崧，鸭嘴兽，零售各种品牌正品电子烟。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "电子烟"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Vita0754",
+                "end": 117,
+                "expanded_url": "http://t.me/Vita0754",
+                "start": 94,
+                "url": "https://t.co/oqdMiOkDWM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Vita0754",
+                "end": 23,
+                "expanded_url": "http://t.me/Vita0754",
+                "start": 0,
+                "url": "https://t.co/oqdMiOkDWM"
+              }
+            ]
+          }
+        },
+        "id": "1863153995159687168",
+        "location": "广东",
+        "name": "百川🚬电子烟各品牌正品零售",
+        "pinned_tweet_id": "2024733289030754579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868962909750976512/JJyZLtyk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2742,
+          "following_count": 37,
+          "like_count": 1830,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 2225
+        },
+        "url": "https://t.co/oqdMiOkDWM",
+        "username": "weita2024",
+        "verified": true
+      }
+    ]
+  }
+}

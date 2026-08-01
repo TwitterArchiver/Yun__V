@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2075889413687574961",
+    "created_at": "2026-07-12T12:17:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:17:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076279800659132699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "928568796662587393",
+          "start": 0,
+          "username": "berkerleyliu13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076279800659132699",
+    "in_reply_to_user_id": "928568796662587393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076277876350218442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@berkerleyliu13 唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2075889413687574961",
+        "created_at": "2026-07-12T12:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076279800659132699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "928568796662587393",
+              "start": 0,
+              "username": "berkerleyliu13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076279800659132699",
+        "in_reply_to_user_id": "928568796662587393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076277876350218442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@berkerleyliu13 唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "928568796662587393",
+        "conversation_id": "2075889413687574961",
+        "created_at": "2026-07-12T12:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076277876350218442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076277876350218442",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076249214644822125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 上一次去都是4年前了，想念老61门口的taco还有早上摆摊卖的小馄炖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16013,
+          "following_count": 133,
+          "like_count": 5676,
+          "listed_count": 28,
+          "media_count": 874,
+          "tweet_count": 6938
+        },
+        "url": "",
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-09T10:23:47.000Z",
+        "description": "",
+        "id": "928568796662587393",
+        "name": "困",
+        "pinned_tweet_id": "2038143017853616526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964873423638908928/F03_otNg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 467,
+          "like_count": 18990,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 719
+        },
+        "url": "",
+        "username": "berkerleyliu13",
+        "verified": false
+      }
+    ]
+  }
+}

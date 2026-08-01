@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1980279110955102431",
+    "created_at": "2025-10-20T14:29:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T15:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980280282323575079"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1980280282323575079",
+    "in_reply_to_user_id": "1650126478213001216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980279110955102431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "上次和小蛆在成都在别人家喝酒玩游戏我喝得很大喝吐了 小蛆说她和另外一个人照顾我在厕所吐的时候一直在道歉一直在说给你们添麻烦了对不起 她很心疼 下意识的反应好恐怖好难过 我也没想到我喝成傻逼后还在愧疚 所以现在也经常很怕再喝断片麻烦朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1980279110955102431",
+        "created_at": "2025-10-20T14:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T15:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980280282323575079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980280282323575079",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980279110955102431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上次和小蛆在成都在别人家喝酒玩游戏我喝得很大喝吐了 小蛆说她和另外一个人照顾我在厕所吐的时候一直在道歉一直在说给你们添麻烦了对不起 她很心疼 下意识的反应好恐怖好难过 我也没想到我喝成傻逼后还在愧疚 所以现在也经常很怕再喝断片麻烦朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1980279110955102431",
+        "created_at": "2025-10-20T14:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T15:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980279110955102431"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980279110955102431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也许真的不会想再去成都这个城市了 对这个地方有太多阴影了 想到二月份在成都浑浑噩噩每天磕药磕成傻逼做一些傻逼事 想到和朋友在家吧门口吵架我又泪失禁忍不住在很多人面前哭 也是除了和我吵架的朋友没有一个人理我甚至一句话也不问 我真的不想总是哭了我讨厌哭讨厌在人面前哭 好想不泪失禁体质"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 在脊柱上紋一對翅膀我會飛走嗎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1957837993022222486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14353,
+          "following_count": 104,
+          "like_count": 4882,
+          "listed_count": 28,
+          "media_count": 758,
+          "tweet_count": 6018
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

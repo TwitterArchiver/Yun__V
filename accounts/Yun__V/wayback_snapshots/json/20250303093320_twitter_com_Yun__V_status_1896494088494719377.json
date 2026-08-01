@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1896494088494719377",
+    "created_at": "2025-03-03T09:33:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T10:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896494088494719377"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1896494088494719377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在小乔家的沙发上 早上下了雨 然后天阴到现在 我听了一天纯音乐 屋子里没有开灯 暗暗的 整个房间都是冷色调 喜欢这样的天气 小猫在我旁边躺着睡觉 我四点的时候吃了愈美 六点爬起来吐 头还是晕晕的 我总是无法舍弃好多东西 我发消息问他对我还有没有感情 他没有回我 我昨晚又哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1896494088494719377",
+        "created_at": "2025-03-03T09:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T10:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896494088494719377"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896494088494719377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在小乔家的沙发上 早上下了雨 然后天阴到现在 我听了一天纯音乐 屋子里没有开灯 暗暗的 整个房间都是冷色调 喜欢这样的天气 小猫在我旁边躺着睡觉 我四点的时候吃了愈美 六点爬起来吐 头还是晕晕的 我总是无法舍弃好多东西 我发消息问他对我还有没有感情 他没有回我 我昨晚又哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 🐦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1886731232559686084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896312946994937856/JzQllmQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10816,
+          "following_count": 212,
+          "like_count": 4160,
+          "listed_count": 23,
+          "media_count": 558,
+          "tweet_count": 4795
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

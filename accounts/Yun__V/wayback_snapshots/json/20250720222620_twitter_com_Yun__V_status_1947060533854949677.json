@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1947060533854949677",
+    "created_at": "2025-07-20T22:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T23:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947060533854949677"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1947060533854949677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 450,
+      "like_count": 10,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "請用眼睛抱緊我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1947060533854949677",
+        "created_at": "2025-07-20T22:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T23:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947060533854949677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947060533854949677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 450,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "請用眼睛抱緊我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 我養的鳥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1941923000317546552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13299,
+          "following_count": 98,
+          "like_count": 4591,
+          "listed_count": 25,
+          "media_count": 638,
+          "tweet_count": 5340
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

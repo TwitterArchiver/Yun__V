@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1952192935430365353",
+    "created_at": "2025-08-04T22:45:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T23:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952501137384599750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1708778379405905920",
+          "start": 0,
+          "username": "qnln1130301"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952501137384599750",
+    "in_reply_to_user_id": "1708778379405905920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952492455233769907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qnln1130301 感觉我有吸脑残体质"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1952192935430365353",
+        "created_at": "2025-08-04T22:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T23:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952501137384599750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708778379405905920",
+              "start": 0,
+              "username": "qnln1130301"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952501137384599750",
+        "in_reply_to_user_id": "1708778379405905920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952492455233769907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qnln1130301 感觉我有吸脑残体质"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708778379405905920",
+        "conversation_id": "1952192935430365353",
+        "created_at": "2025-08-04T22:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T23:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952492455233769907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952492455233769907",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952192935430365353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 为什么你的帖和dy下面永远有这么多情商低的脑残"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 today is the greatest",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：afterthesheep",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1941923000317546552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13954,
+          "following_count": 98,
+          "like_count": 4622,
+          "listed_count": 26,
+          "media_count": 665,
+          "tweet_count": 5429
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-02T09:38:16.000Z",
+        "description": "",
+        "id": "1708778379405905920",
+        "name": "imll",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716165303917576192/P86XlzDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 87,
+          "like_count": 388,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 341
+        },
+        "username": "qnln1130301",
+        "verified": false
+      }
+    ]
+  }
+}

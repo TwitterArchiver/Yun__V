@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1867057375271907626",
+    "created_at": "2024-12-12T04:02:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T05:02:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1867057375271907626"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1867057375271907626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我喜欢会滑板会乐器的人、尤其钢琴和吉他 我喜欢有明确爱好有特长的人 因为我没有任何特长"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1867057375271907626",
+        "created_at": "2024-12-12T04:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T05:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867057375271907626"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1867057375271907626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢会滑板会乐器的人、尤其钢琴和吉他 我喜欢有明确爱好有特长的人 因为我没有任何特长"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8926,
+          "following_count": 171,
+          "like_count": 3386,
+          "listed_count": 21,
+          "media_count": 483,
+          "tweet_count": 3783
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1866466101095469220",
+    "created_at": "2024-12-11T11:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T12:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866801025195315285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1289983231249408001",
+          "start": 0,
+          "username": "xyz2052"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866801025195315285",
+    "in_reply_to_user_id": "1289983231249408001",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866742788056023104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xyz2052 私信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1866466101095469220",
+        "created_at": "2024-12-11T11:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T12:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866801025195315285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1289983231249408001",
+              "start": 0,
+              "username": "xyz2052"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866801025195315285",
+        "in_reply_to_user_id": "1289983231249408001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866742788056023104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyz2052 私信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289983231249408001",
+        "conversation_id": "1866466101095469220",
+        "created_at": "2024-12-11T07:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T08:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866742788056023104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866742788056023104",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866466101095469220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 也在南京，想问个价格让我死心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866383708397490307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8671,
+          "following_count": 170,
+          "like_count": 3354,
+          "listed_count": 20,
+          "media_count": 480,
+          "tweet_count": 3753
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-02T17:55:53.000Z",
+        "description": "",
+        "id": "1289983231249408001",
+        "name": "yz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1582107416283344896/XY0tkK7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 293,
+          "like_count": 287,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 78
+        },
+        "username": "xyz2052",
+        "verified": false
+      }
+    ]
+  }
+}

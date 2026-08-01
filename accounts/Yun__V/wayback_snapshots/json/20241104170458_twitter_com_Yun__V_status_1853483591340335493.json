@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1853218429584789822",
+    "created_at": "2024-11-04T17:04:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T18:04:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853483591340335493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1668303356824104968",
+          "start": 0,
+          "username": "1203i00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853483591340335493",
+    "in_reply_to_user_id": "1668303356824104968",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853464965010911249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1203i00 好！谢谢宝宝 目前只打算先给自己穿TvT所以以后再考虑专业系统的学习！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1853218429584789822",
+        "created_at": "2024-11-04T17:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T18:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853483591340335493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1668303356824104968",
+              "start": 0,
+              "username": "1203i00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853483591340335493",
+        "in_reply_to_user_id": "1668303356824104968",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853464965010911249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1203i00 好！谢谢宝宝 目前只打算先给自己穿TvT所以以后再考虑专业系统的学习！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668303356824104968",
+        "conversation_id": "1853218429584789822",
+        "created_at": "2024-11-04T15:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T16:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853464965010911249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853464965010911249",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853462350718009780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V bb 如果只是简单随便的穿一下的穿孔的确可以简单学到，但是穿孔是很需要经验的，而且对知识的掌握也有一定要求，后期护理之类的问题也很麻烦，所以如果你想学还是建议找到一个认真负责的老师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1849804879109451906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6883,
+          "following_count": 228,
+          "like_count": 3015,
+          "listed_count": 17,
+          "tweet_count": 3338
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-12T17:05:02.000Z",
+        "description": "南昌穿孔！tattoo学习中 烟代私信  https://t.co/lI4YjCJcuK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/pa0pa_00/profi…",
+                "end": 44,
+                "expanded_url": "https://www.instagram.com/pa0pa_00/profilecard/?igsh=cHphMXpmN2RyaGgx",
+                "start": 21,
+                "url": "https://t.co/lI4YjCJcuK"
+              }
+            ]
+          }
+        },
+        "id": "1668303356824104968",
+        "name": "oOo0oOo",
+        "pinned_tweet_id": "1833025145507914171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804534829209600000/waVKafi4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 439,
+          "like_count": 4379,
+          "listed_count": 1,
+          "tweet_count": 1617
+        },
+        "username": "1203i00",
+        "verified": false
+      }
+    ]
+  }
+}

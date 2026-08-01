@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1932893356746813711",
+    "created_at": "2025-06-11T20:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T21:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932898101012148507"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1932898101012148507",
+    "in_reply_to_user_id": "1650126478213001216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932893356746813711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然蛋也是她煎的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1932893343798939648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtMEQVnaUAA5loF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1932893356746813711",
+        "created_at": "2025-06-11T20:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T21:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932898101012148507"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932898101012148507",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932893356746813711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然蛋也是她煎的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932893343798939648"
+          ]
+        },
+        "author_id": "1650126478213001216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1932893356746813711",
+        "created_at": "2025-06-11T20:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T21:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932893356746813711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v26kD20l9p",
+              "end": 49,
+              "expanded_url": "https://x.com/Yun__V/status/1932893356746813711/photo/1",
+              "media_key": "3_1932893343798939648",
+              "start": 26,
+              "url": "https://t.co/v26kD20l9p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932893356746813711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天和朋友做了饭 虽然只有最简单的汤是我做的嗯，， https://t.co/v26kD20l9p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 我養的鳥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927314874956230656/FrPnF5AR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13034,
+          "following_count": 94,
+          "like_count": 4526,
+          "listed_count": 25,
+          "media_count": 597,
+          "tweet_count": 5146
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

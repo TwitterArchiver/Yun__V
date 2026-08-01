@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1979594100832702909",
+    "created_at": "2025-10-20T11:59:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T12:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980242364150292517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1491060404696465409",
+          "start": 0,
+          "username": "333andw1ch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980242364150292517",
+    "in_reply_to_user_id": "1491060404696465409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979594100832702909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@333andw1ch 笑他妈想死"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33233,
+        "height": 1280,
+        "media_key": "13_1979593959258140674",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1979593959258140674/img/NtTQzSo6097hJtFQ.jpg",
+        "public_metrics": {
+          "view_count": 383
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979593959258140674/vid/avc1/320x568/r-JFJ_AkJiYsXwkW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979593959258140674/vid/avc1/480x852/hr5sxBwlfzYBNLum.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979593959258140674/vid/avc1/720x1280/1wUD_bCYU4-5HQ2J.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1979593959258140674/pl/DS5fEbVQukOJTKbo.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1979594100832702909",
+        "created_at": "2025-10-20T11:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T12:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980242364150292517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1491060404696465409",
+              "start": 0,
+              "username": "333andw1ch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980242364150292517",
+        "in_reply_to_user_id": "1491060404696465409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979594100832702909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@333andw1ch 笑他妈想死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1979593959258140674"
+          ]
+        },
+        "author_id": "1491060404696465409",
+        "conversation_id": "1979594100832702909",
+        "created_at": "2025-10-18T17:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T18:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979594100832702909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8vJOG5ukx8",
+              "end": 28,
+              "expanded_url": "https://x.com/333andw1ch/status/1979594100832702909/video/1",
+              "media_key": "13_1979593959258140674",
+              "start": 5,
+              "url": "https://t.co/8vJOG5ukx8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979594100832702909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 335,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "误闯天家 https://t.co/8vJOG5ukx8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 在脊柱上紋一對翅膀我會飛走嗎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1957837993022222486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14352,
+          "following_count": 104,
+          "like_count": 4877,
+          "listed_count": 28,
+          "media_count": 757,
+          "tweet_count": 6006
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T14:44:51.000Z",
+        "description": "人体摄影师 废物贝斯手",
+        "id": "1491060404696465409",
+        "location": "新世界",
+        "name": "虫",
+        "pinned_tweet_id": "1920490129291944157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818553174095282176/AV40QRu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 97,
+          "like_count": 5474,
+          "listed_count": 7,
+          "media_count": 166,
+          "tweet_count": 578
+        },
+        "username": "333andw1ch",
+        "verified": false
+      }
+    ]
+  }
+}

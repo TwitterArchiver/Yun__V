@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1974564502869029251",
+    "created_at": "2025-10-04T20:01:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T21:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974565600530956600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1250481447606968322",
+          "start": 0,
+          "username": "DoyleMeridian"
+        },
+        {
+          "end": 20,
+          "id": "1720665183188922368",
+          "start": 15,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974565600530956600",
+    "in_reply_to_user_id": "1250481447606968322",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974564502869029251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DoyleMeridian @grok 叛徒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1974564502869029251",
+        "created_at": "2025-10-04T20:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T21:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974565600530956600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1250481447606968322",
+              "start": 0,
+              "username": "DoyleMeridian"
+            },
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974565600530956600",
+        "in_reply_to_user_id": "1250481447606968322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974564502869029251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DoyleMeridian @grok 叛徒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1250481447606968322",
+        "conversation_id": "1974564502869029251",
+        "created_at": "2025-10-04T19:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T20:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974564502869029251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 42,
+              "id": "1720665183188922368",
+              "start": 37,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/1974423772854886793",
+              "start": 146,
+              "url": "https://t.co/56M2dTKEs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974564502869029251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974423772854886793",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "參考在和我互相關注的人中的推文，也包括我的推文，只用暱稱告訴我，不要用@\n@grok\n叛徒：\n特務：\n大軍閥：\n反黨分子：\n野心家：\n走資派：\n投降派；\n修正主義：\n大惡霸：\n黑線人物：\n不革命：\n黑秀才：\n黑手：\n黑幫凶：\n造謠公司：\n傳話筒：\n逆流：\n邪風：\n小爬蟲：\n資產階級野心家： https://t.co/56M2dTKEs1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 在脊柱上紋一對翅膀我會飛走嗎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1957837993022222486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14161,
+          "following_count": 98,
+          "like_count": 4732,
+          "listed_count": 28,
+          "media_count": 726,
+          "tweet_count": 5819
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-15T17:50:06.000Z",
+        "description": "送我上青云。",
+        "id": "1250481447606968322",
+        "location": "0.1km",
+        "name": "仇。",
+        "pinned_tweet_id": "1972931182112407722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1473559953084272640/5MjV1KAs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4285,
+          "following_count": 324,
+          "like_count": 2695,
+          "listed_count": 12,
+          "media_count": 60,
+          "tweet_count": 2085
+        },
+        "username": "DoyleMeridian",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6385743,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 5040,
+          "media_count": 2683147,
+          "tweet_count": 54002198
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

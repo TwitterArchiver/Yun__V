@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1893729323447689597",
+    "created_at": "2025-02-23T18:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T19:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893729323447689597"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1893729323447689597",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Hi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1893729323447689597",
+        "created_at": "2025-02-23T18:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T19:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893729323447689597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893729323447689597",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Hi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "冬の光が射していた",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1886731232559686084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10808,
+          "following_count": 215,
+          "like_count": 4183,
+          "listed_count": 23,
+          "media_count": 556,
+          "tweet_count": 4776
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

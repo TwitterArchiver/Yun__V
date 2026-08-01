@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2029974027469737986"
+      ]
+    },
+    "author_id": "1650126478213001216",
+    "conversation_id": "2029974089331614057",
+    "created_at": "2026-03-06T17:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T18:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029974089331614057"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AkQcexYV5D",
+          "end": 36,
+          "expanded_url": "https://x.com/Yun__V/status/2029974089331614057/video/1",
+          "media_key": "13_2029974027469737986",
+          "start": 13,
+          "url": "https://t.co/AkQcexYV5D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029974089331614057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁能教我弹吉他我好崩溃！ https://t.co/AkQcexYV5D"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13000,
+        "height": 720,
+        "media_key": "13_2029974027469737986",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2029974027469737986/img/uApePgvRtIfJusCA.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029974027469737986/vid/avc1/480x270/ct8PUxrsy9X5k80Q.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029974027469737986/vid/avc1/640x360/qEW4ACsTXOAHrV9C.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029974027469737986/vid/avc1/1280x720/C_xKYgOhYQ3ix_6c.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2029974027469737986/pl/-QwyWYp5Xyg-10VC.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029974027469737986"
+          ]
+        },
+        "author_id": "1650126478213001216",
+        "conversation_id": "2029974089331614057",
+        "created_at": "2026-03-06T17:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T18:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029974089331614057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AkQcexYV5D",
+              "end": 36,
+              "expanded_url": "https://x.com/Yun__V/status/2029974089331614057/video/1",
+              "media_key": "13_2029974027469737986",
+              "start": 13,
+              "url": "https://t.co/AkQcexYV5D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029974089331614057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁能教我弹吉他我好崩溃！ https://t.co/AkQcexYV5D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15009,
+          "following_count": 118,
+          "like_count": 5164,
+          "listed_count": 28,
+          "media_count": 829,
+          "tweet_count": 6463
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

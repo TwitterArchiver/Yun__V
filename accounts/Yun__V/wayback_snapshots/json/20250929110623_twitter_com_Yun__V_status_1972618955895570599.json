@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972610783478751232"
+      ],
+      "media_source_tweet_id": [
+        "1972610793696059820"
+      ]
+    },
+    "author_id": "1650126478213001216",
+    "conversation_id": "1972618955895570599",
+    "created_at": "2025-09-29T11:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T12:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972618955895570599"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 46,
+          "tag": "上海"
+        },
+        {
+          "end": 54,
+          "start": 50,
+          "tag": "江浙沪"
+        },
+        {
+          "end": 59,
+          "start": 55,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 63,
+          "start": 60,
+          "tag": "非绿"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1556770191660355585",
+          "start": 3,
+          "username": "webgangst1r"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YE6OyYgkhV",
+          "end": 87,
+          "expanded_url": "https://x.com/webgangst1r/status/1972610793696059820/photo/1",
+          "media_key": "3_1972610783478751232",
+          "start": 64,
+          "url": "https://t.co/YE6OyYgkhV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972618955895570599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972610793696059820",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @webgangst1r: 接上海爸爸活 请帮我转发，线下门槛是188，好友位是52 #上海 #江浙沪 #爸爸活 #非绿 https://t.co/YE6OyYgkhV"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1972618955895570599].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1972618955895570599",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1972618955895570599"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1972610783478751232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2AfDmVbIAAur6f.jpg",
+        "width": 728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972610783478751232"
+          ]
+        },
+        "author_id": "1556770191660355585",
+        "conversation_id": "1972610793696059820",
+        "created_at": "2025-09-29T10:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T11:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972610793696059820"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "上海"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "非绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YE6OyYgkhV",
+              "end": 70,
+              "expanded_url": "https://x.com/webgangst1r/status/1972610793696059820/photo/1",
+              "media_key": "3_1972610783478751232",
+              "start": 47,
+              "url": "https://t.co/YE6OyYgkhV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972610793696059820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "接上海爸爸活 请帮我转发，线下门槛是188，好友位是52 #上海 #江浙沪 #爸爸活 #非绿 https://t.co/YE6OyYgkhV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 在脊柱上紋一對翅膀我會飛走嗎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1957837993022222486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14193,
+          "following_count": 97,
+          "like_count": 4717,
+          "listed_count": 28,
+          "media_count": 722,
+          "tweet_count": 5778
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T22:32:04.000Z",
+        "description": "edtwt/shtwt🚪52 188 520私信只回复口令",
+        "id": "1556770191660355585",
+        "name": "瓜",
+        "pinned_tweet_id": "1964565085457899904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893345266662596609/heQFvQiE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 44,
+          "like_count": 84,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 311
+        },
+        "username": "webgangst1r",
+        "verified": false
+      }
+    ]
+  }
+}

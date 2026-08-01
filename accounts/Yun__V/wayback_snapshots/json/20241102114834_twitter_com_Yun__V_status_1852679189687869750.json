@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1852678728457077117",
+    "created_at": "2024-11-02T11:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T12:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852679189687869750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1669034162832146433",
+          "start": 0,
+          "username": "minmin1269967"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852679189687869750",
+    "in_reply_to_user_id": "1669034162832146433",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852678728457077117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minmin1269967 我也胖了十斤好崩溃"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1852678728457077117].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1852678728457077117",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1852678728457077117"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1852678728457077117",
+        "created_at": "2024-11-02T11:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T12:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852679189687869750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1669034162832146433",
+              "start": 0,
+              "username": "minmin1269967"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852679189687869750",
+        "in_reply_to_user_id": "1669034162832146433",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852678728457077117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minmin1269967 我也胖了十斤好崩溃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1849804879109451906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6784,
+          "following_count": 228,
+          "like_count": 2990,
+          "listed_count": 16,
+          "tweet_count": 3311
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T17:28:57.000Z",
+        "description": "挠颤勿扰，男的关注评论我死全家",
+        "id": "1669034162832146433",
+        "name": "1",
+        "pinned_tweet_id": "1832475317023191425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852660270780596224/nskZ3MMP_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 147,
+          "like_count": 1316,
+          "listed_count": 0,
+          "tweet_count": 1403
+        },
+        "username": "minmin1269967",
+        "verified": false
+      }
+    ]
+  }
+}

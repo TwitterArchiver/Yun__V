@@ -1,0 +1,206 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1804839842708119750",
+    "created_at": "2024-06-23T11:35:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T12:35:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804840763400061379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1669034162832146433",
+          "start": 0,
+          "username": "minmin1269967"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804840763400061379",
+    "in_reply_to_user_id": "1669034162832146433",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804839842708119750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minmin1269967 🫂宝宝你特别棒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1804839842708119750",
+        "created_at": "2024-06-23T11:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T12:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804840763400061379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1669034162832146433",
+              "start": 0,
+              "username": "minmin1269967"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804840763400061379",
+        "in_reply_to_user_id": "1669034162832146433",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804839842708119750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minmin1269967 🫂宝宝你特别棒"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804839816808341504"
+          ]
+        },
+        "author_id": "1669034162832146433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1804839842708119750",
+        "created_at": "2024-06-23T11:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T12:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804839842708119750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/3RaUADx7fg",
+              "end": 23,
+              "expanded_url": "https://twitter.com/minmin1269967/status/1804839842708119750/photo/1",
+              "media_key": "3_1804839816808341504",
+              "start": 0,
+              "url": "https://t.co/3RaUADx7fg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804839842708119750",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3RaUADx7fg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪250/520",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "http://wwl.sogood9.com/#/register?code=S3l8RLvL",
+                "start": 0,
+                "url": "https://t.co/ciduMojuDG"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "自用🪜",
+        "name": "羊儿的聪明难以想象",
+        "pinned_tweet_id": "1755285158981439622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804185790429433863/ZcdrTjv7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5280,
+          "following_count": 219,
+          "like_count": 2597,
+          "listed_count": 16,
+          "tweet_count": 2786
+        },
+        "url": "https://t.co/ciduMojuDG",
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T17:28:57.000Z",
+        "description": "男的私信关注我会被我拉黑，不是互fo请别评论我会咔",
+        "id": "1669034162832146433",
+        "name": "克夫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804485512952008704/-VtCJzTm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 106,
+          "like_count": 883,
+          "listed_count": 0,
+          "tweet_count": 882
+        },
+        "username": "minmin1269967",
+        "verified": false
+      }
+    ]
+  }
+}

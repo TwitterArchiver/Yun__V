@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075167788159979520",
+        "3_2075167788168253440",
+        "3_2075167788159860736"
+      ],
+      "media_source_tweet_id": [
+        "2075167801283850715",
+        "2075167801283850715",
+        "2075167801283850715"
+      ]
+    },
+    "author_id": "1650126478213001216",
+    "conversation_id": "2075212340296052957",
+    "created_at": "2026-07-09T13:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T14:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075212340296052957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1658881840349061120",
+          "start": 3,
+          "username": "CJing3_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2CYdie70tI",
+          "end": 74,
+          "expanded_url": "https://x.com/CJing3_/status/2075167801283850715/photo/1",
+          "media_key": "3_2075167788159979520",
+          "start": 51,
+          "url": "https://t.co/2CYdie70tI"
+        },
+        {
+          "display_url": "pic.x.com/2CYdie70tI",
+          "end": 74,
+          "expanded_url": "https://x.com/CJing3_/status/2075167801283850715/photo/1",
+          "media_key": "3_2075167788168253440",
+          "start": 51,
+          "url": "https://t.co/2CYdie70tI"
+        },
+        {
+          "display_url": "pic.x.com/2CYdie70tI",
+          "end": 74,
+          "expanded_url": "https://x.com/CJing3_/status/2075167801283850715/photo/1",
+          "media_key": "3_2075167788159860736",
+          "start": 51,
+          "url": "https://t.co/2CYdie70tI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075212340296052957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075167801283850715",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CJing3_: 有没有好心人赏我点钱\n打了十天工  医药费花了一万🥲\n（帮忙转转谢谢你们） https://t.co/2CYdie70tI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 875,
+        "media_key": "3_2075167788159979520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMx6G86b0AAX4l0.jpg",
+        "width": 1028
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2075167788168253440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMx6G88aEAA9sww.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1800,
+        "media_key": "3_2075167788159860736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMx6G86aAAAtYu7.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075167788159979520",
+            "3_2075167788168253440",
+            "3_2075167788159860736"
+          ],
+          "media_source_tweet_id": [
+            "2075167801283850715",
+            "2075167801283850715",
+            "2075167801283850715"
+          ]
+        },
+        "author_id": "1650126478213001216",
+        "conversation_id": "2075212340296052957",
+        "created_at": "2026-07-09T13:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T14:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075212340296052957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1658881840349061120",
+              "start": 3,
+              "username": "CJing3_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2CYdie70tI",
+              "end": 74,
+              "expanded_url": "https://x.com/CJing3_/status/2075167801283850715/photo/1",
+              "media_key": "3_2075167788159979520",
+              "start": 51,
+              "url": "https://t.co/2CYdie70tI"
+            },
+            {
+              "display_url": "pic.x.com/2CYdie70tI",
+              "end": 74,
+              "expanded_url": "https://x.com/CJing3_/status/2075167801283850715/photo/1",
+              "media_key": "3_2075167788168253440",
+              "start": 51,
+              "url": "https://t.co/2CYdie70tI"
+            },
+            {
+              "display_url": "pic.x.com/2CYdie70tI",
+              "end": 74,
+              "expanded_url": "https://x.com/CJing3_/status/2075167801283850715/photo/1",
+              "media_key": "3_2075167788159860736",
+              "start": 51,
+              "url": "https://t.co/2CYdie70tI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075212340296052957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075167801283850715",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CJing3_: 有没有好心人赏我点钱\n打了十天工  医药费花了一万🥲\n（帮忙转转谢谢你们） https://t.co/2CYdie70tI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075167788159979520",
+            "3_2075167788168253440",
+            "3_2075167788159860736"
+          ]
+        },
+        "author_id": "1658881840349061120",
+        "conversation_id": "2075167801283850715",
+        "created_at": "2026-07-09T10:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075167801283850715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2CYdie70tI",
+              "end": 61,
+              "expanded_url": "https://x.com/CJing3_/status/2075167801283850715/photo/1",
+              "media_key": "3_2075167788159979520",
+              "start": 38,
+              "url": "https://t.co/2CYdie70tI"
+            },
+            {
+              "display_url": "pic.x.com/2CYdie70tI",
+              "end": 61,
+              "expanded_url": "https://x.com/CJing3_/status/2075167801283850715/photo/1",
+              "media_key": "3_2075167788168253440",
+              "start": 38,
+              "url": "https://t.co/2CYdie70tI"
+            },
+            {
+              "display_url": "pic.x.com/2CYdie70tI",
+              "end": 61,
+              "expanded_url": "https://x.com/CJing3_/status/2075167801283850715/photo/1",
+              "media_key": "3_2075167788159860736",
+              "start": 38,
+              "url": "https://t.co/2CYdie70tI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075167801283850715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 346,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "有没有好心人赏我点钱\n打了十天工  医药费花了一万🥲\n（帮忙转转谢谢你们） https://t.co/2CYdie70tI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15921,
+          "following_count": 128,
+          "like_count": 5662,
+          "listed_count": 28,
+          "media_count": 873,
+          "tweet_count": 6925
+        },
+        "url": "",
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T17:07:32.000Z",
+        "description": "@Cjing4_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "Cjing4_"
+              }
+            ]
+          }
+        },
+        "id": "1658881840349061120",
+        "location": "轉載Reprint🚫 orca",
+        "name": "楚鯨（出车祸版）",
+        "pinned_tweet_id": "2075167801283850715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003866770214658049/ySQGbvN5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10513,
+          "following_count": 197,
+          "like_count": 10886,
+          "listed_count": 18,
+          "media_count": 23,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "CJing3_",
+        "verified": false
+      }
+    ]
+  }
+}

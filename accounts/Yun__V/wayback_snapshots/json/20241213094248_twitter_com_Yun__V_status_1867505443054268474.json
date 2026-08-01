@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1867495812680626414",
+    "created_at": "2024-12-13T09:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T10:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867505443054268474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "136189271",
+          "start": 0,
+          "username": "syeerzy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867505443054268474",
+    "in_reply_to_user_id": "136189271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867503458741629372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@syeerzy 好精準的表達"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1867495812680626414",
+        "created_at": "2024-12-13T09:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T10:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867505443054268474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "136189271",
+              "start": 0,
+              "username": "syeerzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867505443054268474",
+        "in_reply_to_user_id": "136189271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867503458741629372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syeerzy 好精準的表達"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "136189271",
+        "conversation_id": "1867495812680626414",
+        "created_at": "2024-12-13T09:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T10:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867503458741629372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867503458741629372",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867495812680626414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 就是穷人给你钱，有钱人给你时间….."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9108,
+          "following_count": 177,
+          "like_count": 3464,
+          "listed_count": 21,
+          "media_count": 488,
+          "tweet_count": 3857
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-23T07:35:31.000Z",
+        "description": "口琴 @zbjyj ｜印象派油画 ｜ 高级分析员｜ F#｜Clojure ｜Haskell｜Scheme｜CommonLISP｜Rust ｜Q# ｜明日方舟｜乒乓球｜五子棋｜毽子 ｜800米 ｜汪星人｜胶佬 ｜桥牌 ｜滇红 ｜咖啡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 3,
+                "username": "zbjyj"
+              }
+            ]
+          }
+        },
+        "id": "136189271",
+        "location": "宇宙中心街道",
+        "name": " 快乐永远 ",
+        "pinned_tweet_id": "1865395734117498913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1113998959/1stochisan_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8454,
+          "following_count": 490,
+          "like_count": 55,
+          "listed_count": 52,
+          "media_count": 1759,
+          "tweet_count": 35308
+        },
+        "username": "syeerzy",
+        "verified": false
+      }
+    ]
+  }
+}

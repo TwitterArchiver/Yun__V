@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1886125558578413994",
+    "created_at": "2025-02-02T23:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T00:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886202400794681569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1697274932953280512",
+          "start": 0,
+          "username": "ljz07130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886202400794681569",
+    "in_reply_to_user_id": "1697274932953280512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886125558578413994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ljz07130 我被卡出去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1886125558578413994",
+        "created_at": "2025-02-02T23:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T00:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886202400794681569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1697274932953280512",
+              "start": 0,
+              "username": "ljz07130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886202400794681569",
+        "in_reply_to_user_id": "1697274932953280512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886125558578413994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ljz07130 我被卡出去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697274932953280512",
+        "conversation_id": "1886125558578413994",
+        "created_at": "2025-02-02T18:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T19:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886125558578413994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "sadangel’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1Mnxn…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1MnxnDPvrYLGO",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1886125559421476864/BdfMVw6T?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1886125559421476864/BdfMVw6T?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: sadangel’s Space",
+              "unwound_url": "https://twitter.com/i/spaces/1MnxnDPvrYLGO/peek",
+              "url": "https://t.co/4yV9RyxEtt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886125558578413994",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4yV9RyxEtt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9872,
+          "following_count": 198,
+          "like_count": 4019,
+          "listed_count": 22,
+          "media_count": 546,
+          "tweet_count": 4442
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-31T15:47:41.000Z",
+        "description": "",
+        "id": "1697274932953280512",
+        "name": "sadangel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883079224476725248/onM8UQhe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 14,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "username": "ljz07130",
+        "verified": false
+      }
+    ]
+  }
+}

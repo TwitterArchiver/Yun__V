@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1971187241788785133",
+    "created_at": "2025-09-28T01:48:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T02:48:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972116267525095643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1625713033606750211",
+          "start": 0,
+          "username": "pa_oise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972116267525095643",
+    "in_reply_to_user_id": "1625713033606750211",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971187241788785133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pa_oise 秋天了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1971187241788785133",
+        "created_at": "2025-09-28T01:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T02:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972116267525095643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1625713033606750211",
+              "start": 0,
+              "username": "pa_oise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972116267525095643",
+        "in_reply_to_user_id": "1625713033606750211",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971187241788785133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pa_oise 秋天了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625713033606750211",
+        "conversation_id": "1971187241788785133",
+        "created_at": "2025-09-25T12:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T13:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971187241788785133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《拾桂记》，由 水仙斗活佛 演唱，收录于《小咸偶记（写作中）》专辑中，《拾桂记》下载，《拾桂记》在线试听，更多拾桂记相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/KwUn2PJ",
+              "end": 41,
+              "expanded_url": "https://163cn.tv/KwUn2PJ",
+              "images": [
+                {
+                  "height": 1439,
+                  "url": "https://pbs.twimg.com/news_img/1971187096884056064/xDGy-j_B?format=jpg&name=orig",
+                  "width": 1439
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1971187096884056064/xDGy-j_B?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 18,
+              "status": 200,
+              "title": "拾桂记 - 水仙斗活佛 - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=c&id=1333769463&PlayerStyles_SynchronousSharing=t3&fx-listentest=t3&H5_DownloadVIPGift=&userid=262035760&playerUIModeId=76001&app_version=9.2.90&dlt=0846",
+              "url": "https://t.co/7ZPVbvOzxJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971187241788785133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 442,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次闻到桂花香的时候是秋天记忆伊始https://t.co/7ZPVbvOzxJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 在脊柱上紋一對翅膀我會飛走嗎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1957837993022222486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14179,
+          "following_count": 99,
+          "like_count": 4705,
+          "listed_count": 28,
+          "media_count": 722,
+          "tweet_count": 5779
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-15T04:26:15.000Z",
+        "description": "蔓延在血管上的苔藓与蕨类",
+        "id": "1625713033606750211",
+        "name": "樹",
+        "pinned_tweet_id": "1962574787907330383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958186281118433280/_08Rbti9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 278,
+          "like_count": 1538,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 447
+        },
+        "username": "pa_oise",
+        "verified": true
+      }
+    ]
+  }
+}

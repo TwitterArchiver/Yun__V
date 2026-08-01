@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1916905693841691053",
+    "created_at": "2025-04-28T17:21:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T18:21:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916905693841691053"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1916905693841691053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "把\"去你的\"改成\"去你个鸟命\" 把\"好可怕\"改成\"天雷滚滚我好怕怕\" 把\"那咋了\"改成\"专和老天对着干\" 把\"笑死我了\"改成\"突破天劫我笑哈哈\" 把\"不想活了\"改成\"从来生死都看淡\""
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1916905693841691053",
+        "created_at": "2025-04-28T17:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T18:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916905693841691053"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916905693841691053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把\"去你的\"改成\"去你个鸟命\" 把\"好可怕\"改成\"天雷滚滚我好怕怕\" 把\"那咋了\"改成\"专和老天对着干\" 把\"笑死我了\"改成\"突破天劫我笑哈哈\" 把\"不想活了\"改成\"从来生死都看淡\""
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 🐦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "开朋友圈🚪288",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1904841644140097911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896312946994937856/JzQllmQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12046,
+          "following_count": 98,
+          "like_count": 4376,
+          "listed_count": 25,
+          "media_count": 589,
+          "tweet_count": 5047
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1866466101095469220",
+    "created_at": "2024-12-12T11:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T12:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867173403523948732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1865964776712794112",
+          "start": 0,
+          "username": "SunglassesPanda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867173403523948732",
+    "in_reply_to_user_id": "1865964776712794112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866826066045833519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SunglassesPanda 那你给我钱买别的衣服😙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1866466101095469220",
+        "created_at": "2024-12-12T11:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T12:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867173403523948732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1865964776712794112",
+              "start": 0,
+              "username": "SunglassesPanda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867173403523948732",
+        "in_reply_to_user_id": "1865964776712794112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866826066045833519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SunglassesPanda 那你给我钱买别的衣服😙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865964776712794112",
+        "conversation_id": "1866466101095469220",
+        "created_at": "2024-12-11T12:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T13:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866826066045833519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866826066045833519",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866466101095469220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 哥们别穿报纸了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9023,
+          "following_count": 173,
+          "like_count": 3413,
+          "listed_count": 21,
+          "media_count": 485,
+          "tweet_count": 3800
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T03:41:20.000Z",
+        "description": "闲来逛逛喽",
+        "id": "1865964776712794112",
+        "name": "NDA0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865965019445526528/kSM65zgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 17,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "username": "SunglassesPanda",
+        "verified": false
+      }
+    ]
+  }
+}

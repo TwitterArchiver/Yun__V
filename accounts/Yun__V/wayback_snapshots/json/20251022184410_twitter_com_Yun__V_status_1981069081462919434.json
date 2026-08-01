@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1981069081462919434",
+    "created_at": "2025-10-22T18:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T19:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981069081462919434"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1981069081462919434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "空调的遥控器好像突然出问题了我现在只能穿着毛领外套盖被子睡觉并且还是觉得冷。。操啊这次来上海根本没带厚一点的衣服都是很单薄的长袖T恤衬衫长裙和一套水手服短袖短裙 求放过吧我每天都要冻死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1981069081462919434",
+        "created_at": "2025-10-22T18:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T19:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981069081462919434"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981069081462919434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "空调的遥控器好像突然出问题了我现在只能穿着毛领外套盖被子睡觉并且还是觉得冷。。操啊这次来上海根本没带厚一点的衣服都是很单薄的长袖T恤衬衫长裙和一套水手服短袖短裙 求放过吧我每天都要冻死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 在脊柱上紋一對翅膀我會飛走嗎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1957837993022222486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14353,
+          "following_count": 106,
+          "like_count": 4895,
+          "listed_count": 28,
+          "media_count": 764,
+          "tweet_count": 6061
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

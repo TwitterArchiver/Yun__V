@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1887128802846965939",
+    "created_at": "2025-02-05T13:21:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T14:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887129349956280582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1530574799130738688",
+          "start": 0,
+          "username": "219slm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887129349956280582",
+    "in_reply_to_user_id": "1530574799130738688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887129082254770494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@219slm 难受中TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1887128802846965939",
+        "created_at": "2025-02-05T13:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T14:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887129349956280582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1530574799130738688",
+              "start": 0,
+              "username": "219slm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887129349956280582",
+        "in_reply_to_user_id": "1530574799130738688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887129082254770494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@219slm 难受中TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530574799130738688",
+        "conversation_id": "1887128802846965939",
+        "created_at": "2025-02-05T13:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T14:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887129082254770494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887129082254770494",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887128802846965939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 宝宝难不难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10252,
+          "following_count": 200,
+          "like_count": 4033,
+          "listed_count": 22,
+          "media_count": 544,
+          "tweet_count": 4480
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T15:40:59.000Z",
+        "description": "🚪188 只回复口令➕姓 不过门槛不回复 纯绿聊天 🚪赞赏码也可 带备注并且私信截图 不线下",
+        "id": "1530574799130738688",
+        "name": "塑料猫",
+        "pinned_tweet_id": "1885982053927407799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885898532294725632/uG2ulx8O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 2075,
+          "like_count": 4836,
+          "listed_count": 16,
+          "media_count": 81,
+          "tweet_count": 980
+        },
+        "username": "219slm",
+        "verified": false
+      }
+    ]
+  }
+}

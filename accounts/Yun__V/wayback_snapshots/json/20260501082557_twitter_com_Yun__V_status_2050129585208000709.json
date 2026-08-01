@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2050128470215204975",
+    "created_at": "2026-05-01T08:25:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T09:25:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050129585208000709"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050129585208000709",
+    "in_reply_to_user_id": "1650126478213001216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050128470215204975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就像绿日的《last night on the earth》一样，就像the cure的《lovesong》一样，就像列侬的《oh my love》一样。我们的生命中只有彼此好不好，你只需要我我也只需要你好不好，我们极端地畸形地绑定在一起好不好，我们之间的红线永远都不会断开好不好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2050128470215204975",
+        "created_at": "2026-05-01T08:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T09:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050129585208000709"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050129585208000709",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050128470215204975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就像绿日的《last night on the earth》一样，就像the cure的《lovesong》一样，就像列侬的《oh my love》一样。我们的生命中只有彼此好不好，你只需要我我也只需要你好不好，我们极端地畸形地绑定在一起好不好，我们之间的红线永远都不会断开好不好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2050128470215204975",
+        "created_at": "2026-05-01T08:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T09:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050128470215204975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050128470215204975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们都不要再逃跑了，我们纠缠一辈子吧。互相陪伴也好、安慰也好伤害也好，我们一直一直在一起吧。只要你还爱我，只要我还爱你。我们都不要再推开对方了，我们一起逃离这个世界逃离一切荒唐的可笑的令人恶心的东西吧，只有我们两个人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15643,
+          "following_count": 120,
+          "like_count": 5411,
+          "listed_count": 31,
+          "media_count": 845,
+          "tweet_count": 6711
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

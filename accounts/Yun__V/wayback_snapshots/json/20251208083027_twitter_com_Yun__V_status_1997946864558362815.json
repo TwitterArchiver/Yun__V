@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1997946864558362815",
+    "created_at": "2025-12-08T08:30:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T09:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997946864558362815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1324943600929529857",
+          "start": 3,
+          "username": "chucaorenlei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997946864558362815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 154
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997618997903437903",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chucaorenlei: 圣诞老人 请让我也成为别人珍视的人吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1997946864558362815",
+        "created_at": "2025-12-08T08:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T09:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997946864558362815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1324943600929529857",
+              "start": 3,
+              "username": "chucaorenlei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997946864558362815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 154
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997618997903437903",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chucaorenlei: 圣诞老人 请让我也成为别人珍视的人吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1324943600929529857",
+        "conversation_id": "1997618997903437903",
+        "created_at": "2025-12-07T10:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T11:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997618997903437903"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997618997903437903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 26569,
+          "like_count": 535,
+          "quote_count": 9,
+          "reply_count": 23,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "圣诞老人 请让我也成为别人珍视的人吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14483,
+          "following_count": 110,
+          "like_count": 5034,
+          "listed_count": 28,
+          "media_count": 786,
+          "tweet_count": 6259
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-07T05:15:55.000Z",
+        "description": "重新自我介绍下吧💔爱哭💔脾气不好💔胆小💔强迫症💔喜欢自闭💔成绩差打游戏菜💔满口脏话💔矫情💔爱吃醋💔爱生气喜欢听歌💔睡觉吃东西缺乏安全感💔熬夜洁癖💔爱黏人话多不自信💔爱他脑子有病💔内向难以控制情绪💔 如果有天我变坏了💔善良也不在了💔就别把我往回拽了💔更别说你爱了💔",
+        "id": "1324943600929529857",
+        "location": "不会卖萌的不要跟我讲话了 我看到太冰冷的文字就聊不下去",
+        "name": "除草人类",
+        "pinned_tweet_id": "1995714754875199944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996245043880001536/EpSi5MzM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4839,
+          "following_count": 607,
+          "like_count": 1229,
+          "listed_count": 14,
+          "media_count": 105,
+          "tweet_count": 1127
+        },
+        "username": "chucaorenlei",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1812114078808309797",
+    "created_at": "2024-07-14T03:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-14T04:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812322596463284545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1669034162832146433",
+          "start": 0,
+          "username": "minmin1269967"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812322596463284545",
+    "in_reply_to_user_id": "1669034162832146433",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812220844363399175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minmin1269967 小宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1812114078808309797",
+        "created_at": "2024-07-14T03:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T04:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812322596463284545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1669034162832146433",
+              "start": 0,
+              "username": "minmin1269967"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812322596463284545",
+        "in_reply_to_user_id": "1669034162832146433",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812220844363399175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minmin1269967 小宝宝"
+      },
+      {
+        "attachments": {},
+        "author_id": "1669034162832146433",
+        "conversation_id": "1812114078808309797",
+        "created_at": "2024-07-13T20:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T21:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812220844363399175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812220844363399175",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812114078808309797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪250/520",
+        "id": "1650126478213001216",
+        "name": "羊儿的聪明难以想象",
+        "pinned_tweet_id": "1808493610540966374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811081724832735232/t3MzY28a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5525,
+          "following_count": 222,
+          "like_count": 2671,
+          "listed_count": 17,
+          "tweet_count": 2841
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T17:28:57.000Z",
+        "description": "男的私信关注我会被我拉黑，不是互fo请别评论我会咔",
+        "id": "1669034162832146433",
+        "name": "佐久真诗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810719245417734145/8FkdwX6u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 112,
+          "like_count": 942,
+          "listed_count": 0,
+          "tweet_count": 924
+        },
+        "username": "minmin1269967",
+        "verified": false
+      }
+    ]
+  }
+}

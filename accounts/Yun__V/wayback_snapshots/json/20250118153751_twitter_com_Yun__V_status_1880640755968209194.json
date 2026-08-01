@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1880640755968209194",
+    "created_at": "2025-01-18T15:37:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T16:37:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880640755968209194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1710375641000935424",
+          "start": 3,
+          "username": "Y_74dead"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880640755968209194",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880640533284184225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Y_74dead: 我拼多多被我用成o多多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1880640755968209194",
+        "created_at": "2025-01-18T15:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T16:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880640755968209194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1710375641000935424",
+              "start": 3,
+              "username": "Y_74dead"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880640755968209194",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880640533284184225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Y_74dead: 我拼多多被我用成o多多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710375641000935424",
+        "conversation_id": "1880640533284184225",
+        "created_at": "2025-01-18T15:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T16:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880640533284184225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880640533284184225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我拼多多被我用成o多多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9552,
+          "following_count": 192,
+          "like_count": 3908,
+          "listed_count": 20,
+          "media_count": 529,
+          "tweet_count": 4281
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-06T19:25:26.000Z",
+        "description": "",
+        "id": "1710375641000935424",
+        "name": "Y_74",
+        "pinned_tweet_id": "1865717988806050184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766523256897519616/XtQNhHhh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 652,
+          "like_count": 29632,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13674
+        },
+        "username": "Y_74dead",
+        "verified": false
+      }
+    ]
+  }
+}

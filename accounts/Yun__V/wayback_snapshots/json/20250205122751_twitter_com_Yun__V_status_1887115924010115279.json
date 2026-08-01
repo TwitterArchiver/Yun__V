@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1887095440736477314",
+    "created_at": "2025-02-05T12:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T13:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887115924010115279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1090062186506940416",
+          "start": 0,
+          "username": "marshallsyh2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887115924010115279",
+    "in_reply_to_user_id": "1090062186506940416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887115677607313491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@marshallsyh2 😭😭好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1887095440736477314",
+        "created_at": "2025-02-05T12:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T13:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887115924010115279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1090062186506940416",
+              "start": 0,
+              "username": "marshallsyh2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887115924010115279",
+        "in_reply_to_user_id": "1090062186506940416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887115677607313491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@marshallsyh2 😭😭好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1090062186506940416",
+        "conversation_id": "1887095440736477314",
+        "created_at": "2025-02-05T12:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T13:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887115677607313491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887115677607313491",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887095440736477314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 现在女仆店基本都是半绿，记得问清楚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10250,
+          "following_count": 199,
+          "like_count": 4032,
+          "listed_count": 22,
+          "media_count": 544,
+          "tweet_count": 4476
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-29T01:40:52.000Z",
+        "description": "她说她不想再有下辈子了",
+        "id": "1090062186506940416",
+        "location": "拉克兰德",
+        "name": "MarshallS۩",
+        "pinned_tweet_id": "1782115172490125468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759668556571287552/143Tl1Ek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 269,
+          "like_count": 6235,
+          "listed_count": 16,
+          "media_count": 215,
+          "tweet_count": 2913
+        },
+        "username": "marshallsyh2",
+        "verified": false
+      }
+    ]
+  }
+}

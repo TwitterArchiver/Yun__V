@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1917758766390599970",
+    "created_at": "2025-05-01T06:22:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T07:22:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917827043913523693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2596381225",
+          "start": 0,
+          "username": "vir_coconut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917827043913523693",
+    "in_reply_to_user_id": "2596381225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917758766390599970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vir_coconut 我也是😌。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1917758766390599970",
+        "created_at": "2025-05-01T06:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T07:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917827043913523693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2596381225",
+              "start": 0,
+              "username": "vir_coconut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917827043913523693",
+        "in_reply_to_user_id": "2596381225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917758766390599970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vir_coconut 我也是😌。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2596381225",
+        "conversation_id": "1917758766390599970",
+        "created_at": "2025-05-01T01:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T02:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917758766390599970"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917758766390599970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1417,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我两个前任都是推特谈的我这辈子有了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 🐦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "开朋友圈🚪288",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1904841644140097911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896312946994937856/JzQllmQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12113,
+          "following_count": 97,
+          "like_count": 4401,
+          "listed_count": 25,
+          "media_count": 592,
+          "tweet_count": 5073
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-30T13:25:34.000Z",
+        "description": "brat｜私信只回复口令红包",
+        "id": "2596381225",
+        "location": "🚪188/520/1314",
+        "name": "椰",
+        "pinned_tweet_id": "1913537309825249554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916642840224079872/FpXhb1MP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17868,
+          "following_count": 276,
+          "like_count": 3269,
+          "listed_count": 30,
+          "media_count": 39,
+          "tweet_count": 1821
+        },
+        "username": "vir_coconut",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1891541254590095374",
+    "created_at": "2025-02-17T17:32:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T18:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1891541254590095374"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1891541254590095374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我这种怕冷怕得要死身体又差的人随时感觉要死在冬天了 我讨厌冬天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1891541254590095374",
+        "created_at": "2025-02-17T17:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T18:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891541254590095374"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1891541254590095374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这种怕冷怕得要死身体又差的人随时感觉要死在冬天了 我讨厌冬天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "冬の光が射していた",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1886731232559686084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10840,
+          "following_count": 216,
+          "like_count": 4178,
+          "listed_count": 23,
+          "media_count": 554,
+          "tweet_count": 4750
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

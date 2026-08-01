@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1936342472785105101",
+    "created_at": "2025-06-22T18:10:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T19:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936849172248080405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1456664189309648898",
+          "start": 0,
+          "username": "AnQuan95955579"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936849172248080405",
+    "in_reply_to_user_id": "1456664189309648898",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936840071015215284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnQuan95955579 青岛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1936342472785105101",
+        "created_at": "2025-06-22T18:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T19:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936849172248080405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1456664189309648898",
+              "start": 0,
+              "username": "AnQuan95955579"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936849172248080405",
+        "in_reply_to_user_id": "1456664189309648898",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936840071015215284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnQuan95955579 青岛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1456664189309648898",
+        "conversation_id": "1936342472785105101",
+        "created_at": "2025-06-22T17:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T18:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936840071015215284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936840071015215284",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936342472785105101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 这是哪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 我養的鳥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13157,
+          "following_count": 94,
+          "like_count": 4569,
+          "listed_count": 25,
+          "media_count": 605,
+          "tweet_count": 5184
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-05T16:46:30.000Z",
+        "description": "",
+        "id": "1456664189309648898",
+        "name": "看你往哪跑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1669068048727445504/HNf5Sgak_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 459,
+          "like_count": 29,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 34
+        },
+        "username": "AnQuan95955579",
+        "verified": false
+      }
+    ]
+  }
+}

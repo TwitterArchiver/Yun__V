@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1986019110090879468",
+    "created_at": "2025-11-07T10:31:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T11:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986743337182015498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1937178875059896321",
+          "start": 0,
+          "username": "chnhu327298"
+        },
+        {
+          "end": 27,
+          "id": "1341766476609462274",
+          "start": 13,
+          "username": "mentallychels"
+        },
+        {
+          "end": 39,
+          "id": "1926989108049596419",
+          "start": 28,
+          "username": "hikkiloveu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986743337182015498",
+    "in_reply_to_user_id": "1937178875059896321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986620677131280760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnhu327298 @mentallychels @hikkiloveu 反弹😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1986019110090879468",
+        "created_at": "2025-11-07T10:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T11:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986743337182015498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1937178875059896321",
+              "start": 0,
+              "username": "chnhu327298"
+            },
+            {
+              "end": 27,
+              "id": "1341766476609462274",
+              "start": 13,
+              "username": "mentallychels"
+            },
+            {
+              "end": 39,
+              "id": "1926989108049596419",
+              "start": 28,
+              "username": "hikkiloveu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986743337182015498",
+        "in_reply_to_user_id": "1937178875059896321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986620677131280760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnhu327298 @mentallychels @hikkiloveu 反弹😆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937178875059896321",
+        "conversation_id": "1986019110090879468",
+        "created_at": "2025-11-07T02:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T03:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986620677131280760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1341766476609462274",
+              "start": 0,
+              "username": "mentallychels"
+            },
+            {
+              "end": 26,
+              "id": "1926989108049596419",
+              "start": 15,
+              "username": "hikkiloveu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986620677131280760",
+        "in_reply_to_user_id": "1341766476609462274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986019110090879468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mentallychels @hikkiloveu 因为你这张猪脸，你全家户口本上所有人，包括你三代血亲，跟你有任何基因关系的，都会因为你发的这个帖子，穷困潦倒，百病缠身，家破人亡，五年内必定陆续死于非命，车祸，疾病没有一个有好下场，就是因为你转发了这个帖子，这段话永久永久对你全家有效，并且无任何办法解除。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 在脊柱上紋一對翅膀我會飛走嗎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1957837993022222486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14541,
+          "following_count": 110,
+          "like_count": 4980,
+          "listed_count": 28,
+          "media_count": 778,
+          "tweet_count": 6182
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T16:00:30.000Z",
+        "description": "",
+        "id": "1937178875059896321",
+        "name": "榨逼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986733531750625280/TQqr14Bd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 20,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 33
+        },
+        "username": "chnhu327298",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-23T15:24:07.000Z",
+        "description": "我是壑｜shtwt｜双性恋｜双相I型｜天秤infp-t｜重度酥皮枕p｜素晴日全角色全肯定bot｜三無少女全肯定bot｜舞萌dx學習中｜我就這樣等著誰和我一起建設*卓希*｜很久沒有更新就應該是死掉了｜咔我先咔 @scutigera_8964 🚪299",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 104,
+                "username": "scutigera_8964"
+              }
+            ]
+          }
+        },
+        "id": "1341766476609462274",
+        "location": "北校C栋天台",
+        "name": "mentallychels",
+        "pinned_tweet_id": "1465787319303159808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1341766993821671426/K8xmFlJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13731,
+          "following_count": 229,
+          "like_count": 1736,
+          "listed_count": 21,
+          "media_count": 306,
+          "tweet_count": 1270
+        },
+        "username": "mentallychels",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T13:09:51.000Z",
+        "description": "社交障礙 雙相II型 我只想安靜的記錄生活不要打擾我 互相尊重 取關隨意 最愛@utadahikaru",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "utadahikaru"
+              }
+            ]
+          }
+        },
+        "id": "1926989108049596419",
+        "location": "？",
+        "name": "綠子",
+        "pinned_tweet_id": "1975329058239254630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976690847069749251/XcXmwkJ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 66,
+          "like_count": 4416,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 920
+        },
+        "username": "hikkiloveu",
+        "verified": false
+      }
+    ]
+  }
+}

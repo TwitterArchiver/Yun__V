@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2038199476440236304",
+    "created_at": "2026-03-29T10:20:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T11:20:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038199690538397995"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038199690538397995",
+    "in_reply_to_user_id": "1650126478213001216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038199476440236304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我讨厌被束缚 可是我会因为爱主动选择被束缚 人类好矛盾 人类好愚蠢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2038199476440236304",
+        "created_at": "2026-03-29T10:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038199690538397995"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038199690538397995",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038199476440236304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我讨厌被束缚 可是我会因为爱主动选择被束缚 人类好矛盾 人类好愚蠢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2038199476440236304",
+        "created_at": "2026-03-29T10:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038199476440236304"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038199476440236304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱和自由在我心中的定义关联开始变得矛盾 人因为爱就是会不得不被束缚 来自对方的束缚与自我的束缚 因为爱产生的束缚 于是我开始思考对我来说最重要的东西究竟是爱 还是自由"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15214,
+          "following_count": 115,
+          "like_count": 5252,
+          "listed_count": 29,
+          "media_count": 835,
+          "tweet_count": 6550
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

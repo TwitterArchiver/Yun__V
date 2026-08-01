@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1929867965299937532",
+    "created_at": "2025-06-03T14:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T15:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929906517668454717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3362173438",
+          "start": 0,
+          "username": "fujyoriaru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929906517668454717",
+    "in_reply_to_user_id": "3362173438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929895683525620077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fujyoriaru 給我一個"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1929867965299937532",
+        "created_at": "2025-06-03T14:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T15:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929906517668454717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3362173438",
+              "start": 0,
+              "username": "fujyoriaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929906517668454717",
+        "in_reply_to_user_id": "3362173438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929895683525620077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fujyoriaru 給我一個"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3362173438",
+        "conversation_id": "1929867965299937532",
+        "created_at": "2025-06-03T13:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T14:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929895683525620077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929895683525620077",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929867965299937532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 我有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 我養的鳥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927314874956230656/FrPnF5AR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12965,
+          "following_count": 95,
+          "like_count": 4507,
+          "listed_count": 26,
+          "media_count": 594,
+          "tweet_count": 5132
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-06T09:19:01.000Z",
+        "description": "🗿モアイ推し、元Vtuber、哲学をしている。 サブカル批判/バタイユ主義者/技術哲学/Anarchism/Cinema/Parfume Language: 🇨🇳　🇯🇵　🇬🇧\n “我已不再写诗　世界はもう詩なんていらん”",
+        "id": "3362173438",
+        "location": "子宮",
+        "name": "摩艾石像厨",
+        "pinned_tweet_id": "1851322521137922335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751196444332285952/antWi7vL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 85,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 793
+        },
+        "username": "fujyoriaru",
+        "verified": false
+      }
+    ]
+  }
+}

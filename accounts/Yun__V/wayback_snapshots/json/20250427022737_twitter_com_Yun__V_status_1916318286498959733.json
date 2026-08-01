@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1916228835005370695",
+    "created_at": "2025-04-27T02:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T03:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916318286498959733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1817803292875083776",
+          "start": 0,
+          "username": "utlramanzero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916318286498959733",
+    "in_reply_to_user_id": "1817803292875083776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916314480704950581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@utlramanzero 我早就沒嗑藥了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1916228835005370695",
+        "created_at": "2025-04-27T02:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T03:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916318286498959733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1817803292875083776",
+              "start": 0,
+              "username": "utlramanzero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916318286498959733",
+        "in_reply_to_user_id": "1817803292875083776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916314480704950581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@utlramanzero 我早就沒嗑藥了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817803292875083776",
+        "conversation_id": "1916228835005370695",
+        "created_at": "2025-04-27T02:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T03:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916314480704950581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916314480704950581",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916228835005370695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 抽烟哪会死，我有时候几个月会一天一盒，少O点药可能好一些……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 🐦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "开朋友圈🚪288",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1904841644140097911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896312946994937856/JzQllmQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12000,
+          "following_count": 98,
+          "like_count": 4363,
+          "listed_count": 25,
+          "media_count": 588,
+          "tweet_count": 5025
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T06:04:20.000Z",
+        "description": "a big bear/非职业捧哏运动员/垃圾桶神功小成/顺直男老登/话唠",
+        "id": "1817803292875083776",
+        "location": "308669906@qq.com",
+        "name": "Mr.North",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869266250876243968/LLy6ZOXc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 95,
+          "like_count": 3769,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1814
+        },
+        "username": "utlramanzero",
+        "verified": false
+      }
+    ]
+  }
+}

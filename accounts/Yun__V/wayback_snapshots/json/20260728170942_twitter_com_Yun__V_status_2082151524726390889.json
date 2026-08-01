@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2082150964900094263",
+    "created_at": "2026-07-28T17:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T18:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082151524726390889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1812501832004190208",
+          "start": 0,
+          "username": "niterainx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082151524726390889",
+    "in_reply_to_user_id": "1812501832004190208",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082150964900094263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niterainx which"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2082150964900094263",
+        "created_at": "2026-07-28T17:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082151524726390889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1812501832004190208",
+              "start": 0,
+              "username": "niterainx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082151524726390889",
+        "in_reply_to_user_id": "1812501832004190208",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082150964900094263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niterainx which"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812501832004190208",
+        "conversation_id": "2082150964900094263",
+        "created_at": "2026-07-28T17:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082150964900094263"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082150964900094263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦 傻逼 我好喜欢上次约会的对象 她太好了 我说了很多傻逼话 她的答复我都很喜欢 我感觉很被包容啊！？因为我实在是太久没喝酒了 我很兴奋有点没管住嘴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "2078707436295430185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16199,
+          "following_count": 142,
+          "like_count": 5734,
+          "listed_count": 28,
+          "media_count": 889,
+          "tweet_count": 7026
+        },
+        "url": "",
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T14:58:19.000Z",
+        "description": "",
+        "id": "1812501832004190208",
+        "name": "vicky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081055995237896192/hBn43MsE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 92,
+          "like_count": 1004,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 279
+        },
+        "url": "",
+        "username": "niterainx",
+        "verified": false
+      }
+    ]
+  }
+}

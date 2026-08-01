@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886905520688390147"
+      ],
+      "media_source_tweet_id": [
+        "1886905528271733064"
+      ]
+    },
+    "author_id": "1650126478213001216",
+    "conversation_id": "1886916227337240975",
+    "created_at": "2025-02-04T23:14:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T00:14:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886916227337240975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1872272746241298432",
+          "start": 3,
+          "username": "xyycomeb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z7izUsp5ud",
+          "end": 101,
+          "expanded_url": "https://x.com/xyycomeb/status/1886905528271733064/photo/1",
+          "media_key": "3_1886905520688390147",
+          "start": 78,
+          "url": "https://t.co/z7izUsp5ud"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886916227337240975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886905528271733064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xyycomeb: 我想休息一段时间，我的狗生病了，我要好好照顾它。我又变得缺钱了。如果有人给我钱真的万分感激，无论是购买图包还是线下预支，谢谢。 https://t.co/z7izUsp5ud"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1634,
+        "media_key": "3_1886905520688390147",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi-ikuVa4AMLco-.jpg",
+        "width": 1131
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886905520688390147"
+          ],
+          "media_source_tweet_id": [
+            "1886905528271733064"
+          ]
+        },
+        "author_id": "1650126478213001216",
+        "conversation_id": "1886916227337240975",
+        "created_at": "2025-02-04T23:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T00:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886916227337240975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1872272746241298432",
+              "start": 3,
+              "username": "xyycomeb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z7izUsp5ud",
+              "end": 101,
+              "expanded_url": "https://x.com/xyycomeb/status/1886905528271733064/photo/1",
+              "media_key": "3_1886905520688390147",
+              "start": 78,
+              "url": "https://t.co/z7izUsp5ud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886916227337240975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886905528271733064",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xyycomeb: 我想休息一段时间，我的狗生病了，我要好好照顾它。我又变得缺钱了。如果有人给我钱真的万分感激，无论是购买图包还是线下预支，谢谢。 https://t.co/z7izUsp5ud"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886905520688390147"
+          ]
+        },
+        "author_id": "1872272746241298432",
+        "conversation_id": "1886905528271733064",
+        "created_at": "2025-02-04T22:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T23:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886905528271733064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z7izUsp5ud",
+              "end": 87,
+              "expanded_url": "https://x.com/xyycomeb/status/1886905528271733064/photo/1",
+              "media_key": "3_1886905520688390147",
+              "start": 64,
+              "url": "https://t.co/z7izUsp5ud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886905528271733064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我想休息一段时间，我的狗生病了，我要好好照顾它。我又变得缺钱了。如果有人给我钱真的万分感激，无论是购买图包还是线下预支，谢谢。 https://t.co/z7izUsp5ud"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10118,
+          "following_count": 199,
+          "like_count": 4029,
+          "listed_count": 22,
+          "media_count": 544,
+          "tweet_count": 4461
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T13:26:40.000Z",
+        "description": "🚪298图包-520定制图包➕线下门。其余🚪1888-5200-8888只回口令红包。❣️私信只回口令❣️超过300的请带姓氏。防炸小号@biedianwohaole 不过门不回答任何问题。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "biedianwohaole"
+              }
+            ]
+          }
+        },
+        "id": "1872272746241298432",
+        "location": "只回复口令红包,无意向过门执意骚扰的拉黑",
+        "name": "yy",
+        "pinned_tweet_id": "1886398621652074915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884294213350875138/-Eh6jlVC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7921,
+          "following_count": 139,
+          "like_count": 476,
+          "listed_count": 27,
+          "media_count": 31,
+          "tweet_count": 86
+        },
+        "username": "xyycomeb",
+        "verified": false
+      }
+    ]
+  }
+}

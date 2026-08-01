@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1855502860064301334",
+    "created_at": "2024-11-10T08:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-10T09:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855525049350189512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1467368317258248192",
+          "start": 0,
+          "username": "loolzaozmin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855525049350189512",
+    "in_reply_to_user_id": "1467368317258248192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855520332087443752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loolzaozmin 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1855502860064301334",
+        "created_at": "2024-11-10T08:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T09:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855525049350189512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1467368317258248192",
+              "start": 0,
+              "username": "loolzaozmin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855525049350189512",
+        "in_reply_to_user_id": "1467368317258248192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855520332087443752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loolzaozmin 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467368317258248192",
+        "conversation_id": "1855502860064301334",
+        "created_at": "2024-11-10T07:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T08:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855520332087443752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855520332087443752",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855502860064301334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 吃药不吃饭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1853874978472825156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6905,
+          "following_count": 226,
+          "like_count": 3054,
+          "listed_count": 16,
+          "tweet_count": 3418
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T05:40:54.000Z",
+        "description": "我是藻｜泛性戀｜ta/它｜非二元性別｜自闭症 寵物｜多个灵魂操控的账号",
+        "id": "1467368317258248192",
+        "location": "🚪：188 1888 接妈妈活 ",
+        "name": "我胃里面的蝴蝶",
+        "pinned_tweet_id": "1768900241447927965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855165987668344832/-dgDWV7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8156,
+          "following_count": 197,
+          "like_count": 492,
+          "listed_count": 10,
+          "tweet_count": 449
+        },
+        "username": "loolzaozmin",
+        "verified": false
+      }
+    ]
+  }
+}

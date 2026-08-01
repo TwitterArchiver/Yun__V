@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1953092550362792285",
+    "created_at": "2025-08-06T16:50:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T17:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953136683798638680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1691478098401988608",
+          "start": 0,
+          "username": "huajianbisong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953136683798638680",
+    "in_reply_to_user_id": "1691478098401988608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953136354956644765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huajianbisong ，，這又不是我家開的店 我只是出去玩路過拍個照而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1953092550362792285",
+        "created_at": "2025-08-06T16:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T17:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953136683798638680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1691478098401988608",
+              "start": 0,
+              "username": "huajianbisong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953136683798638680",
+        "in_reply_to_user_id": "1691478098401988608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953136354956644765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huajianbisong ，，這又不是我家開的店 我只是出去玩路過拍個照而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691478098401988608",
+        "conversation_id": "1953092550362792285",
+        "created_at": "2025-08-06T16:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T17:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953136354956644765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953136354956644765",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953135072347079044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V “提醒一下你地址漏了”这话说的还不够具体吗。你第一张图片上面有个电话，电话直接绑定的微信就是你身后那个小龙虾店的名字，把店名扔高德一找就出"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 today is the greatest",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：afterthesheep",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1941923000317546552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13964,
+          "following_count": 97,
+          "like_count": 4635,
+          "listed_count": 26,
+          "media_count": 667,
+          "tweet_count": 5453
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T15:53:14.000Z",
+        "description": "Beautiful things don’t ask for attention",
+        "id": "1691478098401988608",
+        "location": "上海",
+        "name": "花间碧松",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1691485484663619584/fysyJhOC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 7,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 85
+        },
+        "username": "huajianbisong",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1876092700791079177",
+    "created_at": "2025-01-06T03:33:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T04:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876109743531700465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1371461435721613320",
+          "start": 0,
+          "username": "Meeeeeee0923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876109743531700465",
+    "in_reply_to_user_id": "1371461435721613320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876092700791079177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meeeeeee0923 特別美寶寶 注意消毒！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1876092700791079177",
+        "created_at": "2025-01-06T03:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T04:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876109743531700465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1371461435721613320",
+              "start": 0,
+              "username": "Meeeeeee0923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876109743531700465",
+        "in_reply_to_user_id": "1371461435721613320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876092700791079177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meeeeeee0923 特別美寶寶 注意消毒！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876092692406669312"
+          ]
+        },
+        "author_id": "1371461435721613320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1876092700791079177",
+        "created_at": "2025-01-06T02:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T03:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876092700791079177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EilwX1pUFt",
+              "end": 23,
+              "expanded_url": "https://x.com/Meeeeeee0923/status/1876092700791079177/photo/1",
+              "media_key": "3_1876092692406669312",
+              "start": 0,
+              "url": "https://t.co/EilwX1pUFt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876092700791079177",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1335,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EilwX1pUFt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873052534652477440/cWEl1eck_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9429,
+          "following_count": 191,
+          "like_count": 3843,
+          "listed_count": 20,
+          "media_count": 521,
+          "tweet_count": 4213
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-15T14:01:09.000Z",
+        "description": "",
+        "id": "1371461435721613320",
+        "location": "188/288/520🚪",
+        "name": "瓜",
+        "pinned_tweet_id": "1873283088010362901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873008771263545344/hRCTirMv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35654,
+          "following_count": 10,
+          "like_count": 1138,
+          "listed_count": 73,
+          "media_count": 53,
+          "tweet_count": 73
+        },
+        "username": "Meeeeeee0923",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2035727983843979276",
+    "created_at": "2026-03-22T14:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T15:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035727983843979276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1751279469967663104",
+          "start": 3,
+          "username": "MaoWai47534"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035727983843979276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035358610902122800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MaoWai47534: 孩子，我告诉你，你别跟我扯，我有占有欲 偏执狂 抑郁症 忧郁 累贼 抑郁症 双向情感障碍超凶综合症音乐生钢琴家 圈子很小只有你一人氛围感 毒舌 调侃 暖昧 拉扯 控制狂 恶趣味 被动厌蠢 社恐 开朗 情绪稳定 随叫随到 敏感多疑 主动 慢热 焦…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2035727983843979276",
+        "created_at": "2026-03-22T14:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T15:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035727983843979276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1751279469967663104",
+              "start": 3,
+              "username": "MaoWai47534"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035727983843979276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035358610902122800",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MaoWai47534: 孩子，我告诉你，你别跟我扯，我有占有欲 偏执狂 抑郁症 忧郁 累贼 抑郁症 双向情感障碍超凶综合症音乐生钢琴家 圈子很小只有你一人氛围感 毒舌 调侃 暖昧 拉扯 控制狂 恶趣味 被动厌蠢 社恐 开朗 情绪稳定 随叫随到 敏感多疑 主动 慢热 焦…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751279469967663104",
+        "conversation_id": "2035358610902122800",
+        "created_at": "2026-03-21T14:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T15:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035358610902122800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035358610902122800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9411,
+          "like_count": 271,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "孩子，我告诉你，你别跟我扯，我有占有欲 偏执狂 抑郁症 忧郁 累贼 抑郁症 双向情感障碍超凶综合症音乐生钢琴家 圈子很小只有你一人氛围感 毒舌 调侃 暖昧 拉扯 控制狂 恶趣味 被动厌蠢 社恐 开朗 情绪稳定 随叫随到 敏感多疑 主动 慢热 焦虑症 自闭症 人格分裂 自闭症 暴躁 s 创伤后应激障碍 痴呆症"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15082,
+          "following_count": 114,
+          "like_count": 5232,
+          "listed_count": 28,
+          "media_count": 837,
+          "tweet_count": 6538
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T16:22:50.000Z",
+        "description": "我是一个蛋挞。谢谢你愿意听我讲话(¯▽¯)ゞ",
+        "id": "1751279469967663104",
+        "location": "烤箱",
+        "name": "叽歪小猫",
+        "pinned_tweet_id": "1956730739304902812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359278128734210/i3jWidGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 109,
+          "like_count": 7691,
+          "listed_count": 1,
+          "media_count": 330,
+          "tweet_count": 4533
+        },
+        "username": "MaoWai47534",
+        "verified": false
+      }
+    ]
+  }
+}

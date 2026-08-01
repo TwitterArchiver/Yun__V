@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1873013168324395418",
+    "created_at": "2024-12-28T14:28:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T15:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873013168324395418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1693576340057047040",
+          "start": 3,
+          "username": "zmzmzmzm1234567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873013168324395418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873010523790557620",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zmzmzmzm1234567: 我害怕跟太有文化的说话感觉一开口就被对方打入低智商人群"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1873013168324395418",
+        "created_at": "2024-12-28T14:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T15:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873013168324395418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1693576340057047040",
+              "start": 3,
+              "username": "zmzmzmzm1234567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873013168324395418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873010523790557620",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zmzmzmzm1234567: 我害怕跟太有文化的说话感觉一开口就被对方打入低智商人群"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693576340057047040",
+        "conversation_id": "1873010523790557620",
+        "created_at": "2024-12-28T14:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T15:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873010523790557620"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1873010523790557620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我害怕跟太有文化的说话感觉一开口就被对方打入低智商人群"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9368,
+          "following_count": 185,
+          "like_count": 3712,
+          "listed_count": 21,
+          "media_count": 513,
+          "tweet_count": 4085
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T10:50:47.000Z",
+        "description": "请节哀。请节哀",
+        "id": "1693576340057047040",
+        "location": "丑人投胎点",
+        "name": "https://",
+        "pinned_tweet_id": "1810352742231355569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855114035282497536/fnP0WL3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1618,
+          "following_count": 600,
+          "like_count": 22032,
+          "listed_count": 3,
+          "media_count": 1078,
+          "tweet_count": 12694
+        },
+        "username": "zmzmzmzm1234567",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1971998187495002410",
+    "created_at": "2025-09-27T18:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T19:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972001142206091729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1926989108049596419",
+          "start": 0,
+          "username": "hikkiloveu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972001142206091729",
+    "in_reply_to_user_id": "1926989108049596419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972000945614868620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hikkiloveu 对！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1971998187495002410",
+        "created_at": "2025-09-27T18:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T19:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972001142206091729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1926989108049596419",
+              "start": 0,
+              "username": "hikkiloveu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972001142206091729",
+        "in_reply_to_user_id": "1926989108049596419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972000945614868620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hikkiloveu 对！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926989108049596419",
+        "conversation_id": "1971998187495002410",
+        "created_at": "2025-09-27T18:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T19:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972000945614868620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972000945614868620",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971998187495002410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 可以耶！收集可愛的東西會讓人心情愉悅！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 在脊柱上紋一對翅膀我會飛走嗎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1957837993022222486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14171,
+          "following_count": 98,
+          "like_count": 4703,
+          "listed_count": 28,
+          "media_count": 722,
+          "tweet_count": 5776
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T13:09:51.000Z",
+        "description": "社交障礙 雙相II型 討好型人格 只想和女孩子交朋友 最愛@utadahikaru",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "utadahikaru"
+              }
+            ]
+          }
+        },
+        "id": "1926989108049596419",
+        "location": "？",
+        "name": "綠子",
+        "pinned_tweet_id": "1969361549388365909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966060783806394369/Mjoc5sZ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 50,
+          "like_count": 3579,
+          "listed_count": 2,
+          "media_count": 107,
+          "tweet_count": 670
+        },
+        "username": "hikkiloveu",
+        "verified": false
+      }
+    ]
+  }
+}

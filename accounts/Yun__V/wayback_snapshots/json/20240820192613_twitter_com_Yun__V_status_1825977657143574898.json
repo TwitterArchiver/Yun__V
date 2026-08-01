@@ -1,0 +1,101 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1825977657143574898",
+    "created_at": "2024-08-20T19:26:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-20T20:26:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1825977657143574898"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 19,
+          "tag": "爸爸活"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825977657143574898",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁过我门槛谁约我爸爸活就在南京这两天 #爸爸活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1825977657143574898",
+        "created_at": "2024-08-20T19:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T20:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825977657143574898"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "爸爸活"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825977657143574898",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁过我门槛谁约我爸爸活就在南京这两天 #爸爸活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "",
+        "id": "1650126478213001216",
+        "name": "After the sheep",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823536516888739840/RSKfvFrT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5786,
+          "following_count": 221,
+          "like_count": 2723,
+          "listed_count": 18,
+          "tweet_count": 2973
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

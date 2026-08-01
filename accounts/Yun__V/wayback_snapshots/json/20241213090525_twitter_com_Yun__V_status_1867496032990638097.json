@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1867496032990638097",
+    "created_at": "2024-12-13T09:05:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T10:05:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1867496032990638097"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/indigobabyblue…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/indigobabyblue_/status/1867493859405836298",
+          "start": 13,
+          "url": "https://t.co/vWg6UkckcR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867496032990638097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867493859405836298",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们异性恋女就是如此凄惨 https://t.co/vWg6UkckcR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1867496032990638097",
+        "created_at": "2024-12-13T09:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T10:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867496032990638097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/indigobabyblue…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/indigobabyblue_/status/1867493859405836298",
+              "start": 13,
+              "url": "https://t.co/vWg6UkckcR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867496032990638097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867493859405836298",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们异性恋女就是如此凄惨 https://t.co/vWg6UkckcR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661333039082000385",
+        "conversation_id": "1867493859405836298",
+        "created_at": "2024-12-13T08:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T09:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867493859405836298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iminipotato/st…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/iminipotato/status/1867419172285952317",
+              "start": 128,
+              "url": "https://t.co/KNTqAwHKIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867493859405836298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 165,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867419172285952317",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "展开版本：别谈长发男，山东男，河南男，北京男，金融男，双性恋男，同性恋男，异性恋男，金属男，爵士男，民谣男，文艺男，嘻哈男，无业男，有工作男，健身男，细狗男，肥猪男，二次元男，留学生男，大专男，二本男，211985男。 \n好男人不流通，就三个字，别谈了！ https://t.co/KNTqAwHKIU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9106,
+          "following_count": 177,
+          "like_count": 3461,
+          "listed_count": 21,
+          "media_count": 488,
+          "tweet_count": 3851
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T11:27:31.000Z",
+        "description": "No time for games （盗图死全家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/koiparachutes?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/koiparachutes?igsh=MWpsYTkzNnZtZG1oNw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/8MK4J6qLBU"
+              }
+            ]
+          }
+        },
+        "id": "1661333039082000385",
+        "location": "𑁥౿   ୨ৎ  ౨ৎ   ⋆ ˚｡⋆ ꪆৎ    ",
+        "name": "koi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768272805551026176/UNOwVzc5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27962,
+          "following_count": 176,
+          "like_count": 10048,
+          "listed_count": 73,
+          "media_count": 328,
+          "tweet_count": 6432
+        },
+        "url": "https://t.co/8MK4J6qLBU",
+        "username": "indigobabyblue_",
+        "verified": true
+      }
+    ]
+  }
+}

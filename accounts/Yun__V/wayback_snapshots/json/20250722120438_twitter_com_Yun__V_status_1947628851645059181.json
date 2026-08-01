@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1947618797390860473",
+    "created_at": "2025-07-22T12:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T13:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947628851645059181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1341766476609462274",
+          "start": 0,
+          "username": "mentallychels"
+        },
+        {
+          "end": 27,
+          "id": "1767122266414882816",
+          "start": 15,
+          "username": "shu_fan0228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947628851645059181",
+    "in_reply_to_user_id": "1341766476609462274",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947626603208708364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mentallychels @shu_fan0228 我想你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1947618797390860473",
+        "created_at": "2025-07-22T12:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T13:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947628851645059181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1341766476609462274",
+              "start": 0,
+              "username": "mentallychels"
+            },
+            {
+              "end": 27,
+              "id": "1767122266414882816",
+              "start": 15,
+              "username": "shu_fan0228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947628851645059181",
+        "in_reply_to_user_id": "1341766476609462274",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947626603208708364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mentallychels @shu_fan0228 我想你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1341766476609462274",
+        "conversation_id": "1947618797390860473",
+        "created_at": "2025-07-22T11:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T12:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947626603208708364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767122266414882816",
+              "start": 0,
+              "username": "shu_fan0228"
+            },
+            {
+              "end": 20,
+              "id": "1650126478213001216",
+              "start": 13,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947626603208708364",
+        "in_reply_to_user_id": "1767122266414882816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947618797390860473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shu_fan0228 @Yun__V 兩個寶寶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1941923000317546552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13313,
+          "following_count": 98,
+          "like_count": 4600,
+          "listed_count": 25,
+          "media_count": 641,
+          "tweet_count": 5354
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-23T15:24:07.000Z",
+        "description": "我是壑｜很久沒有更新就應該是死掉了  🚪200",
+        "id": "1341766476609462274",
+        "name": "mentallychels",
+        "pinned_tweet_id": "1465787319303159808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1341766993821671426/K8xmFlJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12417,
+          "following_count": 165,
+          "like_count": 909,
+          "listed_count": 21,
+          "media_count": 226,
+          "tweet_count": 894
+        },
+        "username": "mentallychels",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T09:36:16.000Z",
+        "description": "飞不动了我好累",
+        "id": "1767122266414882816",
+        "name": "临死前最后一顿饭要吃什么好？",
+        "pinned_tweet_id": "1901257523258327203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925656856036352000/NJqr_bws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 116,
+          "like_count": 2564,
+          "listed_count": 0,
+          "media_count": 545,
+          "tweet_count": 2941
+        },
+        "username": "shu_fan0228",
+        "verified": false
+      }
+    ]
+  }
+}

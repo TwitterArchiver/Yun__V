@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1974560574374834600",
+    "created_at": "2025-10-05T13:46:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T14:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974833672269492732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1926989108049596419",
+          "start": 0,
+          "username": "hikkiloveu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974833672269492732",
+    "in_reply_to_user_id": "1926989108049596419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974560574374834600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hikkiloveu 但是这个药店太坏了啊啊啊…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1961,
+        "media_key": "3_1974560559631917056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2cMXghbYAAFOsE.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1974560574374834600",
+        "created_at": "2025-10-05T13:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T14:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974833672269492732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1926989108049596419",
+              "start": 0,
+              "username": "hikkiloveu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974833672269492732",
+        "in_reply_to_user_id": "1926989108049596419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974560574374834600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hikkiloveu 但是这个药店太坏了啊啊啊…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974560559631917056"
+          ]
+        },
+        "author_id": "1926989108049596419",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1974560574374834600",
+        "created_at": "2025-10-04T19:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T20:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974560574374834600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FMaOHIAvsD",
+              "end": 47,
+              "expanded_url": "https://x.com/hikkiloveu/status/1974560574374834600/photo/1",
+              "media_key": "3_1974560559631917056",
+              "start": 24,
+              "url": "https://t.co/FMaOHIAvsD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974560574374834600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉這個女孩怎麼這麼好呀…感覺我馬上就要痊癒了！ https://t.co/FMaOHIAvsD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 在脊柱上紋一對翅膀我會飛走嗎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1957837993022222486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14142,
+          "following_count": 98,
+          "like_count": 4738,
+          "listed_count": 28,
+          "media_count": 727,
+          "tweet_count": 5829
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T13:09:51.000Z",
+        "description": "社交障礙 雙相II型 討好型人格 只想和女孩子交朋友 直男勿擾 最愛@utadahikaru",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 34,
+                "username": "utadahikaru"
+              }
+            ]
+          }
+        },
+        "id": "1926989108049596419",
+        "location": "？",
+        "name": "綠子",
+        "pinned_tweet_id": "1973055617183932552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966060783806394369/Mjoc5sZ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 50,
+          "like_count": 3723,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 724
+        },
+        "username": "hikkiloveu",
+        "verified": false
+      }
+    ]
+  }
+}

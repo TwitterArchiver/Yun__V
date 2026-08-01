@@ -1,0 +1,99 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1804406149795459540",
+    "created_at": "2024-06-22T06:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-22T07:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1804406149795459540"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1804406149795459540",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每次脑子不清醒到无法思考的时候总会想去靠算塔罗来得到答案和建议"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1804406149795459540",
+        "created_at": "2024-06-22T06:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T07:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804406149795459540"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1804406149795459540",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次脑子不清醒到无法思考的时候总会想去靠算塔罗来得到答案和建议"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪250/520",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "http://wwl.sogood9.com/#/register?code=S3l8RLvL",
+                "start": 0,
+                "url": "https://t.co/ciduMojuDG"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "自用🪜",
+        "name": "羊儿的聪明难以想象",
+        "pinned_tweet_id": "1755285158981439622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804185790429433863/ZcdrTjv7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5343,
+          "following_count": 218,
+          "like_count": 2598,
+          "listed_count": 16,
+          "tweet_count": 2775
+        },
+        "url": "https://t.co/ciduMojuDG",
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

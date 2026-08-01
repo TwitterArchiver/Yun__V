@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2022896398765785100",
+    "created_at": "2026-02-15T04:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T05:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022896398765785100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1713713115270139904",
+          "start": 3,
+          "username": "shirochankawa1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022896398765785100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 324
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021796907295944969",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shirochankawa1: 人是不是总要从身体里流出什么才能冲淡痛苦？眼泪、 汗水、血液、呕吐物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2022896398765785100",
+        "created_at": "2026-02-15T04:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T05:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022896398765785100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1713713115270139904",
+              "start": 3,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022896398765785100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 324
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021796907295944969",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shirochankawa1: 人是不是总要从身体里流出什么才能冲淡痛苦？眼泪、 汗水、血液、呕吐物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713713115270139904",
+        "conversation_id": "2021796907295944969",
+        "created_at": "2026-02-12T04:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T05:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021796907295944969"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021796907295944969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 59992,
+          "like_count": 1857,
+          "quote_count": 10,
+          "reply_count": 32,
+          "retweet_count": 324
+        },
+        "reply_settings": "everyone",
+        "text": "人是不是总要从身体里流出什么才能冲淡痛苦？眼泪、 汗水、血液、呕吐物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14521,
+          "following_count": 116,
+          "like_count": 5099,
+          "listed_count": 28,
+          "media_count": 815,
+          "tweet_count": 6416
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "1817744224378609853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2158,
+          "following_count": 1977,
+          "like_count": 64267,
+          "listed_count": 8,
+          "media_count": 1487,
+          "tweet_count": 9989
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

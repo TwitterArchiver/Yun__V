@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1981386418086957383",
+    "created_at": "2025-10-23T18:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T19:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981426439728878049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1260083426993950722",
+          "start": 0,
+          "username": "bigjijibread"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981426439728878049",
+    "in_reply_to_user_id": "1260083426993950722",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981386418086957383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigjijibread 他咋了👂"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1981386418086957383].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1981386418086957383",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1981386418086957383"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1981386418086957383",
+        "created_at": "2025-10-23T18:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T19:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981426439728878049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1260083426993950722",
+              "start": 0,
+              "username": "bigjijibread"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981426439728878049",
+        "in_reply_to_user_id": "1260083426993950722",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981386418086957383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigjijibread 他咋了👂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 在脊柱上紋一對翅膀我會飛走嗎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1957837993022222486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14366,
+          "following_count": 107,
+          "like_count": 4899,
+          "listed_count": 28,
+          "media_count": 764,
+          "tweet_count": 6073
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-12T05:44:46.000Z",
+        "description": "Unsociable is innoncence.a holocauster club  non-binary he/they/it",
+        "id": "1260083426993950722",
+        "location": "China ",
+        "name": "大吉JIパン",
+        "pinned_tweet_id": "1665828158673678337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560369195719700480/kp5FoOP7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 202,
+          "like_count": 2944,
+          "listed_count": 1,
+          "media_count": 431,
+          "tweet_count": 1528
+        },
+        "username": "bigjijibread",
+        "verified": false
+      }
+    ]
+  }
+}

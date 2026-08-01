@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1941853733325009306",
+    "created_at": "2025-07-06T20:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T21:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941959224247898322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1931926644530581504",
+          "start": 0,
+          "username": "akizuki9145931"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941959224247898322",
+    "in_reply_to_user_id": "1931926644530581504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941946852594847998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akizuki9145931 不知道⋯沒體驗過"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1941853733325009306",
+        "created_at": "2025-07-06T20:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T21:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941959224247898322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1931926644530581504",
+              "start": 0,
+              "username": "akizuki9145931"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941959224247898322",
+        "in_reply_to_user_id": "1931926644530581504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941946852594847998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akizuki9145931 不知道⋯沒體驗過"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931926644530581504",
+        "conversation_id": "1941853733325009306",
+        "created_at": "2025-07-06T19:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T20:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941946852594847998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941946852594847998",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941853733325009306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 不是说会养胃吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 我養的鳥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13112,
+          "following_count": 97,
+          "like_count": 4562,
+          "listed_count": 25,
+          "media_count": 611,
+          "tweet_count": 5226
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-09T04:09:56.000Z",
+        "description": "akizuki=空鸣=羽田丨呼哇~ 击中萌都玩丨mtf请屏蔽我丨关注=觉得说话有趣or有血图看丨想要交朋友，点击链接可以玩匿名提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/Akizuki84125",
+                "end": 23,
+                "expanded_url": "https://ngl.link/Akizuki84125",
+                "start": 0,
+                "url": "https://t.co/G485oDfpI2"
+              }
+            ]
+          }
+        },
+        "id": "1931926644530581504",
+        "location": "幻想乡",
+        "name": "akizuki（秋月级一番舰）",
+        "pinned_tweet_id": "1941855811082584410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932808898937036800/1Qjfmc4r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 138,
+          "like_count": 839,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 589
+        },
+        "url": "https://t.co/G485oDfpI2",
+        "username": "akizuki9145931",
+        "verified": false
+      }
+    ]
+  }
+}

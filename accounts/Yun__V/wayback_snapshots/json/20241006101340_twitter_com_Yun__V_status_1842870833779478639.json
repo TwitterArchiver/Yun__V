@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1842851018654253234",
+    "created_at": "2024-10-06T10:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-06T11:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842870833779478639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1467368317258248192",
+          "start": 0,
+          "username": "loolzaozmin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842870833779478639",
+    "in_reply_to_user_id": "1467368317258248192",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842851018654253234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loolzaozmin 上海好玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1842851018654253234",
+        "created_at": "2024-10-06T10:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T11:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842870833779478639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1467368317258248192",
+              "start": 0,
+              "username": "loolzaozmin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842870833779478639",
+        "in_reply_to_user_id": "1467368317258248192",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842851018654253234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loolzaozmin 上海好玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467368317258248192",
+        "conversation_id": "1842851018654253234",
+        "created_at": "2024-10-06T08:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T09:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842851018654253234"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1842851018654253234",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 358,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要不要在北京定居呢，还是去上海，还是广是去广州？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "",
+        "id": "1650126478213001216",
+        "name": "After the sheep",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840984339192168448/KG320K-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5719,
+          "following_count": 215,
+          "like_count": 2677,
+          "listed_count": 18,
+          "tweet_count": 2980
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T05:40:54.000Z",
+        "description": "我是藻｜泛性恋｜ta/它｜非二元性别",
+        "id": "1467368317258248192",
+        "location": "🚪：88  288 588 接妈妈活",
+        "name": "我胃里面的蝴蝶",
+        "pinned_tweet_id": "1768900241447927965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842792617215705088/NY3pY9nf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4888,
+          "following_count": 179,
+          "like_count": 387,
+          "listed_count": 7,
+          "tweet_count": 227
+        },
+        "username": "loolzaozmin",
+        "verified": false
+      }
+    ]
+  }
+}

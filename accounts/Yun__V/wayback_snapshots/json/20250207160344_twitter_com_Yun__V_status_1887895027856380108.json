@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1887895027856380108",
+    "created_at": "2025-02-07T16:03:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T17:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887895027856380108"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Fragile Girls · 一些難過的時候可以聽的流行歌曲 · Song · 2017",
+          "display_url": "open.spotify.com/track/6ZK8qt74…",
+          "end": 23,
+          "expanded_url": "https://open.spotify.com/track/6ZK8qt74Y6u5XxKwS6Nn8x?si=tES8teeYSTKYhh3qBAs25w",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://pbs.twimg.com/news_img/1887895029613813760/kQFV5p5x?format=jpg&name=orig",
+              "width": 640
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1887895029613813760/kQFV5p5x?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "我知道我失去你了",
+          "unwound_url": "https://open.spotify.com/track/6ZK8qt74Y6u5XxKwS6Nn8x?si=tES8teeYSTKYhh3qBAs25w",
+          "url": "https://t.co/Jed66FZM8M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887895027856380108",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Jed66FZM8M"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1887895027856380108",
+        "created_at": "2025-02-07T16:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T17:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887895027856380108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Fragile Girls · 一些難過的時候可以聽的流行歌曲 · Song · 2017",
+              "display_url": "open.spotify.com/track/6ZK8qt74…",
+              "end": 23,
+              "expanded_url": "https://open.spotify.com/track/6ZK8qt74Y6u5XxKwS6Nn8x?si=tES8teeYSTKYhh3qBAs25w",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/1887895029613813760/kQFV5p5x?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1887895029613813760/kQFV5p5x?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "我知道我失去你了",
+              "unwound_url": "https://open.spotify.com/track/6ZK8qt74Y6u5XxKwS6Nn8x?si=tES8teeYSTKYhh3qBAs25w",
+              "url": "https://t.co/Jed66FZM8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887895027856380108",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Jed66FZM8M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1886731232559686084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10487,
+          "following_count": 213,
+          "like_count": 4125,
+          "listed_count": 24,
+          "media_count": 549,
+          "tweet_count": 4590
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

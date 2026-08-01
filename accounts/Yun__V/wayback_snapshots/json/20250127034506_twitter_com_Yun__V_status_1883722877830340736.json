@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1883722877830340736",
+    "created_at": "2025-01-27T03:45:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T04:45:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883722877830340736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1652379995883601921",
+          "start": 3,
+          "username": "miaomiao0830"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883722877830340736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883173544001261790",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miaomiao0830: 和我谈恋爱不会幸福的，因为我是控制狂黏人精阴湿女鬼，会让你在做什么事之前都跟我报备，虽然不会催你回消息但是会给你发很多消息说想你，还会把聊天记录翻来覆去地看，也不允许你和别人走得太近，掠夺你的头像ID资料卡支配权，还会视奸你的网易云抖音关注数…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1883722877830340736",
+        "created_at": "2025-01-27T03:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T04:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883722877830340736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1652379995883601921",
+              "start": 3,
+              "username": "miaomiao0830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883722877830340736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883173544001261790",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miaomiao0830: 和我谈恋爱不会幸福的，因为我是控制狂黏人精阴湿女鬼，会让你在做什么事之前都跟我报备，虽然不会催你回消息但是会给你发很多消息说想你，还会把聊天记录翻来覆去地看，也不允许你和别人走得太近，掠夺你的头像ID资料卡支配权，还会视奸你的网易云抖音关注数…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652379995883601921",
+        "conversation_id": "1883173544001261790",
+        "created_at": "2025-01-25T15:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T16:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883173544001261790"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883173544001261790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 39501,
+          "like_count": 472,
+          "quote_count": 17,
+          "reply_count": 49,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "和我谈恋爱不会幸福的，因为我是控制狂黏人精阴湿女鬼，会让你在做什么事之前都跟我报备，虽然不会催你回消息但是会给你发很多消息说想你，还会把聊天记录翻来覆去地看，也不允许你和别人走得太近，掠夺你的头像ID资料卡支配权，还会视奸你的网易云抖音关注数粉丝数点赞收藏视频看看有没有变化"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9611,
+          "following_count": 193,
+          "like_count": 3983,
+          "listed_count": 19,
+          "media_count": 536,
+          "tweet_count": 4349
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T18:31:34.000Z",
+        "description": "账号主人是一只小猫",
+        "id": "1652379995883601921",
+        "name": "喵呜",
+        "pinned_tweet_id": "1883552717320360426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872146567756439552/NIOSzyr1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2731,
+          "following_count": 553,
+          "like_count": 8613,
+          "listed_count": 5,
+          "media_count": 153,
+          "tweet_count": 4047
+        },
+        "username": "miaomiao0830",
+        "verified": false
+      }
+    ]
+  }
+}

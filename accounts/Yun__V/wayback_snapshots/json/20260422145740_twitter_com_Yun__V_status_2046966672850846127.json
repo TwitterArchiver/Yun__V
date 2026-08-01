@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2046603038052282368"
+      ],
+      "media_source_tweet_id": [
+        "2046603197070868985"
+      ]
+    },
+    "author_id": "1650126478213001216",
+    "conversation_id": "2046966672850846127",
+    "created_at": "2026-04-22T14:57:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T15:57:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046966672850846127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1677518738214596608",
+          "start": 3,
+          "username": "Random_Moe_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fU3nGrO13I",
+          "end": 55,
+          "expanded_url": "https://x.com/Random_Moe_/status/2046603197070868985/video/1",
+          "media_key": "13_2046603038052282368",
+          "start": 32,
+          "url": "https://t.co/fU3nGrO13I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046966672850846127",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5685
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046603197070868985",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Random_Moe_: Tomodachi lain https://t.co/fU3nGrO13I"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8346,
+        "height": 714,
+        "media_key": "13_2046603038052282368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046603038052282368/img/KZDYn9GRpLW1Hhs1.jpg",
+        "public_metrics": {
+          "view_count": 301217
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046603038052282368/vid/avc1/484x270/MFP7DQsV6neWLyiX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046603038052282368/vid/avc1/644x360/U41Iq9W_5EQv1GD3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046603038052282368/vid/avc1/1280x714/gUD6PEaOY75JANe_.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046603038052282368/pl/JAxvuWzVu0ufCaxy.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046603038052282368"
+          ],
+          "media_source_tweet_id": [
+            "2046603197070868985"
+          ]
+        },
+        "author_id": "1650126478213001216",
+        "conversation_id": "2046966672850846127",
+        "created_at": "2026-04-22T14:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046966672850846127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1677518738214596608",
+              "start": 3,
+              "username": "Random_Moe_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fU3nGrO13I",
+              "end": 55,
+              "expanded_url": "https://x.com/Random_Moe_/status/2046603197070868985/video/1",
+              "media_key": "13_2046603038052282368",
+              "start": 32,
+              "url": "https://t.co/fU3nGrO13I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046966672850846127",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5685
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046603197070868985",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Random_Moe_: Tomodachi lain https://t.co/fU3nGrO13I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046603038052282368"
+          ]
+        },
+        "author_id": "1677518738214596608",
+        "conversation_id": "2046603197070868985",
+        "created_at": "2026-04-21T14:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046603197070868985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fU3nGrO13I",
+              "end": 38,
+              "expanded_url": "https://x.com/Random_Moe_/status/2046603197070868985/video/1",
+              "media_key": "13_2046603038052282368",
+              "start": 15,
+              "url": "https://t.co/fU3nGrO13I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046603197070868985",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5840,
+          "impression_count": 887214,
+          "like_count": 42454,
+          "quote_count": 97,
+          "reply_count": 53,
+          "retweet_count": 5685
+        },
+        "reply_settings": "everyone",
+        "text": "Tomodachi lain https://t.co/fU3nGrO13I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15377,
+          "following_count": 117,
+          "like_count": 5376,
+          "listed_count": 28,
+          "media_count": 844,
+          "tweet_count": 6645
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T03:24:18.000Z",
+        "description": "Asylum for Webs and Larps 🏨🎎🍡\n\nRandom videos of Animes CGDCT kinds 💻🍜🎏🍱🎎\n\nSPA 🇪🇸 ENG 🇬🇧 POR🇧🇷\n\nOpen DM ✉️\n\nOcasional promote anime artists  🎨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/kzGvNDYd58",
+                "end": 23,
+                "expanded_url": "https://discord.gg/kzGvNDYd58",
+                "start": 0,
+                "url": "https://t.co/RJKFYHTU3y"
+              }
+            ]
+          }
+        },
+        "id": "1677518738214596608",
+        "location": "Dreams Kindom 👑🍀🐉🧜‍♀️",
+        "name": "Random Moe Larp 🍥🍣🍶",
+        "pinned_tweet_id": "2037327899158560866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043477685314174976/lFRX7nc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25461,
+          "following_count": 171,
+          "like_count": 25694,
+          "listed_count": 22,
+          "media_count": 1461,
+          "tweet_count": 2233
+        },
+        "url": "https://t.co/RJKFYHTU3y",
+        "username": "Random_Moe_",
+        "verified": false
+      }
+    ]
+  }
+}

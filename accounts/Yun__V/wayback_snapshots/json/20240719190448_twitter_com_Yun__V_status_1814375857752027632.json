@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1814354354851459388",
+    "created_at": "2024-07-19T19:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-19T20:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814375857752027632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1371805689274798084",
+          "start": 0,
+          "username": "xiangchirouwan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814375857752027632",
+    "in_reply_to_user_id": "1371805689274798084",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814375698733379904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangchirouwan 苹果SE一代！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1814354354851459388",
+        "created_at": "2024-07-19T19:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T20:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814375857752027632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1371805689274798084",
+              "start": 0,
+              "username": "xiangchirouwan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814375857752027632",
+        "in_reply_to_user_id": "1371805689274798084",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814375698733379904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangchirouwan 苹果SE一代！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1371805689274798084",
+        "conversation_id": "1814354354851459388",
+        "created_at": "2024-07-19T19:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T20:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814375698733379904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814375698733379904",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814354354851459388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 这是用什么拍的 好有感觉(´･ω･`)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪250/520",
+        "id": "1650126478213001216",
+        "name": "羊儿的聪明难以想象",
+        "pinned_tweet_id": "1808493610540966374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813404495705194498/C3n08IjE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5496,
+          "following_count": 219,
+          "like_count": 2676,
+          "listed_count": 17,
+          "tweet_count": 2860
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-16T12:49:07.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=W3bqq48N",
+                "start": 0,
+                "url": "https://t.co/NT45BEztlS"
+              }
+            ]
+          }
+        },
+        "id": "1371805689274798084",
+        "name": "痛苦在我心中愈演愈烈",
+        "pinned_tweet_id": "1769660346120175770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802702552791965696/FvDGb7T0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13674,
+          "following_count": 666,
+          "like_count": 1908,
+          "listed_count": 45,
+          "tweet_count": 56
+        },
+        "url": "https://t.co/NT45BEztlS",
+        "username": "xiangchirouwan",
+        "verified": false
+      }
+    ]
+  }
+}

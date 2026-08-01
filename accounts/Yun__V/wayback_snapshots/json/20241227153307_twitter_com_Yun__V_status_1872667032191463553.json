@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1872666757854626027",
+    "created_at": "2024-12-27T15:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T16:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872667032191463553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1695406391609966592",
+          "start": 0,
+          "username": "sashiburi519534"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872667032191463553",
+    "in_reply_to_user_id": "1695406391609966592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872666757854626027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sashiburi519534 好美哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1872666757854626027",
+        "created_at": "2024-12-27T15:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T16:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872667032191463553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1695406391609966592",
+              "start": 0,
+              "username": "sashiburi519534"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872667032191463553",
+        "in_reply_to_user_id": "1695406391609966592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872666757854626027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sashiburi519534 好美哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872666750174568448"
+          ]
+        },
+        "author_id": "1695406391609966592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1872666757854626027",
+        "created_at": "2024-12-27T15:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T16:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872666757854626027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V6BArjmGmR",
+              "end": 171,
+              "expanded_url": "https://x.com/sashiburi519534/status/1872666757854626027/photo/1",
+              "media_key": "3_1872666750174568448",
+              "start": 148,
+              "url": "https://t.co/V6BArjmGmR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872666757854626027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到村子里了\n\n这个地方有多村呢\n这里没有土耳其大哥卖döner\n\n酒店和那种老电影里的一样\n在一本巨厚的本子上找我的名字然后给我一个超级沉的大钥匙 \n和一个用打孔器打了很多孔的卡片\n\n前台老哥是那种八字胡和油头穿着马甲\n很紧张的问我会不会说德语\n感觉每天早上他要花十分钟时间给胡子抹油\n\n可惜… https://t.co/V6BArjmGmR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9347,
+          "following_count": 184,
+          "like_count": 3686,
+          "listed_count": 21,
+          "media_count": 510,
+          "tweet_count": 4076
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T12:03:04.000Z",
+        "description": "我是叉子/怪猎可能是玩得最多的/冰激凌喜欢开心果味/麸质过敏痛苦/啤酒喜欢hazy ipa/很想吃烤鸭/裸睡/喜欢大蒜酱/pkm喜欢水水獭/喜欢橘子/不爱吃饭饿得很瘦将死之人/怕冷怕热/讨厌蚊子/喜欢蟑螂/《爱蠊说/但是现在被朋友胁迫不能发蟑螂/葱花也好吃/喫煙/会骑自行车/不吃韭菜/死了已经/听Shoegaze",
+        "id": "1695406391609966592",
+        "location": "Benasque, Spain",
+        "name": "怒羅衛門",
+        "pinned_tweet_id": "1872574195990974933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801746828297117696/ht4Uakoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 508,
+          "like_count": 4661,
+          "listed_count": 0,
+          "media_count": 613,
+          "tweet_count": 3342
+        },
+        "username": "sashiburi519534",
+        "verified": false
+      }
+    ]
+  }
+}

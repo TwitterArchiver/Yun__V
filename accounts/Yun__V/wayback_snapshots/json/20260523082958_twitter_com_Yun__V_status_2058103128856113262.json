@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2058103128856113262",
+    "created_at": "2026-05-23T08:29:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T09:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058103128856113262"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058103128856113262",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "产生过亲密联结的人怎么做普通朋友？我原本以为我可以假装一切情感都从未产生过，可现在我发现我做不到。在我的观念中要么做一辈子陌生人再也不见，要么一直互相折磨纠缠痛苦着。还是做陌生人吧，还是当作从来没有遇见过吧，即使这太残忍。遗忘好残忍。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2058103128856113262",
+        "created_at": "2026-05-23T08:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058103128856113262"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058103128856113262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "产生过亲密联结的人怎么做普通朋友？我原本以为我可以假装一切情感都从未产生过，可现在我发现我做不到。在我的观念中要么做一辈子陌生人再也不见，要么一直互相折磨纠缠痛苦着。还是做陌生人吧，还是当作从来没有遇见过吧，即使这太残忍。遗忘好残忍。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15668,
+          "following_count": 118,
+          "like_count": 5534,
+          "listed_count": 30,
+          "media_count": 854,
+          "tweet_count": 6811
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

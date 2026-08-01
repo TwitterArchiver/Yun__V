@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1944441395961381244",
+    "created_at": "2025-07-13T17:17:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T18:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944446082014122218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1491060404696465409",
+          "start": 0,
+          "username": "333andw1ch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944446082014122218",
+    "in_reply_to_user_id": "1491060404696465409",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944441395961381244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@333andw1ch 拍我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1944441395961381244",
+        "created_at": "2025-07-13T17:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T18:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944446082014122218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1491060404696465409",
+              "start": 0,
+              "username": "333andw1ch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944446082014122218",
+        "in_reply_to_user_id": "1491060404696465409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944441395961381244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@333andw1ch 拍我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491060404696465409",
+        "conversation_id": "1944441395961381244",
+        "created_at": "2025-07-13T16:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T17:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944441395961381244"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944441395961381244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想拍照啊 但不知道拍什么 拍谁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 我養的鳥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1941923000317546552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13226,
+          "following_count": 98,
+          "like_count": 4594,
+          "listed_count": 24,
+          "media_count": 628,
+          "tweet_count": 5292
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T14:44:51.000Z",
+        "description": "人体摄影师 废物贝斯手",
+        "id": "1491060404696465409",
+        "location": "新世界",
+        "name": "虫",
+        "pinned_tweet_id": "1920490129291944157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818553174095282176/AV40QRu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 86,
+          "like_count": 3999,
+          "listed_count": 3,
+          "media_count": 140,
+          "tweet_count": 507
+        },
+        "username": "333andw1ch",
+        "verified": false
+      }
+    ]
+  }
+}

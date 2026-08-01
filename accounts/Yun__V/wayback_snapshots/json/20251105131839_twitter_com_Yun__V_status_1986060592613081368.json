@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986019093745745921"
+      ],
+      "media_source_tweet_id": [
+        "1986019110090879468"
+      ]
+    },
+    "author_id": "1650126478213001216",
+    "conversation_id": "1986060592613081368",
+    "created_at": "2025-11-05T13:18:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T14:18:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986060592613081368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1341766476609462274",
+          "start": 3,
+          "username": "mentallychels"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ab96s9jrTz",
+          "end": 94,
+          "expanded_url": "https://x.com/mentallychels/status/1986019110090879468/photo/1",
+          "media_key": "3_1986019093745745921",
+          "start": 71,
+          "url": "https://t.co/Ab96s9jrTz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986060592613081368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986019110090879468",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mentallychels: 或許誰喜歡毛絨心跳這個水色衛衣嗎～轉發關注裡面抽一個小寶寶送一條全新的！8號晚上20:00開^ _ ^ https://t.co/Ab96s9jrTz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986019093745745921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4_B1-fbwAERepn.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986019093745745921"
+          ],
+          "media_source_tweet_id": [
+            "1986019110090879468"
+          ]
+        },
+        "author_id": "1650126478213001216",
+        "conversation_id": "1986060592613081368",
+        "created_at": "2025-11-05T13:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T14:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986060592613081368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1341766476609462274",
+              "start": 3,
+              "username": "mentallychels"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ab96s9jrTz",
+              "end": 94,
+              "expanded_url": "https://x.com/mentallychels/status/1986019110090879468/photo/1",
+              "media_key": "3_1986019093745745921",
+              "start": 71,
+              "url": "https://t.co/Ab96s9jrTz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986060592613081368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986019110090879468",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mentallychels: 或許誰喜歡毛絨心跳這個水色衛衣嗎～轉發關注裡面抽一個小寶寶送一條全新的！8號晚上20:00開^ _ ^ https://t.co/Ab96s9jrTz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986019093745745921"
+          ]
+        },
+        "author_id": "1341766476609462274",
+        "conversation_id": "1986019110090879468",
+        "created_at": "2025-11-05T10:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T11:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986019110090879468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ab96s9jrTz",
+              "end": 75,
+              "expanded_url": "https://x.com/mentallychels/status/1986019110090879468/photo/1",
+              "media_key": "3_1986019093745745921",
+              "start": 52,
+              "url": "https://t.co/Ab96s9jrTz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986019110090879468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 989,
+          "like_count": 19,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "或許誰喜歡毛絨心跳這個水色衛衣嗎～轉發關注裡面抽一個小寶寶送一條全新的！8號晚上20:00開^ _ ^ https://t.co/Ab96s9jrTz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 在脊柱上紋一對翅膀我會飛走嗎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1957837993022222486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14554,
+          "following_count": 110,
+          "like_count": 4995,
+          "listed_count": 28,
+          "media_count": 778,
+          "tweet_count": 6176
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-23T15:24:07.000Z",
+        "description": "我是壑｜shtwt｜双性恋｜双相I型｜天秤infp-t｜重度酥皮枕p｜素晴日全角色全肯定bot｜三無少女全肯定bot｜舞萌dx學習中｜我就這樣等著誰和我一起建設*卓希*｜很久沒有更新就應該是死掉了｜咔我先咔 @scutigera_8964 🚪299",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 104,
+                "username": "scutigera_8964"
+              }
+            ]
+          }
+        },
+        "id": "1341766476609462274",
+        "location": "北校C栋天台",
+        "name": "mentallychels",
+        "pinned_tweet_id": "1465787319303159808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1341766993821671426/K8xmFlJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13648,
+          "following_count": 228,
+          "like_count": 1736,
+          "listed_count": 21,
+          "media_count": 306,
+          "tweet_count": 1266
+        },
+        "username": "mentallychels",
+        "verified": false
+      }
+    ]
+  }
+}

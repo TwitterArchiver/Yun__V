@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1867081885446443168",
+    "created_at": "2024-12-12T05:47:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T06:47:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867083759385972944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1519658311523741703",
+          "start": 0,
+          "username": "chcoochchnch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867083759385972944",
+    "in_reply_to_user_id": "1519658311523741703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867081885446443168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chcoochchnch 好棒哇！我也特别讨厌运动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1867081885446443168",
+        "created_at": "2024-12-12T05:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T06:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867083759385972944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1519658311523741703",
+              "start": 0,
+              "username": "chcoochchnch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867083759385972944",
+        "in_reply_to_user_id": "1519658311523741703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867081885446443168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chcoochchnch 好棒哇！我也特别讨厌运动"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519658311523741703",
+        "conversation_id": "1867081885446443168",
+        "created_at": "2024-12-12T05:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T06:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867081885446443168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1867081885446443168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "乙酰过去最讨厌运动了800米常年五分多钟。但是乙酰决定从明天开始去健身！乙酰要变强壮点！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8952,
+          "following_count": 172,
+          "like_count": 3394,
+          "listed_count": 21,
+          "media_count": 484,
+          "tweet_count": 3791
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-28T12:42:50.000Z",
+        "description": "₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1519658311523741703",
+        "name": "乙酰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661593694691291137/AbBBGsBo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 904,
+          "like_count": 23230,
+          "listed_count": 0,
+          "media_count": 1243,
+          "tweet_count": 4400
+        },
+        "username": "chcoochchnch",
+        "verified": false
+      }
+    ]
+  }
+}

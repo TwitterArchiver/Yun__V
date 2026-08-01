@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1980279110955102431",
+    "created_at": "2025-10-20T14:25:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T15:25:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980279110955102431"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1980279110955102431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我也许真的不会想再去成都这个城市了 对这个地方有太多阴影了 想到二月份在成都浑浑噩噩每天磕药磕成傻逼做一些傻逼事 想到和朋友在家吧门口吵架我又泪失禁忍不住在很多人面前哭 也是除了和我吵架的朋友没有一个人理我甚至一句话也不问 我真的不想总是哭了我讨厌哭讨厌在人面前哭 好想不泪失禁体质"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1980279110955102431",
+        "created_at": "2025-10-20T14:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T15:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980279110955102431"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980279110955102431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也许真的不会想再去成都这个城市了 对这个地方有太多阴影了 想到二月份在成都浑浑噩噩每天磕药磕成傻逼做一些傻逼事 想到和朋友在家吧门口吵架我又泪失禁忍不住在很多人面前哭 也是除了和我吵架的朋友没有一个人理我甚至一句话也不问 我真的不想总是哭了我讨厌哭讨厌在人面前哭 好想不泪失禁体质"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 在脊柱上紋一對翅膀我會飛走嗎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1957837993022222486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14353,
+          "following_count": 104,
+          "like_count": 4882,
+          "listed_count": 28,
+          "media_count": 758,
+          "tweet_count": 6017
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

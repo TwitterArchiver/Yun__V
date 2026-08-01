@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1867576760076054528",
+        "3_1867576760076054530",
+        "3_1867576760071860227"
+      ]
+    },
+    "author_id": "1650126478213001216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Cocktails",
+          "id": "850399423867650048",
+          "name": "Cocktails"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cocktails",
+          "id": "850399423867650048",
+          "name": "Cocktails"
+        }
+      }
+    ],
+    "conversation_id": "1867576773988487260",
+    "created_at": "2024-12-13T14:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T15:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1867576773988487260"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1DKHc3tNox",
+          "end": 52,
+          "expanded_url": "https://x.com/Yun__V/status/1867576773988487260/photo/1",
+          "media_key": "3_1867576760076054528",
+          "start": 29,
+          "url": "https://t.co/1DKHc3tNox"
+        },
+        {
+          "display_url": "pic.x.com/1DKHc3tNox",
+          "end": 52,
+          "expanded_url": "https://x.com/Yun__V/status/1867576773988487260/photo/1",
+          "media_key": "3_1867576760076054530",
+          "start": 29,
+          "url": "https://t.co/1DKHc3tNox"
+        },
+        {
+          "display_url": "pic.x.com/1DKHc3tNox",
+          "end": 52,
+          "expanded_url": "https://x.com/Yun__V/status/1867576773988487260/photo/1",
+          "media_key": "3_1867576760071860227",
+          "start": 29,
+          "url": "https://t.co/1DKHc3tNox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867576773988487260",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "香芋得其利\n咖啡➕martini\n栀子白酒➕姜味盘尼西林 https://t.co/1DKHc3tNox"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1867576760076054528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ger3Kx8bsAAeGA1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1867576760076054530",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ger3Kx8bsAIoQTq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1867576760071860227",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ger3Kx7bsAM1cHQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867576760076054528",
+            "3_1867576760076054530",
+            "3_1867576760071860227"
+          ]
+        },
+        "author_id": "1650126478213001216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cocktails",
+              "id": "850399423867650048",
+              "name": "Cocktails"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cocktails",
+              "id": "850399423867650048",
+              "name": "Cocktails"
+            }
+          }
+        ],
+        "conversation_id": "1867576773988487260",
+        "created_at": "2024-12-13T14:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T15:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867576773988487260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1DKHc3tNox",
+              "end": 52,
+              "expanded_url": "https://x.com/Yun__V/status/1867576773988487260/photo/1",
+              "media_key": "3_1867576760076054528",
+              "start": 29,
+              "url": "https://t.co/1DKHc3tNox"
+            },
+            {
+              "display_url": "pic.x.com/1DKHc3tNox",
+              "end": 52,
+              "expanded_url": "https://x.com/Yun__V/status/1867576773988487260/photo/1",
+              "media_key": "3_1867576760076054530",
+              "start": 29,
+              "url": "https://t.co/1DKHc3tNox"
+            },
+            {
+              "display_url": "pic.x.com/1DKHc3tNox",
+              "end": 52,
+              "expanded_url": "https://x.com/Yun__V/status/1867576773988487260/photo/1",
+              "media_key": "3_1867576760071860227",
+              "start": 29,
+              "url": "https://t.co/1DKHc3tNox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867576773988487260",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "香芋得其利\n咖啡➕martini\n栀子白酒➕姜味盘尼西林 https://t.co/1DKHc3tNox"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9118,
+          "following_count": 177,
+          "like_count": 3478,
+          "listed_count": 21,
+          "media_count": 490,
+          "tweet_count": 3863
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

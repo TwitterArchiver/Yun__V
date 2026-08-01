@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1862804909999235287",
+    "created_at": "2024-11-30T10:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T11:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862813638668714259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1669034162832146433",
+          "start": 0,
+          "username": "minmin1269967"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862813638668714259",
+    "in_reply_to_user_id": "1669034162832146433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862804909999235287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minmin1269967 抖人最近跟疯了一样"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1862804909999235287].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1862804909999235287",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1862804909999235287"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1862804909999235287",
+        "created_at": "2024-11-30T10:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T11:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862813638668714259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1669034162832146433",
+              "start": 0,
+              "username": "minmin1269967"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862813638668714259",
+        "in_reply_to_user_id": "1669034162832146433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862804909999235287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minmin1269967 抖人最近跟疯了一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1853874978472825156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7948,
+          "following_count": 165,
+          "like_count": 3197,
+          "listed_count": 19,
+          "media_count": 471,
+          "tweet_count": 3598
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T17:28:57.000Z",
+        "description": "挠颤勿扰，男的关注评论我死全家",
+        "id": "1669034162832146433",
+        "name": "1",
+        "pinned_tweet_id": "1832475317023191425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862805452725051392/9gHzl1Rb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 151,
+          "like_count": 1466,
+          "listed_count": 0,
+          "media_count": 307,
+          "tweet_count": 1524
+        },
+        "username": "minmin1269967",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1864103997390639491",
+    "created_at": "2024-12-04T00:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T01:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1864103997390639491"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1864103997390639491",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么都对我这样为什么 是我不够好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1864103997390639491",
+        "created_at": "2024-12-04T00:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T01:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864103997390639491"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1864103997390639491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么都对我这样为什么 是我不够好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1825939223041683885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8040,
+          "following_count": 170,
+          "like_count": 3255,
+          "listed_count": 19,
+          "media_count": 473,
+          "tweet_count": 3666
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

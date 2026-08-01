@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1220824190619545601",
+          "name": "Tinder"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1220824190619545601",
+          "name": "Tinder"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1433125517692002306",
+          "name": "Dating Apps"
+        }
+      }
+    ],
+    "conversation_id": "1876642802047852861",
+    "created_at": "2025-01-07T15:13:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T16:13:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876648258937962779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3362173438",
+          "start": 0,
+          "username": "fujyoriaru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876648258937962779",
+    "in_reply_to_user_id": "3362173438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876642802047852861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fujyoriaru 什么app tinder吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1220824190619545601",
+              "name": "Tinder"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1220824190619545601",
+              "name": "Tinder"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1433125517692002306",
+              "name": "Dating Apps"
+            }
+          }
+        ],
+        "conversation_id": "1876642802047852861",
+        "created_at": "2025-01-07T15:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T16:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876648258937962779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3362173438",
+              "start": 0,
+              "username": "fujyoriaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876648258937962779",
+        "in_reply_to_user_id": "3362173438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876642802047852861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fujyoriaru 什么app tinder吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3362173438",
+        "conversation_id": "1876642802047852861",
+        "created_at": "2025-01-07T14:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T15:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876642802047852861"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1876642802047852861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的美国社交王朋友无法理解为什么我在dating app上没有matching成功过人，她还给我出主意说换什么照片好看或者简介怎么写，但是我跟着她教我的方法做也还是没matchimg成功过。我也不理解，我有这么丑？也许这个问题根本就不是个技术性问题。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873052534652477440/cWEl1eck_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9450,
+          "following_count": 192,
+          "like_count": 3850,
+          "listed_count": 20,
+          "media_count": 522,
+          "tweet_count": 4232
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-06T09:19:01.000Z",
+        "description": "元Vtuber、日本で哲学をしています。 サブカル批判/バタイユ主義者/Anarchism/Cinema/Parfume 日本語/中文/English\n“我已不再写诗　世界はもう詩なんていらん”🗿",
+        "id": "3362173438",
+        "location": "子宮",
+        "name": "楓冗りある",
+        "pinned_tweet_id": "1621886647007858688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751196444332285952/antWi7vL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 68,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 517
+        },
+        "username": "fujyoriaru",
+        "verified": false
+      }
+    ]
+  }
+}

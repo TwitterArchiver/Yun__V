@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2052406930295971914",
+    "created_at": "2026-05-07T15:15:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T16:15:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052406930295971914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1894760369153085440",
+          "start": 3,
+          "username": "Me_0923814"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052406930295971914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052405300603535515",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Me_0923814: 老公們我是小瓜瓜😭😭我上一個號被歹人陷害\n互關回家門檻回家粉絲寶寶回家好嗎😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2052406930295971914",
+        "created_at": "2026-05-07T15:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052406930295971914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1894760369153085440",
+              "start": 3,
+              "username": "Me_0923814"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052406930295971914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052405300603535515",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Me_0923814: 老公們我是小瓜瓜😭😭我上一個號被歹人陷害\n互關回家門檻回家粉絲寶寶回家好嗎😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894760369153085440",
+        "conversation_id": "2052405300603535515",
+        "created_at": "2026-05-07T15:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052405300603535515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/me_0923814/sta…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/me_0923814/status/2052392824495329528",
+              "start": 41,
+              "url": "https://t.co/2u4wtVEovm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052405300603535515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052392824495329528",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老公們我是小瓜瓜😭😭我上一個號被歹人陷害\n互關回家門檻回家粉絲寶寶回家好嗎😭😭😭 https://t.co/2u4wtVEovm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15709,
+          "following_count": 124,
+          "like_count": 5478,
+          "listed_count": 32,
+          "media_count": 847,
+          "tweet_count": 6765
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T14:44:21.000Z",
+        "description": "",
+        "id": "1894760369153085440",
+        "name": "並非我",
+        "pinned_tweet_id": "2049711821863694395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000576211203035136/pWKAS1a2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 6,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 9
+        },
+        "username": "Me_0923814",
+        "verified": false
+      }
+    ]
+  }
+}

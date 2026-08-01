@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2044814961046892929",
+    "created_at": "2026-04-16T16:30:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T17:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044815714884715008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1638137229968297987",
+          "start": 0,
+          "username": "yuyuyu197878"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044815714884715008",
+    "in_reply_to_user_id": "1638137229968297987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044814961046892929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyuyu197878 蠢逼女大翻墙上外网干嘛 这么蠢也好意思收门槛🙄你难道就不是穷逼了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2044814961046892929",
+        "created_at": "2026-04-16T16:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T17:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044815714884715008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1638137229968297987",
+              "start": 0,
+              "username": "yuyuyu197878"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044815714884715008",
+        "in_reply_to_user_id": "1638137229968297987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044814961046892929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyuyu197878 蠢逼女大翻墙上外网干嘛 这么蠢也好意思收门槛🙄你难道就不是穷逼了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638137229968297987",
+        "conversation_id": "2044814961046892929",
+        "created_at": "2026-04-16T16:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T17:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044814961046892929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yun__v/status/…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/yun__v/status/2044192759569879396",
+              "start": 106,
+              "url": "https://t.co/ucaz1gqX0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044814961046892929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044192759569879396",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种人是那种以为自己不出生在中国就认为自己出生贵族名门 在印度以为自己是婆罗门 在非洲以为自己是酋长 实则你在别的国家可能投胎成了连猪都不如的牲畜 在中国还委屈到她自己了😂有钱的都移民去了 穷逼还挑三拣四上了😂 https://t.co/ucaz1gqX0v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15181,
+          "following_count": 116,
+          "like_count": 5357,
+          "listed_count": 28,
+          "media_count": 839,
+          "tweet_count": 6624
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-21T11:15:39.000Z",
+        "description": "🐶/170 55kg/偶尔更新doi视频/不约不线下/偶尔碎碎念/单纯分享生活/有🚪(偶尔有照片视频福利)",
+        "id": "1638137229968297987",
+        "location": "🚪88",
+        "name": "yuyuyu",
+        "pinned_tweet_id": "2044317850811375655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043988092529541120/C0TIE-h4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 7,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 57
+        },
+        "username": "yuyuyu197878",
+        "verified": false
+      }
+    ]
+  }
+}

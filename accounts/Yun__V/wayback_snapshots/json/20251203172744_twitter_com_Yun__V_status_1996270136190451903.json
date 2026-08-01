@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1996210643746353179",
+    "created_at": "2025-12-03T17:27:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T18:27:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996270136190451903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1802390692364505088",
+          "start": 0,
+          "username": "SthRomantic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996270136190451903",
+    "in_reply_to_user_id": "1802390692364505088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996264582848135317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SthRomantic 快了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1996210643746353179",
+        "created_at": "2025-12-03T17:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T18:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996270136190451903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1802390692364505088",
+              "start": 0,
+              "username": "SthRomantic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996270136190451903",
+        "in_reply_to_user_id": "1802390692364505088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996264582848135317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SthRomantic 快了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802390692364505088",
+        "conversation_id": "1996210643746353179",
+        "created_at": "2025-12-03T17:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T18:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996264582848135317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996264582848135317",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996210643746353179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 已经定居广了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14483,
+          "following_count": 115,
+          "like_count": 5018,
+          "listed_count": 28,
+          "media_count": 784,
+          "tweet_count": 6240
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-16T17:20:19.000Z",
+        "description": "中文 ok/ English ok/ 日本語yes!  在日小留，话很多所以想尝试做一名同时分享生活碎片和各大奇思妙想的po主！谢谢您的关注ww",
+        "id": "1802390692364505088",
+        "location": "你家楼下",
+        "name": "Kurokuro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808673872755183616/IilWm2RU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 185,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 59
+        },
+        "username": "SthRomantic",
+        "verified": false
+      }
+    ]
+  }
+}

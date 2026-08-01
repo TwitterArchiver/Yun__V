@@ -1,0 +1,84 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1806402982562693410",
+    "created_at": "2024-06-27T19:03:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T20:03:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1806402982562693410"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1806402982562693410",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好久没看演出了唉上次看还是去年"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1806402982562693410",
+        "created_at": "2024-06-27T19:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T20:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806402982562693410"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1806402982562693410",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久没看演出了唉上次看还是去年"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪250/520",
+        "id": "1650126478213001216",
+        "name": "羊儿的聪明难以想象",
+        "pinned_tweet_id": "1755285158981439622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806401318061514752/l_AeN_SF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5361,
+          "following_count": 218,
+          "like_count": 2596,
+          "listed_count": 15,
+          "tweet_count": 2793
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

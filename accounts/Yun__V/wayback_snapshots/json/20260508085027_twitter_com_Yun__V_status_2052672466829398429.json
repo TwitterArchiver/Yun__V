@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2052672466829398429",
+    "created_at": "2026-05-08T08:50:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T09:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052672466829398429"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052672466829398429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "雨天 靠在床上听歌 听雨声 透过玻璃窗观察街道上来来往往的行人 我喜欢这样与世界隔绝的感觉 屋内是我的世界 门外是另一个世界"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2052672466829398429",
+        "created_at": "2026-05-08T08:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052672466829398429"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052672466829398429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雨天 靠在床上听歌 听雨声 透过玻璃窗观察街道上来来往往的行人 我喜欢这样与世界隔绝的感觉 屋内是我的世界 门外是另一个世界"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15712,
+          "following_count": 124,
+          "like_count": 5476,
+          "listed_count": 32,
+          "media_count": 847,
+          "tweet_count": 6768
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

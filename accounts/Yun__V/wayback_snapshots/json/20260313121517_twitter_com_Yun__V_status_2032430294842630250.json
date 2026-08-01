@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2032430294842630250",
+    "created_at": "2026-03-13T12:15:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T13:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032430294842630250"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032430294842630250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "心软和善良才是我人生最大的课题，对的我已经在变好了。我再也不会轻易对别人太好了，到头来只是一切都被浪费被看轻。我只想收回我的好我给出去的爱然后两清，切割。我终于开始对自己好了，我终于越来越有勇气了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2032430294842630250",
+        "created_at": "2026-03-13T12:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T13:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032430294842630250"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032430294842630250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心软和善良才是我人生最大的课题，对的我已经在变好了。我再也不会轻易对别人太好了，到头来只是一切都被浪费被看轻。我只想收回我的好我给出去的爱然后两清，切割。我终于开始对自己好了，我终于越来越有勇气了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14985,
+          "following_count": 117,
+          "like_count": 5175,
+          "listed_count": 28,
+          "media_count": 831,
+          "tweet_count": 6496
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1887090332111868175",
+    "created_at": "2025-02-05T11:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T12:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887098625718911112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1441741193990193157",
+          "start": 0,
+          "username": "Rottingfloweri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887098625718911112",
+    "in_reply_to_user_id": "1441741193990193157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887098197996187915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rottingfloweri 我喜欢莫吉托单爆不喜欢荔枝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1887090332111868175",
+        "created_at": "2025-02-05T11:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T12:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887098625718911112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1441741193990193157",
+              "start": 0,
+              "username": "Rottingfloweri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887098625718911112",
+        "in_reply_to_user_id": "1441741193990193157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887098197996187915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rottingfloweri 我喜欢莫吉托单爆不喜欢荔枝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1441741193990193157",
+        "conversation_id": "1887090332111868175",
+        "created_at": "2025-02-05T11:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T12:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887098197996187915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887098197996187915",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887090332111868175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 宝恒怎么很不好抽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10240,
+          "following_count": 199,
+          "like_count": 4032,
+          "listed_count": 22,
+          "media_count": 545,
+          "tweet_count": 4469
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-25T12:27:48.000Z",
+        "description": "电子山二路飞行日记 四爱/sub/亚文化🚪52",
+        "id": "1441741193990193157",
+        "location": "木卫二",
+        "name": "静夜思",
+        "pinned_tweet_id": "1475407060372111360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883562309093613568/gi6mqE1F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 559,
+          "like_count": 3803,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 2447
+        },
+        "username": "Rottingfloweri",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1852028689128509774",
+    "created_at": "2024-10-31T16:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T17:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852028689128509774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1750324577954381824",
+          "start": 3,
+          "username": "CSHead34"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852028689128509774",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852028057684516957",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CSHead34: 脆弱的心理 病例单滚一遍 薄弱的意志力 成瘾依赖 紊乱的激素 操控不了自己 无病呻吟一样的卖惨 张口闭口就要死要活 软弱的人格 只会事后愤怒 但我依旧觉得我已经超进化是超人类"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1852028689128509774",
+        "created_at": "2024-10-31T16:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T17:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852028689128509774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1750324577954381824",
+              "start": 3,
+              "username": "CSHead34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852028689128509774",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852028057684516957",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CSHead34: 脆弱的心理 病例单滚一遍 薄弱的意志力 成瘾依赖 紊乱的激素 操控不了自己 无病呻吟一样的卖惨 张口闭口就要死要活 软弱的人格 只会事后愤怒 但我依旧觉得我已经超进化是超人类"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750324577954381824",
+        "conversation_id": "1852028057684516957",
+        "created_at": "2024-10-31T16:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T17:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852028057684516957"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1852028057684516957",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "脆弱的心理 病例单滚一遍 薄弱的意志力 成瘾依赖 紊乱的激素 操控不了自己 无病呻吟一样的卖惨 张口闭口就要死要活 软弱的人格 只会事后愤怒 但我依旧觉得我已经超进化是超人类"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1849804879109451906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6782,
+          "following_count": 227,
+          "like_count": 2950,
+          "listed_count": 16,
+          "tweet_count": 3267
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T01:08:10.000Z",
+        "description": "在泰国撞死过人的大巴司机。",
+        "id": "1750324577954381824",
+        "location": "火葬场",
+        "name": "樣楊乐多",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763282112390860803/6avpTEej_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 114,
+          "like_count": 1857,
+          "listed_count": 0,
+          "tweet_count": 825
+        },
+        "username": "CSHead34",
+        "verified": false
+      }
+    ]
+  }
+}

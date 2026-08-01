@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1950570256776483007",
+    "created_at": "2025-07-30T14:52:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T15:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950570256776483007"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1950570256776483007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "總是用精美的語言反覆修飾少得可憐的溫存的瞬間 那會是愛嗎 還是只存在於我幻想當中的愛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1950570256776483007",
+        "created_at": "2025-07-30T14:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T15:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950570256776483007"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950570256776483007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "總是用精美的語言反覆修飾少得可憐的溫存的瞬間 那會是愛嗎 還是只存在於我幻想當中的愛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 ig：afterthesheep",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1941923000317546552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13810,
+          "following_count": 98,
+          "like_count": 4616,
+          "listed_count": 25,
+          "media_count": 658,
+          "tweet_count": 5406
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

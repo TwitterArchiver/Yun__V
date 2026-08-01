@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1969013347849769268",
+    "created_at": "2025-09-20T04:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T05:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969251170523722209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1260083426993950722",
+          "start": 0,
+          "username": "bigjijibread"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969251170523722209",
+    "in_reply_to_user_id": "1260083426993950722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969022053781999862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigjijibread 对呀！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1969013347849769268",
+        "created_at": "2025-09-20T04:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T05:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969251170523722209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1260083426993950722",
+              "start": 0,
+              "username": "bigjijibread"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969251170523722209",
+        "in_reply_to_user_id": "1260083426993950722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969022053781999862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigjijibread 对呀！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1260083426993950722",
+        "conversation_id": "1969013347849769268",
+        "created_at": "2025-09-19T12:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T13:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969022053781999862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969022053781999862",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969013347849769268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 卧槽老大你来上海了啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 在脊柱上紋一對翅膀我會飛走嗎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：afterthesheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1957837993022222486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14101,
+          "following_count": 97,
+          "like_count": 4665,
+          "listed_count": 28,
+          "media_count": 713,
+          "tweet_count": 5698
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-12T05:44:46.000Z",
+        "description": "Unsociable is innoncence.a holocauster club  non-binary he/they/it",
+        "id": "1260083426993950722",
+        "location": "China ",
+        "name": "大吉JIパン",
+        "pinned_tweet_id": "1665828158673678337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560369195719700480/kp5FoOP7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 195,
+          "like_count": 2913,
+          "listed_count": 1,
+          "media_count": 415,
+          "tweet_count": 1449
+        },
+        "username": "bigjijibread",
+        "verified": false
+      }
+    ]
+  }
+}

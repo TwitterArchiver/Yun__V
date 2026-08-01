@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1982069492617457978",
+    "created_at": "2025-10-27T08:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T09:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982730943497752675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1879216872102711296",
+          "start": 0,
+          "username": "wbde2Z1Pz673486"
+        },
+        {
+          "end": 33,
+          "id": "1255534184392622080",
+          "start": 17,
+          "username": "xxxcactus114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982730943497752675",
+    "in_reply_to_user_id": "1879216872102711296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982679448077177287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wbde2Z1Pz673486 @xxxcactus114514 煞笔中国人，研究生也是骄傲上了有够幽默"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1982069492617457978",
+        "created_at": "2025-10-27T08:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T09:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982730943497752675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1879216872102711296",
+              "start": 0,
+              "username": "wbde2Z1Pz673486"
+            },
+            {
+              "end": 33,
+              "id": "1255534184392622080",
+              "start": 17,
+              "username": "xxxcactus114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982730943497752675",
+        "in_reply_to_user_id": "1879216872102711296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982679448077177287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wbde2Z1Pz673486 @xxxcactus114514 煞笔中国人，研究生也是骄傲上了有够幽默"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879216872102711296",
+        "conversation_id": "1982069492617457978",
+        "created_at": "2025-10-27T05:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T06:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982679448077177287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            },
+            {
+              "end": 24,
+              "id": "1255534184392622080",
+              "start": 8,
+              "username": "xxxcactus114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982679448077177287",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982677767960637750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V @xxxcactus114514 废物，你爹是研究生，自己说话和脑残一样还怪老子理解能力？你全家的水平加起来也没老子一个人高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 在脊柱上紋一對翅膀我會飛走嗎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1957837993022222486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14511,
+          "following_count": 108,
+          "like_count": 4926,
+          "listed_count": 28,
+          "media_count": 771,
+          "tweet_count": 6112
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T17:20:07.000Z",
+        "description": "",
+        "id": "1879216872102711296",
+        "name": "寄寄子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879217660938055680/l8Av3K9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 87,
+          "like_count": 17302,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 344
+        },
+        "username": "wbde2Z1Pz673486",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-29T16:27:37.000Z",
+        "description": "可愛い",
+        "id": "1255534184392622080",
+        "location": "日本",
+        "name": "仙人球",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1268715668133691392/Rd0cvWj6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 145,
+          "like_count": 1357,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 82
+        },
+        "username": "xxxcactus114514",
+        "verified": false
+      }
+    ]
+  }
+}

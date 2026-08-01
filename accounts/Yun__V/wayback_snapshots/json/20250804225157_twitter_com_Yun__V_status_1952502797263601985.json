@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1952192935430365353",
+    "created_at": "2025-08-04T22:51:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T23:51:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952502797263601985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1791840281656250368",
+          "start": 0,
+          "username": "Offspring_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952502797263601985",
+    "in_reply_to_user_id": "1791840281656250368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952502053789725025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Offspring_0 所以我骂男的到底关你什么事我不懂 自动对号入座了不就是精神男人吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1952192935430365353",
+        "created_at": "2025-08-04T22:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T23:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952502797263601985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1791840281656250368",
+              "start": 0,
+              "username": "Offspring_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952502797263601985",
+        "in_reply_to_user_id": "1791840281656250368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952502053789725025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Offspring_0 所以我骂男的到底关你什么事我不懂 自动对号入座了不就是精神男人吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791840281656250368",
+        "conversation_id": "1952192935430365353",
+        "created_at": "2025-08-04T22:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T23:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952502053789725025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952502053789725025",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952501596929339421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 由于我给男的讲话所以我是精神男人了 我是不是帮女的我就媚女啊推特没有人频是吧 怎么想的心里有数哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 today is the greatest",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：afterthesheep",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1941923000317546552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13954,
+          "following_count": 98,
+          "like_count": 4622,
+          "listed_count": 26,
+          "media_count": 665,
+          "tweet_count": 5431
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T14:36:43.000Z",
+        "description": "我一直在哭",
+        "id": "1791840281656250368",
+        "name": "我的世界在下雨我处理不好",
+        "pinned_tweet_id": "1810036269768114483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902052865407119366/iSpN1SkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 48,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 469
+        },
+        "username": "Offspring_0",
+        "verified": false
+      }
+    ]
+  }
+}

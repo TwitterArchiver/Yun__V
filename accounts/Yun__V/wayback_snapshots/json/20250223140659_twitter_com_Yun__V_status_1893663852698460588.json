@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1893659189387419783",
+    "created_at": "2025-02-23T14:06:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T15:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893663852698460588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1822741639368171520",
+          "start": 0,
+          "username": "ziy0609"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893663852698460588",
+    "in_reply_to_user_id": "1822741639368171520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893659189387419783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ziy0609 我能免门槛吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1893659179773988864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkeg_bAWEAAXHMz.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1893659189387419783",
+        "created_at": "2025-02-23T14:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T15:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893663852698460588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1822741639368171520",
+              "start": 0,
+              "username": "ziy0609"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893663852698460588",
+        "in_reply_to_user_id": "1822741639368171520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893659189387419783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ziy0609 我能免门槛吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893659179773988864"
+          ]
+        },
+        "author_id": "1822741639368171520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1893659189387419783",
+        "created_at": "2025-02-23T13:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T14:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893659189387419783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O1KqyAPiiP",
+              "end": 36,
+              "expanded_url": "https://x.com/ziy0609/status/1893659189387419783/photo/1",
+              "media_key": "3_1893659179773988864",
+              "start": 13,
+              "url": "https://t.co/O1KqyAPiiP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893659189387419783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想进群的给我发5块钱门槛 https://t.co/O1KqyAPiiP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "冬の光が射していた",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1886731232559686084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10809,
+          "following_count": 215,
+          "like_count": 4180,
+          "listed_count": 22,
+          "media_count": 554,
+          "tweet_count": 4764
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T21:07:50.000Z",
+        "description": "我是子钰｜泛性恋｜中抑｜中焦 ｜精神分裂多人格｜默   小钰   子钰｜",
+        "id": "1822741639368171520",
+        "location": "异世界",
+        "name": "子钰",
+        "pinned_tweet_id": "1886747138111234379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885765348861083648/BVomAhJ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 379,
+          "like_count": 24118,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 309
+        },
+        "username": "ziy0609",
+        "verified": false
+      }
+    ]
+  }
+}

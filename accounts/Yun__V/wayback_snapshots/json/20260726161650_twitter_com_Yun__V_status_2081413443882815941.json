@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2081413443882815941",
+    "created_at": "2026-07-26T16:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T17:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081413443882815941"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081413443882815941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃了个59.9的自助小火锅，结果菜还没煮熟突然特别想吐然后我跑到店外蹲着透气了，店员还去问饭饭我咋了没事吧，最后吃了两口菜和面就跑路了，好苦逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2081413443882815941",
+        "created_at": "2026-07-26T16:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081413443882815941"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081413443882815941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃了个59.9的自助小火锅，结果菜还没煮熟突然特别想吐然后我跑到店外蹲着透气了，店员还去问饭饭我咋了没事吧，最后吃了两口菜和面就跑路了，好苦逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16199,
+          "following_count": 141,
+          "like_count": 5715,
+          "listed_count": 28,
+          "media_count": 888,
+          "tweet_count": 7006
+        },
+        "url": "",
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

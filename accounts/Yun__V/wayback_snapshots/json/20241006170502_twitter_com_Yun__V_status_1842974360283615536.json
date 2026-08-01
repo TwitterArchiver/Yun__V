@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1842973412400284141",
+    "created_at": "2024-10-06T17:05:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-06T18:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842974360283615536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1673731239935881216",
+          "start": 0,
+          "username": "TKME2Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842974360283615536",
+    "in_reply_to_user_id": "1673731239935881216",
+    "lang": "vi",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842974185100112095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TKME2Y wqnl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1842973412400284141",
+        "created_at": "2024-10-06T17:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T18:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842974360283615536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1673731239935881216",
+              "start": 0,
+              "username": "TKME2Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842974360283615536",
+        "in_reply_to_user_id": "1673731239935881216",
+        "lang": "vi",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842974185100112095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TKME2Y wqnl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673731239935881216",
+        "conversation_id": "1842973412400284141",
+        "created_at": "2024-10-06T17:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T18:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842974185100112095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842974185100112095",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842973893390422039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 诡秘我可以在你面前肉体精神双裸奔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "",
+        "id": "1650126478213001216",
+        "name": "After the sheep",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840984339192168448/KG320K-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5720,
+          "following_count": 215,
+          "like_count": 2677,
+          "listed_count": 18,
+          "tweet_count": 2988
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-27T16:33:44.000Z",
+        "description": "那么即便巴黎整个都被烧光了",
+        "id": "1673731239935881216",
+        "location": "🚪88/288/520",
+        "name": "过把瘾就死",
+        "pinned_tweet_id": "1832746386812735506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842911073827237888/Nup1uGn5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 282,
+          "like_count": 4496,
+          "listed_count": 2,
+          "tweet_count": 1335
+        },
+        "username": "TKME2Y",
+        "verified": false
+      }
+    ]
+  }
+}

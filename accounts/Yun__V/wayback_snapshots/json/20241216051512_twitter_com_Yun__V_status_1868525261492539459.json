@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1868518059302101040",
+    "created_at": "2024-12-16T05:15:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T06:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868525261492539459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1203241606133866496",
+          "start": 0,
+          "username": "CrazyfuckingS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868525261492539459",
+    "in_reply_to_user_id": "1203241606133866496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868523706131365991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CrazyfuckingS 啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1868518059302101040",
+        "created_at": "2024-12-16T05:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T06:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868525261492539459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1203241606133866496",
+              "start": 0,
+              "username": "CrazyfuckingS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868525261492539459",
+        "in_reply_to_user_id": "1203241606133866496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868523706131365991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CrazyfuckingS 啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1203241606133866496",
+        "conversation_id": "1868518059302101040",
+        "created_at": "2024-12-16T05:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T06:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868523706131365991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868523706131365991",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868518059302101040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 你要笑死我，但是那样会让人觉得你对象一定多财多亿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9186,
+          "following_count": 179,
+          "like_count": 3556,
+          "listed_count": 21,
+          "media_count": 495,
+          "tweet_count": 3927
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-07T09:15:39.000Z",
+        "description": "此地无人生还/Csgo魔王C+！",
+        "id": "1203241606133866496",
+        "location": "Are u happy",
+        "name": "川禾一",
+        "pinned_tweet_id": "1723408505649127841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1355430460822720515/ec8B7VhC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 308,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 169
+        },
+        "username": "CrazyfuckingS",
+        "verified": false
+      }
+    ]
+  }
+}

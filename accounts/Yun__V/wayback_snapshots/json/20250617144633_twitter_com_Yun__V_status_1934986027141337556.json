@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1934985836736774144"
+      ]
+    },
+    "author_id": "1650126478213001216",
+    "conversation_id": "1934986027141337556",
+    "created_at": "2025-06-17T14:46:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T15:46:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934986027141337556"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/w8kEi3NOLy",
+          "end": 23,
+          "expanded_url": "https://x.com/Yun__V/status/1934986027141337556/video/1",
+          "media_key": "7_1934985836736774144",
+          "start": 0,
+          "url": "https://t.co/w8kEi3NOLy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934986027141337556",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/w8kEi3NOLy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6961,
+        "height": 1280,
+        "media_key": "7_1934985836736774144",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1934985836736774144/pu/img/LALr-IRISGEie2KN.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1934985836736774144/pu/vid/avc1/320x568/Dz7r_YHJmZiK0Fxq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1934985836736774144/pu/vid/avc1/480x852/LehQcvtjViKBEKkD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1934985836736774144/pu/vid/avc1/720x1280/Hrljl3CCmVqBqreV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1934985836736774144/pu/pl/oDTRZcgUDAL_PFWy.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1934985836736774144"
+          ]
+        },
+        "author_id": "1650126478213001216",
+        "conversation_id": "1934986027141337556",
+        "created_at": "2025-06-17T14:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T15:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934986027141337556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w8kEi3NOLy",
+              "end": 23,
+              "expanded_url": "https://x.com/Yun__V/status/1934986027141337556/video/1",
+              "media_key": "7_1934985836736774144",
+              "start": 0,
+              "url": "https://t.co/w8kEi3NOLy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934986027141337556",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/w8kEi3NOLy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 我養的鳥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927314874956230656/FrPnF5AR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13108,
+          "following_count": 93,
+          "like_count": 4545,
+          "listed_count": 25,
+          "media_count": 601,
+          "tweet_count": 5164
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

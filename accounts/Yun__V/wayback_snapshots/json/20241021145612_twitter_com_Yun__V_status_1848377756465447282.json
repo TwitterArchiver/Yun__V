@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1848027940900241697",
+    "created_at": "2024-10-21T14:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-21T15:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848377756465447282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1796927119097745410",
+          "start": 0,
+          "username": "guo_nong64668"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1848377756465447282",
+    "in_reply_to_user_id": "1796927119097745410",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848361265665601839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guo_nong64668 请问这是什么书！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1848027940900241697",
+        "created_at": "2024-10-21T14:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-21T15:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848377756465447282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1796927119097745410",
+              "start": 0,
+              "username": "guo_nong64668"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1848377756465447282",
+        "in_reply_to_user_id": "1796927119097745410",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848361265665601839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guo_nong64668 请问这是什么书！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796927119097745410",
+        "conversation_id": "1848027940900241697",
+        "created_at": "2024-10-21T13:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-21T14:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848361265665601839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1848361265665601839",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848027940900241697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V “是的，我自己亲眼看见古米的西比尔吊在一个笼子里。孩子们在问她：西比尔，你要什么的时候，她回答说，我要死。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "",
+        "id": "1650126478213001216",
+        "name": "After the sheep",
+        "pinned_tweet_id": "1847704934776787255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6331,
+          "following_count": 224,
+          "like_count": 2758,
+          "listed_count": 17,
+          "tweet_count": 3053
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T15:30:03.000Z",
+        "description": "平安喜樂，平安喜樂",
+        "id": "1796927119097745410",
+        "location": "東京都",
+        "name": "萬山寺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848363333704962049/BLUK3Kks_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 18,
+          "like_count": 114,
+          "listed_count": 0,
+          "tweet_count": 54
+        },
+        "username": "guo_nong64668",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1856076043976880408",
+    "created_at": "2024-11-11T20:48:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T21:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856076625642971144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1778356449892270080",
+          "start": 0,
+          "username": "0ysmPp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856076625642971144",
+    "in_reply_to_user_id": "1778356449892270080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856076043976880408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@0ysmPp 美美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1856076043976880408",
+        "created_at": "2024-11-11T20:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T21:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856076625642971144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1778356449892270080",
+              "start": 0,
+              "username": "0ysmPp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856076625642971144",
+        "in_reply_to_user_id": "1778356449892270080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856076043976880408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@0ysmPp 美美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856076036490010624",
+            "3_1856076036729122816"
+          ]
+        },
+        "author_id": "1778356449892270080",
+        "conversation_id": "1856076043976880408",
+        "created_at": "2024-11-11T20:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T21:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856076043976880408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JuxGbnyxTm",
+              "end": 25,
+              "expanded_url": "https://x.com/0ysmPp/status/1856076043976880408/photo/1",
+              "media_key": "3_1856076036490010624",
+              "start": 2,
+              "url": "https://t.co/JuxGbnyxTm"
+            },
+            {
+              "display_url": "pic.x.com/JuxGbnyxTm",
+              "end": 25,
+              "expanded_url": "https://x.com/0ysmPp/status/1856076043976880408/photo/1",
+              "media_key": "3_1856076036729122816",
+              "start": 2,
+              "url": "https://t.co/JuxGbnyxTm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856076043976880408",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "b https://t.co/JuxGbnyxTm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1853874978472825156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6911,
+          "following_count": 225,
+          "like_count": 3060,
+          "listed_count": 16,
+          "tweet_count": 3440
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T09:36:45.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/shn_o5?igsh=an…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/shn_o5?igsh=anZjNTZ0ODlydG0%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/p2nnB411Tc"
+              }
+            ]
+          }
+        },
+        "id": "1778356449892270080",
+        "name": "(꒪ཀ꒪",
+        "pinned_tweet_id": "1838343802383405545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855903221962911744/2dS34JoC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3024,
+          "following_count": 104,
+          "like_count": 1562,
+          "listed_count": 3,
+          "tweet_count": 1476
+        },
+        "url": "https://t.co/p2nnB411Tc",
+        "username": "0ysmPp",
+        "verified": false
+      }
+    ]
+  }
+}

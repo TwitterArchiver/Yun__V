@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1863970628287725595",
+    "created_at": "2024-12-03T15:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T16:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863972217509556354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1458260307919667200",
+          "start": 0,
+          "username": "yebizz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863972217509556354",
+    "in_reply_to_user_id": "1458260307919667200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863970628287725595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yebizz 我十多號在上海！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1863970628287725595",
+        "created_at": "2024-12-03T15:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T16:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863972217509556354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1458260307919667200",
+              "start": 0,
+              "username": "yebizz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863972217509556354",
+        "in_reply_to_user_id": "1458260307919667200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863970628287725595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yebizz 我十多號在上海！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1458260307919667200",
+        "conversation_id": "1863970628287725595",
+        "created_at": "2024-12-03T15:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T16:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863970628287725595"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1863970628287725595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "周末去杭州或者上海玩 谁陪我喝酒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1825939223041683885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8031,
+          "following_count": 170,
+          "like_count": 3252,
+          "listed_count": 19,
+          "media_count": 473,
+          "tweet_count": 3660
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-10T02:28:58.000Z",
+        "description": "EVERYTHING about me /学艺术的/喜欢我就过我门/不线下/男的私信骚扰不回口令除外/女生来找我玩",
+        "id": "1458260307919667200",
+        "location": "🚪58",
+        "name": "火炭秋刀魚",
+        "pinned_tweet_id": "1844075640431227075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671443582408970240/OTpQqe1Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 123,
+          "like_count": 864,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 190
+        },
+        "username": "yebizz",
+        "verified": false
+      }
+    ]
+  }
+}

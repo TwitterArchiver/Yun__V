@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1997324257001685109",
+    "created_at": "2025-12-06T15:16:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T16:16:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997324257001685109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863153995159687168",
+          "start": 3,
+          "username": "weita2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997324257001685109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997323427028365466",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @weita2024: 电子烟这款名叫supernova，冰熊zgar的超新星系列，烟油容量：15ml，丁含量：3%，约20000口属于极具性价比的高品质电子烟，电池：700mAh，支持Type-C大电池，。输出功率：16W和25w涡轮大功率，双档调节。其他功能：LED显…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1554,
+        "media_key": "3_1997323165899554816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7fq1k0aAAA2t79.jpg",
+        "width": 1108
+      },
+      {
+        "duration_ms": 82802,
+        "height": 1280,
+        "media_key": "7_1997323205082820608",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1997323205082820608/pu/img/xyKNvkxAy-Jc3bFI.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997323205082820608/pu/vid/avc1/320x568/HK0eiBP3tfit5ne8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997323205082820608/pu/vid/avc1/480x852/Bj6djbEYFRahZZ82.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997323205082820608/pu/vid/avc1/720x1280/gV57umzaPbCLkggN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1997323205082820608/pu/pl/T8hREIozxok19zoy.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1997324257001685109",
+        "created_at": "2025-12-06T15:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T16:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997324257001685109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863153995159687168",
+              "start": 3,
+              "username": "weita2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997324257001685109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997323427028365466",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @weita2024: 电子烟这款名叫supernova，冰熊zgar的超新星系列，烟油容量：15ml，丁含量：3%，约20000口属于极具性价比的高品质电子烟，电池：700mAh，支持Type-C大电池，。输出功率：16W和25w涡轮大功率，双档调节。其他功能：LED显…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997323165899554816",
+            "7_1997323205082820608"
+          ]
+        },
+        "author_id": "1863153995159687168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1997323427028365466",
+        "created_at": "2025-12-06T15:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T16:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997323427028365466"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 154,
+              "start": 150,
+              "tag": "电子烟"
+            },
+            {
+              "end": 158,
+              "start": 155,
+              "tag": "冰熊"
+            },
+            {
+              "end": 164,
+              "start": 159,
+              "tag": "zgar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bn0BhjXrBc",
+              "end": 188,
+              "expanded_url": "https://x.com/weita2024/status/1997323427028365466/video/1",
+              "media_key": "3_1997323165899554816",
+              "start": 165,
+              "url": "https://t.co/Bn0BhjXrBc"
+            },
+            {
+              "display_url": "pic.x.com/Bn0BhjXrBc",
+              "end": 188,
+              "expanded_url": "https://x.com/weita2024/status/1997323427028365466/video/1",
+              "media_key": "7_1997323205082820608",
+              "start": 165,
+              "url": "https://t.co/Bn0BhjXrBc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997323427028365466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "电子烟这款名叫supernova，冰熊zgar的超新星系列，烟油容量：15ml，丁含量：3%，约20000口属于极具性价比的高品质电子烟，电池：700mAh，支持Type-C大电池，。输出功率：16W和25w涡轮大功率，双档调节。其他功能：LED显示屏实时监测电量和烟油剩余、防干烧保护、防漏设计。\n#电子烟 #冰熊 #zgar https://t.co/Bn0BhjXrBc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14482,
+          "following_count": 110,
+          "like_count": 5029,
+          "listed_count": 28,
+          "media_count": 785,
+          "tweet_count": 6249
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T09:31:53.000Z",
+        "description": "电子烟各品牌正品零售联系方式：\n///薇v：RELX0️⃣1️⃣JK，///\n///QQ群：305698910，///\n///备用V：WKT9️⃣PD2️⃣2️⃣，///\n悦刻，冰熊，崧，鸭嘴兽，零售各种品牌正品电子烟。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Vita0754",
+                "end": 23,
+                "expanded_url": "http://t.me/Vita0754",
+                "start": 0,
+                "url": "https://t.co/oqdMiOk67e"
+              }
+            ]
+          }
+        },
+        "id": "1863153995159687168",
+        "location": "广东",
+        "name": "百川🚬电子烟各品牌正品零售",
+        "pinned_tweet_id": "1977666840324350257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868962909750976512/JJyZLtyk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3299,
+          "following_count": 41,
+          "like_count": 1501,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1712
+        },
+        "url": "https://t.co/oqdMiOk67e",
+        "username": "weita2024",
+        "verified": true
+      }
+    ]
+  }
+}

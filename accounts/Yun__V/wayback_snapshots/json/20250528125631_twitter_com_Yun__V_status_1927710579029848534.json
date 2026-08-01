@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1927710579029848534",
+    "created_at": "2025-05-28T12:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T13:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927710579029848534"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yun__v/status/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/yun__v/status/1903265280912134346",
+          "start": 9,
+          "url": "https://t.co/glQCdsKWh7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927710579029848534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903265280912134346",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要穷死了谁找我 https://t.co/glQCdsKWh7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1903265273467244545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmnBrqpaEAECg5c.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1927710579029848534",
+        "created_at": "2025-05-28T12:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T13:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927710579029848534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yun__v/status/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/yun__v/status/1903265280912134346",
+              "start": 9,
+              "url": "https://t.co/glQCdsKWh7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927710579029848534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903265280912134346",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要穷死了谁找我 https://t.co/glQCdsKWh7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903265273467244545"
+          ]
+        },
+        "author_id": "1650126478213001216",
+        "conversation_id": "1903265280912134346",
+        "created_at": "2025-03-22T01:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T02:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903265280912134346"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "门槛"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "上海"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "南京"
+            },
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "江浙沪"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MzyYtR1U7r",
+              "end": 72,
+              "expanded_url": "https://x.com/Yun__V/status/1903265280912134346/photo/1",
+              "media_key": "3_1903265273467244545",
+              "start": 49,
+              "url": "https://t.co/MzyYtR1U7r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903265280912134346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 116421,
+          "like_count": 1098,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "hi南京或者上海谁约我爸爸活 要约请过66r门槛咨询 #爸爸活 #门槛 #上海 #南京 #江浙沪 https://t.co/MzyYtR1U7r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 我養的鳥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927314874956230656/FrPnF5AR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12885,
+          "following_count": 94,
+          "like_count": 4497,
+          "listed_count": 27,
+          "media_count": 587,
+          "tweet_count": 5094
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

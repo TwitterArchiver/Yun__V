@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1978193445069226011",
+    "created_at": "2025-10-14T21:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T22:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978212695410143509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1260083426993950722",
+          "start": 0,
+          "username": "bigjijibread"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978212695410143509",
+    "in_reply_to_user_id": "1260083426993950722",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978193445069226011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigjijibread 我只是…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1978193445069226011",
+        "created_at": "2025-10-14T21:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T22:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978212695410143509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1260083426993950722",
+              "start": 0,
+              "username": "bigjijibread"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978212695410143509",
+        "in_reply_to_user_id": "1260083426993950722",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978193445069226011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigjijibread 我只是…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1260083426993950722",
+        "conversation_id": "1978193445069226011",
+        "created_at": "2025-10-14T20:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T21:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978193445069226011"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978193445069226011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只是想见到你而已 还想见到那样有实体的可以触摸的 不是恋爱不是男朋友不是性欲投射不是提供任何价值不是让外界去评价有什么面子 我只是..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 在脊柱上紋一對翅膀我會飛走嗎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1957837993022222486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14390,
+          "following_count": 100,
+          "like_count": 4837,
+          "listed_count": 28,
+          "media_count": 750,
+          "tweet_count": 5964
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-12T05:44:46.000Z",
+        "description": "Unsociable is innoncence.a holocauster club  non-binary he/they/it",
+        "id": "1260083426993950722",
+        "location": "China ",
+        "name": "大吉JIパン",
+        "pinned_tweet_id": "1665828158673678337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560369195719700480/kp5FoOP7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 195,
+          "like_count": 2920,
+          "listed_count": 1,
+          "media_count": 424,
+          "tweet_count": 1481
+        },
+        "username": "bigjijibread",
+        "verified": false
+      }
+    ]
+  }
+}

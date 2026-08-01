@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1888258586129883567",
+    "created_at": "2025-02-08T16:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T17:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888258586129883567"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1888258586129883567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怎么可能可以当作你没出现过，我怎么可能忘记关于你的一切，你改变了我太多，我的生活中到处都是你存在过的痕迹。因为你我也开始喝asahi和精酿，我的歌单有好多因为你才知道的歌，相册都是我们一起生活的照片。我知道你喜欢听jazz，喜欢苦艾味的酒，知道你最喜欢的吉他手，我怎么可能会忘记。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1888258586129883567",
+        "created_at": "2025-02-08T16:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T17:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888258586129883567"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1888258586129883567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么可能可以当作你没出现过，我怎么可能忘记关于你的一切，你改变了我太多，我的生活中到处都是你存在过的痕迹。因为你我也开始喝asahi和精酿，我的歌单有好多因为你才知道的歌，相册都是我们一起生活的照片。我知道你喜欢听jazz，喜欢苦艾味的酒，知道你最喜欢的吉他手，我怎么可能会忘记。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1886731232559686084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10532,
+          "following_count": 215,
+          "like_count": 4127,
+          "listed_count": 23,
+          "media_count": 551,
+          "tweet_count": 4611
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

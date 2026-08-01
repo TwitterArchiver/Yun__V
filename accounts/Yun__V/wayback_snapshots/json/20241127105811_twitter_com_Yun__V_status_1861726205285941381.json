@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1861714182221295733",
+    "created_at": "2024-11-27T10:58:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T11:58:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861726205285941381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1191247264582209536",
+          "start": 0,
+          "username": "kA8mIJP4XP0Otdu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861726205285941381",
+    "in_reply_to_user_id": "1191247264582209536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861724360970838026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kA8mIJP4XP0Otdu 谢谢饿了么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1861714182221295733",
+        "created_at": "2024-11-27T10:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T11:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861726205285941381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1191247264582209536",
+              "start": 0,
+              "username": "kA8mIJP4XP0Otdu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861726205285941381",
+        "in_reply_to_user_id": "1191247264582209536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861724360970838026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kA8mIJP4XP0Otdu 谢谢饿了么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191247264582209536",
+        "conversation_id": "1861714182221295733",
+        "created_at": "2024-11-27T10:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T11:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861724360970838026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861724360970838026",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861715651007791309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 饿了么会诅咒你瘦下去的，准备迎接吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1853874978472825156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7919,
+          "following_count": 185,
+          "like_count": 3175,
+          "listed_count": 19,
+          "tweet_count": 3571
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-04T06:54:46.000Z",
+        "description": "朱颜辞镜花辞树，最是人间留不住",
+        "id": "1191247264582209536",
+        "name": "中原岬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805322209294172161/yTcR643q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 390,
+          "like_count": 1098,
+          "listed_count": 2,
+          "tweet_count": 1013
+        },
+        "username": "kA8mIJP4XP0Otdu",
+        "verified": false
+      }
+    ]
+  }
+}

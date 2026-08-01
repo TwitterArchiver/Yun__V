@@ -1,0 +1,332 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1807412958940774400",
+        "7_1807412985671139328"
+      ],
+      "media_source_tweet_id": [
+        "1807413694042935546",
+        "1807413694042935546"
+      ]
+    },
+    "author_id": "1650126478213001216",
+    "conversation_id": "1807440229571395910",
+    "created_at": "2024-06-30T15:45:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-30T16:45:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807440229571395910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/e9vzZiAlDL",
+          "end": 102,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1807413694042935546/video/1",
+          "media_key": "7_1807412958940774400",
+          "start": 79,
+          "url": "https://t.co/e9vzZiAlDL"
+        },
+        {
+          "display_url": "pic.twitter.com/e9vzZiAlDL",
+          "end": 102,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1807413694042935546/video/1",
+          "media_key": "7_1807412985671139328",
+          "start": 79,
+          "url": "https://t.co/e9vzZiAlDL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807440229571395910",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807413694042935546",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 6月30日凌晨，贵州贵阳。贵阳泡泡岛音乐节，一警察试图收走乐迷的旗帜，周围的乐迷们见状死死的抓住旗杆，不让旗帜倒下。 https://t.co/e9vzZiAlDL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13700,
+        "height": 1024,
+        "media_key": "7_1807412958940774400",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1807412958940774400/pu/img/-HGHeCw6cLyO--20.jpg",
+        "public_metrics": {
+          "view_count": 87101
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1807412958940774400/pu/vid/avc1/320x568/429QqXcR7KIA7O7i.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1807412958940774400/pu/vid/avc1/480x852/aIAbqYp-EUlU9hI1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1807412958940774400/pu/vid/avc1/576x1024/HB6aIdjGSxl3ePwf.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1807412958940774400/pu/pl/Rd_AOKKjGSB49vaV.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "duration_ms": 16903,
+        "height": 576,
+        "media_key": "7_1807412985671139328",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1807412985671139328/pu/img/mFBWakEL-QJVa8gZ.jpg",
+        "public_metrics": {
+          "view_count": 27654
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1807412985671139328/pu/vid/avc1/480x270/lQy4jQb4jf6OoIWl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1807412985671139328/pu/vid/avc1/640x360/ulSw5Hnx7oGIDunl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1807412985671139328/pu/vid/avc1/1024x576/z6rBWg7JV-2o6aQr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1807412985671139328/pu/pl/OinzrokKnixuTBAe.m3u8?tag=12"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1807412958940774400",
+            "7_1807412985671139328"
+          ],
+          "media_source_tweet_id": [
+            "1807413694042935546",
+            "1807413694042935546"
+          ]
+        },
+        "author_id": "1650126478213001216",
+        "conversation_id": "1807440229571395910",
+        "created_at": "2024-06-30T15:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T16:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807440229571395910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/e9vzZiAlDL",
+              "end": 102,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1807413694042935546/video/1",
+              "media_key": "7_1807412958940774400",
+              "start": 79,
+              "url": "https://t.co/e9vzZiAlDL"
+            },
+            {
+              "display_url": "pic.twitter.com/e9vzZiAlDL",
+              "end": 102,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1807413694042935546/video/1",
+              "media_key": "7_1807412985671139328",
+              "start": 79,
+              "url": "https://t.co/e9vzZiAlDL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807440229571395910",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807413694042935546",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 6月30日凌晨，贵州贵阳。贵阳泡泡岛音乐节，一警察试图收走乐迷的旗帜，周围的乐迷们见状死死的抓住旗杆，不让旗帜倒下。 https://t.co/e9vzZiAlDL"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1807412958940774400",
+            "7_1807412985671139328"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1807413694042935546",
+        "created_at": "2024-06-30T13:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T14:58:58.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807413522361623007",
+          "1807413694042935546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/e9vzZiAlDL",
+              "end": 82,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1807413694042935546/video/1",
+              "media_key": "7_1807412958940774400",
+              "start": 59,
+              "url": "https://t.co/e9vzZiAlDL"
+            },
+            {
+              "display_url": "pic.twitter.com/e9vzZiAlDL",
+              "end": 82,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1807413694042935546/video/1",
+              "media_key": "7_1807412985671139328",
+              "start": 59,
+              "url": "https://t.co/e9vzZiAlDL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807413694042935546",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 174885,
+          "like_count": 1020,
+          "quote_count": 28,
+          "reply_count": 91,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "6月30日凌晨，贵州贵阳。贵阳泡泡岛音乐节，一警察试图收走乐迷的旗帜，周围的乐迷们见状死死的抓住旗杆，不让旗帜倒下。 https://t.co/e9vzZiAlDL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪250/520",
+        "id": "1650126478213001216",
+        "name": "羊儿的聪明难以想象",
+        "pinned_tweet_id": "1755285158981439622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807122222907289600/kh-a97Gm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5325,
+          "following_count": 219,
+          "like_count": 2609,
+          "listed_count": 16,
+          "tweet_count": 2802
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信或邮箱 lilaoshitougao@gmail.com  \n（一定不要用国内邮箱投稿）\n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 92,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 69,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lilaoshibushinilaoshi.com",
+                "end": 23,
+                "expanded_url": "http://lilaoshibushinilaoshi.com",
+                "start": 0,
+                "url": "https://t.co/ryhwhzHyYp"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1757195077619691725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587739,
+          "following_count": 908,
+          "like_count": 5011,
+          "listed_count": 7461,
+          "tweet_count": 19819
+        },
+        "url": "https://t.co/ryhwhzHyYp",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1985448379498066107",
+    "created_at": "2025-11-03T22:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T23:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985471896000086334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1777176214652035072",
+          "start": 0,
+          "username": "7u7uqu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985471896000086334",
+    "in_reply_to_user_id": "1777176214652035072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985448379498066107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7u7uqu 我真的求男的了。。一定都要这样吗好恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1985448379498066107",
+        "created_at": "2025-11-03T22:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T23:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985471896000086334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1777176214652035072",
+              "start": 0,
+              "username": "7u7uqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985471896000086334",
+        "in_reply_to_user_id": "1777176214652035072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985448379498066107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7u7uqu 我真的求男的了。。一定都要这样吗好恶心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777176214652035072",
+        "conversation_id": "1985448379498066107",
+        "created_at": "2025-11-03T20:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T21:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985448379498066107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/7u7uqu/status/…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/7u7uqu/status/1972194684958306748",
+              "start": 55,
+              "url": "https://t.co/Hc1fKrvW2K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985448379498066107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 272,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972194684958306748",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操你妈逼的我当时感动了好久结果我朋友告诉我这个人只是恋童癖仅此而已 他对每个年纪小的女生都说同样的话^_^ https://t.co/Hc1fKrvW2K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 在脊柱上紋一對翅膀我會飛走嗎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1957837993022222486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14551,
+          "following_count": 109,
+          "like_count": 4976,
+          "listed_count": 28,
+          "media_count": 774,
+          "tweet_count": 6154
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T03:26:57.000Z",
+        "description": "この世界が終わるのが今ならいい。",
+        "id": "1777176214652035072",
+        "name": "吗啡天使",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822887119930699776/dLc82awk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2865,
+          "following_count": 9,
+          "like_count": 96,
+          "listed_count": 4,
+          "media_count": 25,
+          "tweet_count": 209
+        },
+        "username": "7u7uqu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1897949929085251873",
+    "created_at": "2025-03-07T11:53:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T12:53:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897978976875999710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1550884670434291712",
+          "start": 0,
+          "username": "chen66344864"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897978976875999710",
+    "in_reply_to_user_id": "1550884670434291712",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897977352543781009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chen66344864 🉑️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1897949929085251873",
+        "created_at": "2025-03-07T11:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T12:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897978976875999710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1550884670434291712",
+              "start": 0,
+              "username": "chen66344864"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897978976875999710",
+        "in_reply_to_user_id": "1550884670434291712",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897977352543781009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chen66344864 🉑️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550884670434291712",
+        "conversation_id": "1897949929085251873",
+        "created_at": "2025-03-07T11:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T12:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897977352543781009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897977352543781009",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897949929085251873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 我🙋🏻‍♂️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 🐦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "开朋友圈🚪288",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1897278836238352733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896312946994937856/JzQllmQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11069,
+          "following_count": 185,
+          "like_count": 4198,
+          "listed_count": 23,
+          "media_count": 561,
+          "tweet_count": 4824
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-23T16:45:08.000Z",
+        "description": "3",
+        "id": "1550884670434291712",
+        "location": "0.1km",
+        "name": "真实的生活总是令人厌恶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1559170222992400384/EsOJIUjz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 140,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 12
+        },
+        "username": "chen66344864",
+        "verified": false
+      }
+    ]
+  }
+}

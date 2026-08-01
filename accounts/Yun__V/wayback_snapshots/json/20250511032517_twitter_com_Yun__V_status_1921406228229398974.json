@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1921401129058832792",
+    "created_at": "2025-05-11T03:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T04:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921406228229398974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1767122266414882816",
+          "start": 0,
+          "username": "shu_fan0228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921406228229398974",
+    "in_reply_to_user_id": "1767122266414882816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921401129058832792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shu_fan0228 水手服好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_1921401044292022272",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GqowEdwXMAA8LlT.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GqowEdwXMAA8LlT.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1921401129058832792",
+        "created_at": "2025-05-11T03:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T04:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921406228229398974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767122266414882816",
+              "start": 0,
+              "username": "shu_fan0228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921406228229398974",
+        "in_reply_to_user_id": "1767122266414882816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921401129058832792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shu_fan0228 水手服好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1921401044292022272"
+          ]
+        },
+        "author_id": "1767122266414882816",
+        "conversation_id": "1921401129058832792",
+        "created_at": "2025-05-11T03:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T04:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921401129058832792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GAFaG2KLHd",
+              "end": 23,
+              "expanded_url": "https://x.com/shu_fan0228/status/1921401129058832792/photo/1",
+              "media_key": "16_1921401044292022272",
+              "start": 0,
+              "url": "https://t.co/GAFaG2KLHd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921401129058832792",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GAFaG2KLHd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 🐦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "开朋友圈🚪288",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1904841644140097911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896312946994937856/JzQllmQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12172,
+          "following_count": 97,
+          "like_count": 4434,
+          "listed_count": 25,
+          "media_count": 597,
+          "tweet_count": 5115
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T09:36:16.000Z",
+        "description": "飞吧飞吧～",
+        "id": "1767122266414882816",
+        "name": "临死前最后一顿饭要吃什么好？",
+        "pinned_tweet_id": "1901257523258327203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906492302014730240/rlJFkK4H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 113,
+          "like_count": 2188,
+          "listed_count": 0,
+          "media_count": 381,
+          "tweet_count": 2440
+        },
+        "username": "shu_fan0228",
+        "verified": false
+      }
+    ]
+  }
+}

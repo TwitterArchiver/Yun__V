@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1887519426653921470",
+    "created_at": "2025-02-06T16:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T17:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887533013896188371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1588714644159442944",
+          "start": 0,
+          "username": "jimi08719473"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887533013896188371",
+    "in_reply_to_user_id": "1588714644159442944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887519426653921470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jimi08719473 兄弟补药哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1887519426653921470",
+        "created_at": "2025-02-06T16:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T17:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887533013896188371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1588714644159442944",
+              "start": 0,
+              "username": "jimi08719473"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887533013896188371",
+        "in_reply_to_user_id": "1588714644159442944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887519426653921470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jimi08719473 兄弟补药哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588714644159442944",
+        "conversation_id": "1887519426653921470",
+        "created_at": "2025-02-06T15:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T16:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887519426653921470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jimi08719473/s…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/jimi08719473/status/1887208719962005633",
+              "start": 28,
+              "url": "https://t.co/6iBTkqOdLQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887519426653921470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887208719962005633",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吉他张对不起我不该玩你的梗的，现在我真的一直在哭了。。 https://t.co/6iBTkqOdLQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1886731232559686084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10392,
+          "following_count": 205,
+          "like_count": 4056,
+          "listed_count": 23,
+          "media_count": 552,
+          "tweet_count": 4538
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-05T02:07:50.000Z",
+        "description": "sadlifeʕ´-ก̀ʔᐝ。",
+        "id": "1588714644159442944",
+        "location": "泥头车底",
+        "name": "阴暗☆૮꒰•༝•。꒱ა",
+        "pinned_tweet_id": "1850614174432535011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864721056524832768/eWwMeWcH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 1174,
+          "like_count": 13644,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 388
+        },
+        "username": "jimi08719473",
+        "verified": false
+      }
+    ]
+  }
+}

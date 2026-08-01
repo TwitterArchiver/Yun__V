@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2050827893215728082",
+    "created_at": "2026-05-03T07:51:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T08:51:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050845815187333418"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050845815187333418",
+    "in_reply_to_user_id": "1650126478213001216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050828829774467189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "房租偏高。嗯我主要是在对比我之前租的房子。。佛山的房子好便宜啊好便宜、我想跟房东阿姨砍价但我犹豫了三天还没发出去我还没想好怎么说，一个月砍两百不过分吧🙂‍↕️。。而且我还要自己重新买窗帘来换！嗯、嗯。有没有有经验人士可以教一下我怎么砍价"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2050827893215728082",
+        "created_at": "2026-05-03T07:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T08:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050845815187333418"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050845815187333418",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050828829774467189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "房租偏高。嗯我主要是在对比我之前租的房子。。佛山的房子好便宜啊好便宜、我想跟房东阿姨砍价但我犹豫了三天还没发出去我还没想好怎么说，一个月砍两百不过分吧🙂‍↕️。。而且我还要自己重新买窗帘来换！嗯、嗯。有没有有经验人士可以教一下我怎么砍价"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2050827893215728082",
+        "created_at": "2026-05-03T06:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T07:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050828829774467189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050828829774467189",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050827893215728082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后我就在想我为啥偏偏在四月底脑子犯傻逼把自己搞成这样？！咋就这么冲动找了个房子偏高隔音很差没有电梯的房子，但是我确实喜欢这个房子本身的户型。。好吧其实租的时候也不会预料到会崴脚、呃啊啊啊总之我买了两根拐杖我在努力学习使用，我走路像残疾人康复训练"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15692,
+          "following_count": 121,
+          "like_count": 5434,
+          "listed_count": 31,
+          "media_count": 847,
+          "tweet_count": 6739
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

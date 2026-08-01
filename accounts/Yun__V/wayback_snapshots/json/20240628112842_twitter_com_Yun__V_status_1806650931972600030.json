@@ -1,0 +1,148 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1806650883037642752"
+      ]
+    },
+    "author_id": "1650126478213001216",
+    "conversation_id": "1806650931972600030",
+    "created_at": "2024-06-28T11:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T12:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1806650931972600030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/OknywDcSzo",
+          "end": 23,
+          "expanded_url": "https://twitter.com/Yun__V/status/1806650931972600030/video/1",
+          "media_key": "7_1806650883037642752",
+          "start": 0,
+          "url": "https://t.co/OknywDcSzo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806650931972600030",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/OknywDcSzo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12166,
+        "height": 720,
+        "media_key": "7_1806650883037642752",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1806650883037642752/pu/img/U_NWElUvK4KDjaxy.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1806650883037642752/pu/vid/avc1/320x320/frvBR0k-M5VUMrbM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1806650883037642752/pu/vid/avc1/540x540/1rwkhdzFqOT5vvvf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1806650883037642752/pu/vid/avc1/720x720/8kguKU-x7y6nYzVI.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1806650883037642752/pu/pl/STL__b4YSeMUwOe-.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1806650883037642752"
+          ]
+        },
+        "author_id": "1650126478213001216",
+        "conversation_id": "1806650931972600030",
+        "created_at": "2024-06-28T11:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T12:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806650931972600030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/OknywDcSzo",
+              "end": 23,
+              "expanded_url": "https://twitter.com/Yun__V/status/1806650931972600030/video/1",
+              "media_key": "7_1806650883037642752",
+              "start": 0,
+              "url": "https://t.co/OknywDcSzo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806650931972600030",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OknywDcSzo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪250/520",
+        "id": "1650126478213001216",
+        "name": "羊儿的聪明难以想象",
+        "pinned_tweet_id": "1755285158981439622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806401318061514752/l_AeN_SF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5309,
+          "following_count": 220,
+          "like_count": 2595,
+          "listed_count": 16,
+          "tweet_count": 2795
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

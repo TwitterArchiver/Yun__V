@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1938937435171496107",
+    "created_at": "2025-06-28T12:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T13:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938937435171496107"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Nico · Chelsea Girl · Song · 1967",
+          "display_url": "open.spotify.com/track/3uCkIqD0…",
+          "end": 23,
+          "expanded_url": "https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs?si=K7FcDWM_SlOD7iXcZtutxg",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://pbs.twimg.com/news_img/1938937437276999680/8GT3Z7iZ?format=jpg&name=orig",
+              "width": 640
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1938937437276999680/8GT3Z7iZ?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "These Days",
+          "unwound_url": "https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs?si=K7FcDWM_SlOD7iXcZtutxg",
+          "url": "https://t.co/iLtKZKCZQP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938937435171496107",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 106,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/iLtKZKCZQP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1938937435171496107",
+        "created_at": "2025-06-28T12:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T13:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938937435171496107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Nico · Chelsea Girl · Song · 1967",
+              "display_url": "open.spotify.com/track/3uCkIqD0…",
+              "end": 23,
+              "expanded_url": "https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs?si=K7FcDWM_SlOD7iXcZtutxg",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/1938937437276999680/8GT3Z7iZ?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1938937437276999680/8GT3Z7iZ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "These Days",
+              "unwound_url": "https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs?si=K7FcDWM_SlOD7iXcZtutxg",
+              "url": "https://t.co/iLtKZKCZQP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938937435171496107",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iLtKZKCZQP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 我養的鳥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13143,
+          "following_count": 95,
+          "like_count": 4556,
+          "listed_count": 25,
+          "media_count": 605,
+          "tweet_count": 5195
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

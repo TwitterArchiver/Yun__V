@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1852355917574238652",
+    "created_at": "2024-11-02T02:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T03:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852538552674025713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1441975226510692353",
+          "start": 0,
+          "username": "AnotherStepHry"
+        },
+        {
+          "end": 23,
+          "id": "1673731239935881216",
+          "start": 16,
+          "username": "TKME2Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852538552674025713",
+    "in_reply_to_user_id": "1441975226510692353",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852536425633505702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnotherStepHry @TKME2Y 啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1852355917574238652",
+        "created_at": "2024-11-02T02:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T03:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852538552674025713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1441975226510692353",
+              "start": 0,
+              "username": "AnotherStepHry"
+            },
+            {
+              "end": 23,
+              "id": "1673731239935881216",
+              "start": 16,
+              "username": "TKME2Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852538552674025713",
+        "in_reply_to_user_id": "1441975226510692353",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852536425633505702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnotherStepHry @TKME2Y 啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1441975226510692353",
+        "conversation_id": "1852355917574238652",
+        "created_at": "2024-11-02T02:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T03:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852536425633505702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            },
+            {
+              "end": 15,
+              "id": "1673731239935881216",
+              "start": 8,
+              "username": "TKME2Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852536425633505702",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852355917574238652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V @TKME2Y 原来我看到的是你俩，居然凭本事刷到了😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1849804879109451906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6764,
+          "following_count": 228,
+          "like_count": 2979,
+          "listed_count": 16,
+          "tweet_count": 3301
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-26T03:57:59.000Z",
+        "description": "Oh，you make me high👉🏻",
+        "id": "1441975226510692353",
+        "location": "Los Angeles, CA",
+        "name": "Goody",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1446655082179678214/wzImCkYd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 9,
+          "like_count": 103,
+          "listed_count": 0,
+          "tweet_count": 273
+        },
+        "username": "AnotherStepHry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-27T16:33:44.000Z",
+        "description": "你看到的世界是否也在下降",
+        "id": "1673731239935881216",
+        "location": "🚪88/288/520",
+        "name": "☆*:.｡. o(≧▽≦)o .｡.:*☆",
+        "pinned_tweet_id": "1850559521640649111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851267956141158400/_8eYiAex_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 295,
+          "like_count": 4687,
+          "listed_count": 2,
+          "tweet_count": 1415
+        },
+        "username": "TKME2Y",
+        "verified": false
+      }
+    ]
+  }
+}

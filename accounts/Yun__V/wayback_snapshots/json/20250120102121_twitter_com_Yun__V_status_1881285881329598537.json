@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1881285881329598537",
+    "created_at": "2025-01-20T10:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T11:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881285881329598537"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1881285881329598537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怎么有人能蠢成这样呵呵本猪比感觉药磕多了智商退化了脑子不好使了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1881285881329598537",
+        "created_at": "2025-01-20T10:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T11:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881285881329598537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881285881329598537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么有人能蠢成这样呵呵本猪比感觉药磕多了智商退化了脑子不好使了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9541,
+          "following_count": 192,
+          "like_count": 3928,
+          "listed_count": 20,
+          "media_count": 530,
+          "tweet_count": 4299
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

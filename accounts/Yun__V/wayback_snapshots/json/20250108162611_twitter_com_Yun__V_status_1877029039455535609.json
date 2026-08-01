@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1877022367076974745",
+    "created_at": "2025-01-08T16:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T17:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877029039455535609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1753743535155953664",
+          "start": 0,
+          "username": "ozonamo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877029039455535609",
+    "in_reply_to_user_id": "1753743535155953664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877022367076974745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ozonamo 生日快樂寶寶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1877022367076974745",
+        "created_at": "2025-01-08T16:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T17:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877029039455535609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1753743535155953664",
+              "start": 0,
+              "username": "ozonamo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877029039455535609",
+        "in_reply_to_user_id": "1753743535155953664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877022367076974745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ozonamo 生日快樂寶寶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753743535155953664",
+        "conversation_id": "1877022367076974745",
+        "created_at": "2025-01-08T15:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T16:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877022367076974745"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1877022367076974745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天我生日"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873052534652477440/cWEl1eck_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9453,
+          "following_count": 193,
+          "like_count": 3852,
+          "listed_count": 20,
+          "media_count": 523,
+          "tweet_count": 4234
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T11:33:51.000Z",
+        "description": "",
+        "id": "1753743535155953664",
+        "name": "死全家",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855925006217461760/fzLXkkKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 85,
+          "like_count": 10311,
+          "listed_count": 0,
+          "media_count": 387,
+          "tweet_count": 2404
+        },
+        "username": "ozonamo",
+        "verified": false
+      }
+    ]
+  }
+}

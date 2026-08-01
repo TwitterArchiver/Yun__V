@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1890467904774189466",
+    "created_at": "2025-02-14T18:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T19:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890467904774189466"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "afterthesheep’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1mnxe…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1mnxegLlXZnGX",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1890467906300903424/kOXyfPY6?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1890467906300903424/kOXyfPY6?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 求死",
+          "unwound_url": "https://twitter.com/i/spaces/1mnxegLlXZnGX/peek",
+          "url": "https://t.co/emjr1s3lOK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890467904774189466",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/emjr1s3lOK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1890467904774189466",
+        "created_at": "2025-02-14T18:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T19:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890467904774189466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "afterthesheep’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1mnxe…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1mnxegLlXZnGX",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1890467906300903424/kOXyfPY6?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1890467906300903424/kOXyfPY6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 求死",
+              "unwound_url": "https://twitter.com/i/spaces/1mnxegLlXZnGX/peek",
+              "url": "https://t.co/emjr1s3lOK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890467904774189466",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/emjr1s3lOK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "冬の光が射していた",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1886731232559686084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10836,
+          "following_count": 218,
+          "like_count": 4170,
+          "listed_count": 23,
+          "media_count": 553,
+          "tweet_count": 4658
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

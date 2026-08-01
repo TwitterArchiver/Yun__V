@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1893675223024558398",
+    "created_at": "2025-02-23T15:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T16:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893681552132907330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1303341525053534210",
+          "start": 0,
+          "username": "Celesti58997409"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893681552132907330",
+    "in_reply_to_user_id": "1303341525053534210",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893678173776138376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Celesti58997409 哎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1893675223024558398",
+        "created_at": "2025-02-23T15:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T16:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893681552132907330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1303341525053534210",
+              "start": 0,
+              "username": "Celesti58997409"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893681552132907330",
+        "in_reply_to_user_id": "1303341525053534210",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893678173776138376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Celesti58997409 哎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303341525053534210",
+        "conversation_id": "1893675223024558398",
+        "created_at": "2025-02-23T15:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T16:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893678173776138376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893678173776138376",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893675223024558398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 不会的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "冬の光が射していた",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1886731232559686084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10809,
+          "following_count": 215,
+          "like_count": 4180,
+          "listed_count": 23,
+          "media_count": 555,
+          "tweet_count": 4769
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:37:10.000Z",
+        "description": "吾日三省吾身：我是人类吗？有可能是！这个博，非读不可吗！这个书，到底是谁在读！",
+        "id": "1303341525053534210",
+        "name": "Celestia",
+        "pinned_tweet_id": "1891335729642442918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783355489339768832/e5cfkfbB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 67,
+          "like_count": 2003,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 290
+        },
+        "username": "Celesti58997409",
+        "verified": false
+      }
+    ]
+  }
+}

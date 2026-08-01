@@ -1,0 +1,202 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1801945662155891111",
+    "created_at": "2024-06-15T11:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T12:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801945662155891111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1438924244327403521",
+          "start": 3,
+          "username": "adrien13809922"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801945662155891111",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801721391630463379",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @adrien13809922: 好像进入闭店倒计时噜….🥳\n转赞评这条随机抽5位幸运宝宝送2盒右美胶囊！(＞人＜;)\n呜呜呜呜宝宝们别嫌我烦（？？）目前店内有货的是片剂宛横、右美胶囊这两种，片剂22/盒，胶囊23/盒\n现在有小活动？囤货价！19/盒，50盒起购，宝宝们可…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1801945662155891111",
+        "created_at": "2024-06-15T11:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T12:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801945662155891111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1438924244327403521",
+              "start": 3,
+              "username": "adrien13809922"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801945662155891111",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801721391630463379",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @adrien13809922: 好像进入闭店倒计时噜….🥳\n转赞评这条随机抽5位幸运宝宝送2盒右美胶囊！(＞人＜;)\n呜呜呜呜宝宝们别嫌我烦（？？）目前店内有货的是片剂宛横、右美胶囊这两种，片剂22/盒，胶囊23/盒\n现在有小活动？囤货价！19/盒，50盒起购，宝宝们可…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801721373041311744"
+          ]
+        },
+        "author_id": "1438924244327403521",
+        "conversation_id": "1801721391630463379",
+        "created_at": "2024-06-14T21:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T22:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801721391630463379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/YiHkByNSIU",
+              "end": 161,
+              "expanded_url": "https://twitter.com/adrien13809922/status/1801721391630463379/photo/1",
+              "media_key": "3_1801721373041311744",
+              "start": 138,
+              "url": "https://t.co/YiHkByNSIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801721391630463379",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2862,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "好像进入闭店倒计时噜….🥳\n转赞评这条随机抽5位幸运宝宝送2盒右美胶囊！(＞人＜;)\n呜呜呜呜宝宝们别嫌我烦（？？）目前店内有货的是片剂宛横、右美胶囊这两种，片剂22/盒，胶囊23/盒\n现在有小活动？囤货价！19/盒，50盒起购，宝宝们可以自行拼单，邮费自负哦(^з^)-☆ https://t.co/YiHkByNSIU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪250/520",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "http://wwl.sogood9.com/#/register?code=S3l8RLvL",
+                "start": 0,
+                "url": "https://t.co/ciduMojuDG"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "自用🪜",
+        "name": "羊儿的聪明难以想象",
+        "pinned_tweet_id": "1755285158981439622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763849145306275840/B1qnbA9g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5331,
+          "following_count": 220,
+          "like_count": 2594,
+          "listed_count": 16,
+          "tweet_count": 2761
+        },
+        "url": "https://t.co/ciduMojuDG",
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-17T17:54:29.000Z",
+        "description": "不走墙外 互相信任｜成分复杂谨慎关注｜化学物质的奴隶^ ^ 没有除X外的任何联络渠道哦！⚠️⚠️｜在别的地方说是Adrien的都别信！！🖤🖤请认准这里的@adrien13809922 ☆*:.｡. o(≧▽≦)o .｡.:*☆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "adrien13809922"
+              }
+            ]
+          }
+        },
+        "id": "1438924244327403521",
+        "name": "Adrien（右美代购）",
+        "pinned_tweet_id": "1801721391630463379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1539672461511340032/WWVOPM3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 446,
+          "like_count": 470,
+          "listed_count": 0,
+          "tweet_count": 132
+        },
+        "username": "adrien13809922",
+        "verified": false
+      }
+    ]
+  }
+}

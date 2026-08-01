@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1874174045006229973",
+    "created_at": "2025-01-01T00:28:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-01T01:28:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874251190730711453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1669034162832146433",
+          "start": 0,
+          "username": "minmin1269967"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874251190730711453",
+    "in_reply_to_user_id": "1669034162832146433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874209916828926324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minmin1269967 寶寶啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1874209916828926324].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1874209916828926324",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1874209916828926324"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1874174045006229973",
+        "created_at": "2025-01-01T00:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T01:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874251190730711453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1669034162832146433",
+              "start": 0,
+              "username": "minmin1269967"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874251190730711453",
+        "in_reply_to_user_id": "1669034162832146433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874209916828926324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minmin1269967 寶寶啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873052534652477440/cWEl1eck_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9395,
+          "following_count": 189,
+          "like_count": 3768,
+          "listed_count": 21,
+          "media_count": 515,
+          "tweet_count": 4122
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T17:28:57.000Z",
+        "description": "滚",
+        "id": "1669034162832146433",
+        "name": "1",
+        "pinned_tweet_id": "1869820026502689268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873457076753899520/Eo3mxtAR_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 160,
+          "like_count": 1640,
+          "listed_count": 0,
+          "media_count": 339,
+          "tweet_count": 1675
+        },
+        "username": "minmin1269967",
+        "verified": false
+      }
+    ]
+  }
+}

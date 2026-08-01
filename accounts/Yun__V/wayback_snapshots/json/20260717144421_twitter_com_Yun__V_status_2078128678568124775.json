@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2077822398020387158",
+    "created_at": "2026-07-17T14:44:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T15:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078128678568124775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2008219501989617664",
+          "start": 0,
+          "username": "Trister0117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078128678568124775",
+    "in_reply_to_user_id": "2008219501989617664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078122827103064454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Trister0117 我会乱世巨星"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2077822398020387158",
+        "created_at": "2026-07-17T14:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078128678568124775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008219501989617664",
+              "start": 0,
+              "username": "Trister0117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078128678568124775",
+        "in_reply_to_user_id": "2008219501989617664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078122827103064454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Trister0117 我会乱世巨星"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008219501989617664",
+        "conversation_id": "2077822398020387158",
+        "created_at": "2026-07-17T14:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078122827103064454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078122827103064454",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077822398020387158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 我会唱那个那个海阔天空"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16105,
+          "following_count": 138,
+          "like_count": 5679,
+          "listed_count": 28,
+          "media_count": 880,
+          "tweet_count": 6957
+        },
+        "url": "",
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T16:50:24.000Z",
+        "description": "我钻进被窝，跟她躺在一起。她起身放一卷哀伤的电影配乐。",
+        "id": "2008219501989617664",
+        "location": "幼稚园",
+        "name": "We'd end up like always",
+        "pinned_tweet_id": "2022980903577006169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044502254603145216/bJDFrOjN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 47,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1205
+        },
+        "url": "",
+        "username": "Trister0117",
+        "verified": false
+      }
+    ]
+  }
+}

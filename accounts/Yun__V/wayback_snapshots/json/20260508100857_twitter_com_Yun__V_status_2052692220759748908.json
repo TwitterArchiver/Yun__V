@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2052676758210797614",
+    "created_at": "2026-05-08T10:08:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T11:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052692220759748908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1260083426993950722",
+          "start": 0,
+          "username": "bigjijibread"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052692220759748908",
+    "in_reply_to_user_id": "1260083426993950722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052676758210797614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigjijibread 我幼儿园也叫红苹果幼儿园"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052676749620899840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHySoNPbcAAVGg5.jpg",
+        "width": 1572
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052676749650219008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHySoNWa0AAEKXI.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2052676758210797614",
+        "created_at": "2026-05-08T10:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052692220759748908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1260083426993950722",
+              "start": 0,
+              "username": "bigjijibread"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052692220759748908",
+        "in_reply_to_user_id": "1260083426993950722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052676758210797614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigjijibread 我幼儿园也叫红苹果幼儿园"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052676749620899840",
+            "3_2052676749650219008"
+          ]
+        },
+        "author_id": "1260083426993950722",
+        "conversation_id": "2052676758210797614",
+        "created_at": "2026-05-08T09:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052676758210797614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aoaH0qdfsf",
+              "end": 23,
+              "expanded_url": "https://x.com/bigjijibread/status/2052676758210797614/photo/1",
+              "media_key": "3_2052676749620899840",
+              "start": 0,
+              "url": "https://t.co/aoaH0qdfsf"
+            },
+            {
+              "display_url": "pic.x.com/aoaH0qdfsf",
+              "end": 23,
+              "expanded_url": "https://x.com/bigjijibread/status/2052676758210797614/photo/1",
+              "media_key": "3_2052676749650219008",
+              "start": 0,
+              "url": "https://t.co/aoaH0qdfsf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052676758210797614",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/aoaH0qdfsf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15713,
+          "following_count": 124,
+          "like_count": 5476,
+          "listed_count": 32,
+          "media_count": 847,
+          "tweet_count": 6769
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-12T05:44:46.000Z",
+        "description": "Unsociable is innoncence.a holocauster club  non-binary he/they/it",
+        "id": "1260083426993950722",
+        "location": "China ",
+        "name": "大吉JIパン",
+        "pinned_tweet_id": "1665828158673678337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560369195719700480/kp5FoOP7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 199,
+          "like_count": 2935,
+          "listed_count": 1,
+          "media_count": 446,
+          "tweet_count": 1572
+        },
+        "username": "bigjijibread",
+        "verified": false
+      }
+    ]
+  }
+}

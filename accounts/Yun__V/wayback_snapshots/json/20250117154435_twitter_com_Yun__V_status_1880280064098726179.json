@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1879894213237813253",
+    "created_at": "2025-01-17T15:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T16:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880280064098726179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1817120099528265728",
+          "start": 0,
+          "username": "hX61zi4Jk332357"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880280064098726179",
+    "in_reply_to_user_id": "1817120099528265728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879894213237813253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@hX61zi4Jk332357 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1879894213237813253",
+        "created_at": "2025-01-17T15:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T16:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880280064098726179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817120099528265728",
+              "start": 0,
+              "username": "hX61zi4Jk332357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880280064098726179",
+        "in_reply_to_user_id": "1817120099528265728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879894213237813253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@hX61zi4Jk332357 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879894197815431168"
+          ]
+        },
+        "author_id": "1817120099528265728",
+        "conversation_id": "1879894213237813253",
+        "created_at": "2025-01-16T14:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T15:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879894213237813253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iGCRNR4UHn",
+              "end": 34,
+              "expanded_url": "https://x.com/hX61zi4Jk332357/status/1879894213237813253/photo/1",
+              "media_key": "3_1879894197815431168",
+              "start": 11,
+              "url": "https://t.co/iGCRNR4UHn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879894213237813253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8830,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "following",
+        "text": "兄弟你高p铁特尼玛呢 https://t.co/iGCRNR4UHn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9536,
+          "following_count": 190,
+          "like_count": 3893,
+          "listed_count": 20,
+          "media_count": 528,
+          "tweet_count": 4275
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T08:49:39.000Z",
+        "description": "起風了",
+        "id": "1817120099528265728",
+        "name": "傷口",
+        "pinned_tweet_id": "1880106965432693117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879017865954967552/hlZE5YQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6295,
+          "following_count": 25,
+          "like_count": 268,
+          "listed_count": 14,
+          "media_count": 96,
+          "tweet_count": 384
+        },
+        "username": "hX61zi4Jk332357",
+        "verified": false
+      }
+    ]
+  }
+}

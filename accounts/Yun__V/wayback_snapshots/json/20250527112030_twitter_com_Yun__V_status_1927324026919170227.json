@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1927322050131034185",
+    "created_at": "2025-05-27T11:20:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T12:20:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927324026919170227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1611578957312180224",
+          "start": 0,
+          "username": "illi94ever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927324026919170227",
+    "in_reply_to_user_id": "1611578957312180224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927322050131034185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@illi94ever 还不如重新做以前的款…"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1927322050131034185].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1927322050131034185",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1927322050131034185"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1927322050131034185",
+        "created_at": "2025-05-27T11:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T12:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927324026919170227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1611578957312180224",
+              "start": 0,
+              "username": "illi94ever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927324026919170227",
+        "in_reply_to_user_id": "1611578957312180224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927322050131034185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@illi94ever 还不如重新做以前的款…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 我養的鳥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927314874956230656/FrPnF5AR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12874,
+          "following_count": 95,
+          "like_count": 4494,
+          "listed_count": 27,
+          "media_count": 585,
+          "tweet_count": 5089
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-07T04:22:27.000Z",
+        "description": "",
+        "id": "1611578957312180224",
+        "name": "我的呼吸是有罪的",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910269406334300160/g6pi1qLx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 10,
+          "like_count": 663,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1352
+        },
+        "username": "illi94ever",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1887113924631285793",
+    "created_at": "2025-02-05T13:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T14:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887127772113568245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1668303356824104968",
+          "start": 0,
+          "username": "1203i00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887127772113568245",
+    "in_reply_to_user_id": "1668303356824104968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887121154785059251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1203i00 嘿嘿开心(&gt;^ω^&lt;)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1887113924631285793",
+        "created_at": "2025-02-05T13:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T14:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887127772113568245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1668303356824104968",
+              "start": 0,
+              "username": "1203i00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887127772113568245",
+        "in_reply_to_user_id": "1668303356824104968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887121154785059251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1203i00 嘿嘿开心(&gt;^ω^&lt;)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668303356824104968",
+        "conversation_id": "1887113924631285793",
+        "created_at": "2025-02-05T12:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T13:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887121154785059251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887121154785059251",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887115870553698567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 你素 浅色、秋天、百合花、小猫咪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10254,
+          "following_count": 199,
+          "like_count": 4033,
+          "listed_count": 22,
+          "media_count": 544,
+          "tweet_count": 4478
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-12T17:05:02.000Z",
+        "description": "你好，我是筠。 南昌穿孔！tattoo学习中 烟代私信 https://t.co/yyMpeYRbvA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/pa0pa_00/profi…",
+                "end": 51,
+                "expanded_url": "https://www.instagram.com/pa0pa_00/profilecard/?igsh=cHphMXpmN2RyaGgx",
+                "start": 28,
+                "url": "https://t.co/yyMpeYRbvA"
+              }
+            ]
+          }
+        },
+        "id": "1668303356824104968",
+        "name": "JU_uNn0",
+        "pinned_tweet_id": "1886704763104059899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876294298167357440/LLvmdF0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2359,
+          "following_count": 598,
+          "like_count": 8590,
+          "listed_count": 2,
+          "media_count": 460,
+          "tweet_count": 2974
+        },
+        "username": "1203i00",
+        "verified": false
+      }
+    ]
+  }
+}

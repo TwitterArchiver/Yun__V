@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2065099384082387394",
+    "created_at": "2026-06-13T02:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T03:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065619494555512916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1601561023634341888",
+          "start": 0,
+          "username": "cottrell_luanne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065619494555512916",
+    "in_reply_to_user_id": "1601561023634341888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065432587980738900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cottrell_luanne 我感觉用吸管喝很淡很水的啤酒还挺合适的、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2065099384082387394",
+        "created_at": "2026-06-13T02:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T03:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065619494555512916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1601561023634341888",
+              "start": 0,
+              "username": "cottrell_luanne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065619494555512916",
+        "in_reply_to_user_id": "1601561023634341888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065432587980738900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cottrell_luanne 我感觉用吸管喝很淡很水的啤酒还挺合适的、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601561023634341888",
+        "conversation_id": "2065099384082387394",
+        "created_at": "2026-06-12T13:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065432587980738900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065432587980738900",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065099384082387394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 啤酒和威士忌可能不太合适 不过绝大多数都适合吸管喝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15631,
+          "following_count": 121,
+          "like_count": 5580,
+          "listed_count": 29,
+          "media_count": 859,
+          "tweet_count": 6837
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T12:54:41.000Z",
+        "description": "业余咖啡小白 |喜欢听音乐｜喜欢得其利和威士忌酸🥃 |04 |时不时打打游戏｜纯爱万岁｜🌟爱好是电射和sp",
+        "id": "1601561023634341888",
+        "name": "奶咖.starroast",
+        "pinned_tweet_id": "2064384912598380722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696294792437833728/zaiK6KKm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 396,
+          "like_count": 2216,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 473
+        },
+        "username": "cottrell_luanne",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1889637807074714100",
+    "created_at": "2025-02-12T12:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T13:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889660079781146928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1876330626531618816",
+          "start": 0,
+          "username": "Cimqgbsz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889660079781146928",
+    "in_reply_to_user_id": "1876330626531618816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889637807074714100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cimqgbsz 咋这么萌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1889637807074714100",
+        "created_at": "2025-02-12T12:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T13:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889660079781146928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1876330626531618816",
+              "start": 0,
+              "username": "Cimqgbsz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889660079781146928",
+        "in_reply_to_user_id": "1876330626531618816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889637807074714100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cimqgbsz 咋这么萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889637797163864064"
+          ]
+        },
+        "author_id": "1876330626531618816",
+        "conversation_id": "1889637807074714100",
+        "created_at": "2025-02-12T11:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T12:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889637807074714100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mjrdbDm2Vj",
+              "end": 25,
+              "expanded_url": "https://x.com/Cimqgbsz/status/1889637807074714100/photo/1",
+              "media_key": "3_1889637797163864064",
+              "start": 2,
+              "url": "https://t.co/mjrdbDm2Vj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889637807074714100",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 370,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "呱 https://t.co/mjrdbDm2Vj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "冬の光が射していた",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1886731232559686084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10763,
+          "following_count": 219,
+          "like_count": 4157,
+          "listed_count": 23,
+          "media_count": 553,
+          "tweet_count": 4648
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-06T18:11:06.000Z",
+        "description": "我是KK｜病み垢｜只互fo同类｜小号@zsbgqmic",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "zsbgqmic"
+              }
+            ]
+          }
+        },
+        "id": "1876330626531618816",
+        "location": "🚪188+V",
+        "name": "K",
+        "pinned_tweet_id": "1882824065951715421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883564408317808640/S85OtE-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 150,
+          "like_count": 1156,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1377
+        },
+        "username": "Cimqgbsz",
+        "verified": false
+      }
+    ]
+  }
+}

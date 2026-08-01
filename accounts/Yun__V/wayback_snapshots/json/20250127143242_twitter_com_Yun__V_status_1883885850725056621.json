@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1883875372028354756",
+    "created_at": "2025-01-27T14:32:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T15:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883885850725056621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3362173438",
+          "start": 0,
+          "username": "fujyoriaru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883885850725056621",
+    "in_reply_to_user_id": "3362173438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883885012044656703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fujyoriaru 你也说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1883875372028354756",
+        "created_at": "2025-01-27T14:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T15:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883885850725056621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3362173438",
+              "start": 0,
+              "username": "fujyoriaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883885850725056621",
+        "in_reply_to_user_id": "3362173438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883885012044656703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fujyoriaru 你也说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3362173438",
+        "conversation_id": "1883875372028354756",
+        "created_at": "2025-01-27T14:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T15:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883885012044656703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883885012044656703",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883884536062427329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 因为我喜欢听别人说话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9615,
+          "following_count": 194,
+          "like_count": 3991,
+          "listed_count": 19,
+          "media_count": 537,
+          "tweet_count": 4365
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-06T09:19:01.000Z",
+        "description": "元Vtuber、日本で哲学をしています。 サブカル批判/バタイユ主義者/Anarchism/Cinema/Parfume 日本語/中文/English\n“我已不再写诗　世界はもう詩なんていらん”🗿",
+        "id": "3362173438",
+        "location": "子宮",
+        "name": "摩艾石像厨",
+        "pinned_tweet_id": "1881215415894052971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751196444332285952/antWi7vL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 79,
+          "like_count": 294,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 573
+        },
+        "username": "fujyoriaru",
+        "verified": false
+      }
+    ]
+  }
+}

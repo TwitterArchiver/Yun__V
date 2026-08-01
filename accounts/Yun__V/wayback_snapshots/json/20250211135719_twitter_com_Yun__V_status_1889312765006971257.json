@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1849863902542299494",
+    "created_at": "2025-02-11T13:57:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T14:57:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889312765006971257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817133517417111552",
+          "start": 0,
+          "username": "So9_6tes__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889312765006971257",
+    "in_reply_to_user_id": "1817133517417111552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889312609738031299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@So9_6tes__ (Ｔ＿Ｔ)好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1849863902542299494",
+        "created_at": "2025-02-11T13:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T14:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889312765006971257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817133517417111552",
+              "start": 0,
+              "username": "So9_6tes__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889312765006971257",
+        "in_reply_to_user_id": "1817133517417111552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889312609738031299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@So9_6tes__ (Ｔ＿Ｔ)好吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817133517417111552",
+        "conversation_id": "1849863902542299494",
+        "created_at": "2025-02-11T13:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T14:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889312609738031299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889312609738031299",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889312372910928305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 我不能，因为我很尴尬♡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "冬の光が射していた",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1886731232559686084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10597,
+          "following_count": 219,
+          "like_count": 4151,
+          "listed_count": 23,
+          "media_count": 551,
+          "tweet_count": 4633
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T09:46:02.000Z",
+        "description": "痣持ち",
+        "id": "1817133517417111552",
+        "name": "死にたくない",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861805590718332928/qLb8LCnD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 512,
+          "like_count": 8635,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 798
+        },
+        "username": "So9_6tes__",
+        "verified": false
+      }
+    ]
+  }
+}

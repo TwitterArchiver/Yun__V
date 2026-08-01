@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1888687044966420786",
+    "created_at": "2025-02-10T09:52:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T10:52:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888888825449189472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1858538713418244096",
+          "start": 0,
+          "username": "zhaoxiaohu2259"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888888825449189472",
+    "in_reply_to_user_id": "1858538713418244096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888701483585286401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhaoxiaohu2259 没嗑啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1888687044966420786",
+        "created_at": "2025-02-10T09:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T10:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888888825449189472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1858538713418244096",
+              "start": 0,
+              "username": "zhaoxiaohu2259"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888888825449189472",
+        "in_reply_to_user_id": "1858538713418244096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888701483585286401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhaoxiaohu2259 没嗑啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858538713418244096",
+        "conversation_id": "1888687044966420786",
+        "created_at": "2025-02-09T21:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T22:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888701483585286401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888701483585286401",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888687044966420786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 又磕高了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1886731232559686084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10566,
+          "following_count": 216,
+          "like_count": 4139,
+          "listed_count": 23,
+          "media_count": 549,
+          "tweet_count": 4612
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T15:52:27.000Z",
+        "description": "人在成都，喜好萝莉",
+        "id": "1858538713418244096",
+        "name": "First",
+        "pinned_tweet_id": "1877129093298147401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888020695193686016/Aau1-2-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 146,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 220
+        },
+        "username": "zhaoxiaohu2259",
+        "verified": false
+      }
+    ]
+  }
+}

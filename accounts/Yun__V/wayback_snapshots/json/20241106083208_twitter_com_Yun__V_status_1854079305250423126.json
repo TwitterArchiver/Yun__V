@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1854038936106246382",
+    "created_at": "2024-11-06T08:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T09:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854079305250423126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1478416492136120321",
+          "start": 0,
+          "username": "77_77nn_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854079305250423126",
+    "in_reply_to_user_id": "1478416492136120321",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854068098623852656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@77_77nn_ 好、、😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1854038936106246382",
+        "created_at": "2024-11-06T08:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T09:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854079305250423126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1478416492136120321",
+              "start": 0,
+              "username": "77_77nn_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854079305250423126",
+        "in_reply_to_user_id": "1478416492136120321",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854068098623852656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@77_77nn_ 好、、😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1478416492136120321",
+        "conversation_id": "1854038936106246382",
+        "created_at": "2024-11-06T07:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T08:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854068098623852656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854068098623852656",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854038936106246382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 下管。比sd好一万倍 sd嗓子嘴角都烂了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1849804879109451906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6892,
+          "following_count": 226,
+          "like_count": 3028,
+          "listed_count": 16,
+          "tweet_count": 3372
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-04T17:22:23.000Z",
+        "description": "已婚有两娃 推广请私 自用🪜 https://t.co/XsdAy1C7Kj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xyz001.damoplane.life/#/register?cod…",
+                "end": 38,
+                "expanded_url": "https://xyz001.damoplane.life/#/register?code=qCxcQb0S",
+                "start": 15,
+                "url": "https://t.co/XsdAy1C7Kj"
+              }
+            ]
+          }
+        },
+        "id": "1478416492136120321",
+        "location": "🚪168",
+        "name": "泥大王",
+        "pinned_tweet_id": "1837158858399342855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772678317268934657/kKfCU6LS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3046,
+          "following_count": 227,
+          "like_count": 1185,
+          "listed_count": 7,
+          "tweet_count": 1103
+        },
+        "username": "77_77nn_",
+        "verified": false
+      }
+    ]
+  }
+}

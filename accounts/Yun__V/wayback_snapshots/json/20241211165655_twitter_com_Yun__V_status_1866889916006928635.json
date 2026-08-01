@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1866885470766207390",
+    "created_at": "2024-12-11T16:56:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T17:56:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866889916006928635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1673731239935881216",
+          "start": 0,
+          "username": "TKME2Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866889916006928635",
+    "in_reply_to_user_id": "1673731239935881216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866885470766207390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TKME2Y 妹妹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1866885470766207390",
+        "created_at": "2024-12-11T16:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T17:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866889916006928635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1673731239935881216",
+              "start": 0,
+              "username": "TKME2Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866889916006928635",
+        "in_reply_to_user_id": "1673731239935881216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866885470766207390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TKME2Y 妹妹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673731239935881216",
+        "conversation_id": "1866885470766207390",
+        "created_at": "2024-12-11T16:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T17:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866885470766207390"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866885470766207390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我被喊姐姐真的生理不适。我还很年轻没有到姐的地步。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8794,
+          "following_count": 171,
+          "like_count": 3366,
+          "listed_count": 20,
+          "media_count": 482,
+          "tweet_count": 3777
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-27T16:33:44.000Z",
+        "description": "你看到的世界是否也在下降",
+        "id": "1673731239935881216",
+        "name": "雨以外",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863213623922851840/WdGtrlSL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 217,
+          "like_count": 5765,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 1846
+        },
+        "username": "TKME2Y",
+        "verified": false
+      }
+    ]
+  }
+}

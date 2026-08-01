@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055603645295800320"
+      ]
+    },
+    "author_id": "1650126478213001216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055603655265649022",
+    "created_at": "2026-05-16T10:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T11:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055603655265649022"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8Qy1cSbGg0",
+          "end": 29,
+          "expanded_url": "https://x.com/Yun__V/status/2055603655265649022/photo/1",
+          "media_key": "3_2055603645295800320",
+          "start": 6,
+          "url": "https://t.co/8Qy1cSbGg0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055603655265649022",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "偶要直播了 https://t.co/8Qy1cSbGg0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055603645295800320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIb4n9TasAAc6Vl.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055603645295800320"
+          ]
+        },
+        "author_id": "1650126478213001216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055603655265649022",
+        "created_at": "2026-05-16T10:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055603655265649022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Qy1cSbGg0",
+              "end": 29,
+              "expanded_url": "https://x.com/Yun__V/status/2055603655265649022/photo/1",
+              "media_key": "3_2055603645295800320",
+              "start": 6,
+              "url": "https://t.co/8Qy1cSbGg0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055603655265649022",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "偶要直播了 https://t.co/8Qy1cSbGg0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15696,
+          "following_count": 121,
+          "like_count": 5519,
+          "listed_count": 30,
+          "media_count": 851,
+          "tweet_count": 6803
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

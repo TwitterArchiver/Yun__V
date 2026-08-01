@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1934685128611254574",
+    "created_at": "2025-07-18T04:50:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T05:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946069949136417178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1426513039419867139",
+          "start": 0,
+          "username": "loveliescrushi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946069949136417178",
+    "in_reply_to_user_id": "1426513039419867139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934685128611254574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loveliescrushi 讓我給你割好嗎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1934685120361058305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtlh3dda0AE1oLL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1934685128611254574",
+        "created_at": "2025-07-18T04:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T05:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946069949136417178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1426513039419867139",
+              "start": 0,
+              "username": "loveliescrushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946069949136417178",
+        "in_reply_to_user_id": "1426513039419867139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934685128611254574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveliescrushi 讓我給你割好嗎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934685120361058305"
+          ]
+        },
+        "author_id": "1426513039419867139",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1934685128611254574",
+        "created_at": "2025-06-16T18:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T19:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934685128611254574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rcdrAT0NVy",
+              "end": 23,
+              "expanded_url": "https://x.com/loveliescrushi/status/1934685128611254574/photo/1",
+              "media_key": "3_1934685120361058305",
+              "start": 0,
+              "url": "https://t.co/rcdrAT0NVy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934685128611254574",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rcdrAT0NVy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 我養的鳥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1941923000317546552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13279,
+          "following_count": 98,
+          "like_count": 4591,
+          "listed_count": 24,
+          "media_count": 632,
+          "tweet_count": 5320
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-14T11:56:38.000Z",
+        "description": "overdoseoverthinkkk/any pronouns/08",
+        "id": "1426513039419867139",
+        "location": "LakeCityQuietPills",
+        "name": "萨拉热窝的Haerin和Hanni",
+        "pinned_tweet_id": "1924808064638844970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938734071900684288/dHvBFJ52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 601,
+          "like_count": 12822,
+          "listed_count": 4,
+          "media_count": 228,
+          "tweet_count": 3010
+        },
+        "username": "loveliescrushi",
+        "verified": false
+      }
+    ]
+  }
+}

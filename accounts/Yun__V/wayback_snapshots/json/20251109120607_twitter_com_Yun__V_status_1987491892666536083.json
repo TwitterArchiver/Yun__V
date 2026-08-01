@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1987490048326144326",
+    "created_at": "2025-11-09T12:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T13:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987491892666536083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1927542858514329600",
+          "start": 0,
+          "username": "maireing8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987491892666536083",
+    "in_reply_to_user_id": "1927542858514329600",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987491706791669830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maireing8 so cute……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_1987491704438472705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5T9LM0XQAEWiQu.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1987490048326144326",
+        "created_at": "2025-11-09T12:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T13:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987491892666536083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1927542858514329600",
+              "start": 0,
+              "username": "maireing8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987491892666536083",
+        "in_reply_to_user_id": "1927542858514329600",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987491706791669830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maireing8 so cute……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987491704438472705"
+          ]
+        },
+        "author_id": "1927542858514329600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Body Art",
+              "id": "854712713510965248",
+              "name": "Body art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          }
+        ],
+        "conversation_id": "1987490048326144326",
+        "created_at": "2025-11-09T12:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T13:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987491706791669830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dTzrakzRnB",
+              "end": 49,
+              "expanded_url": "https://x.com/maireing8/status/1987491706791669830/photo/1",
+              "media_key": "3_1987491704438472705",
+              "start": 26,
+              "url": "https://t.co/dTzrakzRnB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987491706791669830",
+        "in_reply_to_user_id": "1927542858514329600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987490397061550538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V これらのタトゥー、すごくかわいい… https://t.co/dTzrakzRnB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 在脊柱上紋一對翅膀我會飛走嗎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1957837993022222486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14535,
+          "following_count": 110,
+          "like_count": 4983,
+          "listed_count": 28,
+          "media_count": 779,
+          "tweet_count": 6196
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-28T01:50:11.000Z",
+        "description": "⠀ ⠀ ⠀ ⠀ ⠀ 6teen ⠀ ⠀—⠀ ⠀ 💞⠀ ⠀’ eng／日本語 ⠀ ⠀⠀ ⠀ 🦄⠀ ⠀ ༝ ⠀ ⠀ #mlptwt ⠀cadance ⠀ https://t.co/7HdLTiFWoc ⠀⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 56,
+                "tag": "mlptwt"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fictive.⠀",
+                "end": 98,
+                "expanded_url": "http://fictive.xn--6ii",
+                "start": 75,
+                "url": "https://t.co/7HdLTiFWoc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "PLUR.⠀",
+                "end": 23,
+                "expanded_url": "http://PLUR.xn--6ii",
+                "start": 0,
+                "url": "https://t.co/XP3giWalQ0"
+              }
+            ]
+          }
+        },
+        "id": "1927542858514329600",
+        "location": "ic radiant_toast",
+        "name": "maire ♡",
+        "pinned_tweet_id": "1987441835111768197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987462966824820737/FB43z-b2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 773,
+          "like_count": 2776,
+          "listed_count": 7,
+          "media_count": 4,
+          "tweet_count": 34
+        },
+        "url": "https://t.co/XP3giWalQ0",
+        "username": "maireing8",
+        "verified": false
+      }
+    ]
+  }
+}

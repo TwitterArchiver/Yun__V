@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2048132883639071179",
+    "created_at": "2026-04-25T20:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T21:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048133151520956665"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048133151520956665",
+    "in_reply_to_user_id": "1650126478213001216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048132883639071179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我每次开门拿完外卖都会很快跑回家，我总感觉会有人或者有什么东西会追上我会害我，我操你妈我好想死我还能活吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2048132883639071179",
+        "created_at": "2026-04-25T20:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T21:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048133151520956665"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048133151520956665",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048132883639071179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我每次开门拿完外卖都会很快跑回家，我总感觉会有人或者有什么东西会追上我会害我，我操你妈我好想死我还能活吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2048132883639071179",
+        "created_at": "2026-04-25T20:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T21:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048132883639071179"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048132883639071179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想哭啊，我今天点了四杯奶茶。我太焦虑了我一直在暴饮暴食，嗯我打算睡一觉就打针。我今天已经把一部分东西收拾好装箱了我好厉害，我感觉我的精神状态越来越差了，我一听到外卖员按单元楼的门铃声我就心跳特别快会忍不住抖一下，现在这个房子好大好空旷，阳台好可怕楼道好可怕一个人好害怕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15507,
+          "following_count": 117,
+          "like_count": 5389,
+          "listed_count": 28,
+          "media_count": 843,
+          "tweet_count": 6667
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

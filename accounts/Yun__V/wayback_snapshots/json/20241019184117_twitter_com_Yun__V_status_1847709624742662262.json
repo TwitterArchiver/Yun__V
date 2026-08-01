@@ -1,0 +1,85 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1847709624742662262",
+    "created_at": "2024-10-19T18:41:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-19T19:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1847709624742662262"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1847709624742662262",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "精神病真的会遗传啊…尤其记得小学时期我妈经常一会儿很暴躁一会儿又很温柔，搞得我不知所措呃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1847709624742662262",
+        "created_at": "2024-10-19T18:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T19:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847709624742662262"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1847709624742662262",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "精神病真的会遗传啊…尤其记得小学时期我妈经常一会儿很暴躁一会儿又很温柔，搞得我不知所措呃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "",
+        "id": "1650126478213001216",
+        "name": "After the sheep",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6165,
+          "following_count": 220,
+          "like_count": 2721,
+          "listed_count": 17,
+          "tweet_count": 3016
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

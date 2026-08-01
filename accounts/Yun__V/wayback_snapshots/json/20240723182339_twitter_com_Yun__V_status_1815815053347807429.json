@@ -1,0 +1,83 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1815815053347807429",
+    "created_at": "2024-07-23T18:23:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-23T19:23:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1815815053347807429"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1815815053347807429",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实一直都很怀念今年冬天在北京的那几天 和小藻玩好开心他会给我拍很多很漂亮的照片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1815815053347807429",
+        "created_at": "2024-07-23T18:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T19:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815815053347807429"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1815815053347807429",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实一直都很怀念今年冬天在北京的那几天 和小藻玩好开心他会给我拍很多很漂亮的照片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪250/520",
+        "id": "1650126478213001216",
+        "name": "羊儿的聪明难以想象",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813404495705194498/C3n08IjE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5510,
+          "following_count": 217,
+          "like_count": 2678,
+          "listed_count": 17,
+          "tweet_count": 2872
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

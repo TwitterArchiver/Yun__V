@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2024902554702717188",
+    "created_at": "2026-02-21T00:13:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T01:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025000919557976143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1864559665423765506",
+          "start": 0,
+          "username": "wltng986628"
+        },
+        {
+          "end": 22,
+          "id": "2016436369938419713",
+          "start": 13,
+          "username": "ryze6667"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025000919557976143",
+    "in_reply_to_user_id": "1864559665423765506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024992012374516102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wltng986628 @ryze6667 孩子，你爹和他兄弟肛交生下你不容易啊，哎劣精人我真不行了，你低级人类看不懂字就暴跳如雷了，你是代入自己了才气成这样吗，怎么学会个新词就开始到处批判了😳而且也没骂你你到底在跳脚什么？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2024902554702717188",
+        "created_at": "2026-02-21T00:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T01:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025000919557976143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1864559665423765506",
+              "start": 0,
+              "username": "wltng986628"
+            },
+            {
+              "end": 22,
+              "id": "2016436369938419713",
+              "start": 13,
+              "username": "ryze6667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025000919557976143",
+        "in_reply_to_user_id": "1864559665423765506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024992012374516102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wltng986628 @ryze6667 孩子，你爹和他兄弟肛交生下你不容易啊，哎劣精人我真不行了，你低级人类看不懂字就暴跳如雷了，你是代入自己了才气成这样吗，怎么学会个新词就开始到处批判了😳而且也没骂你你到底在跳脚什么？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864559665423765506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2024902554702717188",
+        "created_at": "2026-02-20T23:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T00:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024992012374516102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            },
+            {
+              "end": 17,
+              "id": "2016436369938419713",
+              "start": 8,
+              "username": "ryze6667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024992012374516102",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024967566809018485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V @ryze6667 你妈不仅死了你爸也没活着嘴这么毒是不是以为特有反差感？你这样一卡车的妈都不够你死 嫌恶心你就把主动权握自己手里自己心甘情愿的被别人按着口你怪谁？找个这样男的不骂他自己搞上伤感文学还催吐上了 停止自嬷哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14615,
+          "following_count": 117,
+          "like_count": 5150,
+          "listed_count": 28,
+          "media_count": 816,
+          "tweet_count": 6421
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T06:37:43.000Z",
+        "description": "",
+        "id": "1864559665423765506",
+        "name": "哦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919449778137792515/gfHdFI5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 36,
+          "like_count": 601,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 120
+        },
+        "username": "wltng986628",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-28T09:01:23.000Z",
+        "description": "",
+        "id": "2016436369938419713",
+        "name": "Ryze666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016438387423780864/pMjJtTdx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 14,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 47
+        },
+        "username": "ryze6667",
+        "verified": false
+      }
+    ]
+  }
+}

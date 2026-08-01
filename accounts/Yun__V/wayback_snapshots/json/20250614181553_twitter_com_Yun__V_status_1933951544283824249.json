@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1933925386783740350",
+    "created_at": "2025-06-14T18:15:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T19:15:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933951544283824249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1611578957312180224",
+          "start": 0,
+          "username": "illi94ever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933951544283824249",
+    "in_reply_to_user_id": "1611578957312180224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933925386783740350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@illi94ever 明明很漂亮……你什么发型都很美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1933925386783740350",
+        "created_at": "2025-06-14T18:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T19:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933951544283824249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1611578957312180224",
+              "start": 0,
+              "username": "illi94ever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933951544283824249",
+        "in_reply_to_user_id": "1611578957312180224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933925386783740350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@illi94ever 明明很漂亮……你什么发型都很美"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611578957312180224",
+        "conversation_id": "1933925386783740350",
+        "created_at": "2025-06-14T16:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T17:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933925386783740350"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1933925386783740350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天跟家人打视频，我妹妹说我短头发好丑，没有长头发金色的时候好看，伤我自尊心啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 我養的鳥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927314874956230656/FrPnF5AR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13110,
+          "following_count": 95,
+          "like_count": 4531,
+          "listed_count": 25,
+          "media_count": 598,
+          "tweet_count": 5153
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-07T04:22:27.000Z",
+        "description": "",
+        "id": "1611578957312180224",
+        "name": "我的呼吸是有罪的",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910269406334300160/g6pi1qLx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 10,
+          "like_count": 661,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1369
+        },
+        "username": "illi94ever",
+        "verified": false
+      }
+    ]
+  }
+}

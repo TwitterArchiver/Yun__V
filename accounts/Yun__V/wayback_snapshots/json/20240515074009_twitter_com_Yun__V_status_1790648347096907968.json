@@ -1,0 +1,161 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1790347268014715036",
+    "created_at": "2024-05-15T07:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-15T08:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790648347096907968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1710375641000935424",
+          "start": 0,
+          "username": "Y_74dead"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790648347096907968",
+    "in_reply_to_user_id": "1710375641000935424",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790362330817065021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y_74dead (｡ ˇ‸ˇ ｡)"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1790362330817065021].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1790362330817065021",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1790362330817065021"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1790347268014715036",
+        "created_at": "2024-05-15T07:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T08:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790648347096907968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1710375641000935424",
+              "start": 0,
+              "username": "Y_74dead"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790648347096907968",
+        "in_reply_to_user_id": "1710375641000935424",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790362330817065021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y_74dead (｡ ˇ‸ˇ ｡)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪250/520",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "http://wwl.sogood9.com/#/register?code=S3l8RLvL",
+                "start": 0,
+                "url": "https://t.co/ciduMojuDG"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "自用🪜",
+        "name": "羊儿的聪明难以想象",
+        "pinned_tweet_id": "1755285158981439622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763849145306275840/B1qnbA9g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5269,
+          "following_count": 230,
+          "like_count": 2518,
+          "listed_count": 16,
+          "tweet_count": 2765
+        },
+        "url": "https://t.co/ciduMojuDG",
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-06T19:25:26.000Z",
+        "description": "",
+        "id": "1710375641000935424",
+        "name": "Y_74",
+        "pinned_tweet_id": "1733858844177027148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766523256897519616/XtQNhHhh_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 340,
+          "like_count": 17457,
+          "listed_count": 0,
+          "tweet_count": 7756
+        },
+        "username": "Y_74dead",
+        "verified": false
+      }
+    ]
+  }
+}

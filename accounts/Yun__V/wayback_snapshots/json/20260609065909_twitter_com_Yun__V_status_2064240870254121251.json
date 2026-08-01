@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059976245849534464"
+      ],
+      "media_source_tweet_id": [
+        "2059976252354896243"
+      ]
+    },
+    "author_id": "1650126478213001216",
+    "conversation_id": "2064240870254121251",
+    "created_at": "2026-06-09T06:59:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T07:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064240870254121251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1399308922087899138",
+          "start": 3,
+          "username": "Celicovvb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DFjODAJa1U",
+          "end": 56,
+          "expanded_url": "https://x.com/Celicovvb/status/2059976252354896243/photo/1",
+          "media_key": "3_2059976245849534464",
+          "start": 33,
+          "url": "https://t.co/DFjODAJa1U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064240870254121251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059976252354896243",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Celicovvb: 线下🚪38！转发这条抽10个奶茶！ https://t.co/DFjODAJa1U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2059976245849534464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaBezuasAAGnF8.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059976245849534464"
+          ],
+          "media_source_tweet_id": [
+            "2059976252354896243"
+          ]
+        },
+        "author_id": "1650126478213001216",
+        "conversation_id": "2064240870254121251",
+        "created_at": "2026-06-09T06:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064240870254121251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1399308922087899138",
+              "start": 3,
+              "username": "Celicovvb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DFjODAJa1U",
+              "end": 56,
+              "expanded_url": "https://x.com/Celicovvb/status/2059976252354896243/photo/1",
+              "media_key": "3_2059976245849534464",
+              "start": 33,
+              "url": "https://t.co/DFjODAJa1U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064240870254121251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059976252354896243",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Celicovvb: 线下🚪38！转发这条抽10个奶茶！ https://t.co/DFjODAJa1U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059976245849534464"
+          ]
+        },
+        "author_id": "1399308922087899138",
+        "conversation_id": "2059976252354896243",
+        "created_at": "2026-05-28T12:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059976252354896243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DFjODAJa1U",
+              "end": 41,
+              "expanded_url": "https://x.com/Celicovvb/status/2059976252354896243/photo/1",
+              "media_key": "3_2059976245849534464",
+              "start": 18,
+              "url": "https://t.co/DFjODAJa1U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059976252354896243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7011,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "线下🚪38！转发这条抽10个奶茶！ https://t.co/DFjODAJa1U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15643,
+          "following_count": 121,
+          "like_count": 5582,
+          "listed_count": 30,
+          "media_count": 859,
+          "tweet_count": 6834
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-31T10:17:09.000Z",
+        "description": "虫某人的185天下海生涯",
+        "id": "1399308922087899138",
+        "location": "线下🚪38/188",
+        "name": "虫虫",
+        "pinned_tweet_id": "2059976252354896243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060533132290666496/SkpxR_RC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 18,
+          "like_count": 344,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 304
+        },
+        "username": "Celicovvb",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1887611401742786777",
+    "created_at": "2025-02-06T21:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T22:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887613273337700824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1767122266414882816",
+          "start": 0,
+          "username": "shu_fan0228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887613273337700824",
+    "in_reply_to_user_id": "1767122266414882816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887611401742786777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shu_fan0228 注意安全！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1887611401742786777",
+        "created_at": "2025-02-06T21:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T22:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887613273337700824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767122266414882816",
+              "start": 0,
+              "username": "shu_fan0228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887613273337700824",
+        "in_reply_to_user_id": "1767122266414882816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887611401742786777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shu_fan0228 注意安全！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767122266414882816",
+        "conversation_id": "1887611401742786777",
+        "created_at": "2025-02-06T21:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T22:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887611401742786777"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887611401742786777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我很焦躁 手和腿一直在抖 哎 我去离她家近一个地方等她 风超大啊走路的阻力增加不少 但是幸好有很暖的围巾 话说这是我第一次五点出门 除了赶高铁之类的早晨的第一次 经常凌晨回家但是没有凌晨出门过 我带了一把水果刀 下楼的时候总感觉背后有人 可能是今晚吃了点pr吗不知道 好难过 她应该是想见我的吧 说实话我感觉在做梦一样 没有实感 所有屏幕上的字都飞出来了分解了 哎哎 我逃避的坏毛病什么时候能滚蛋 痛苦和幸福都逃避你是多没有胆子  不能这样下去啊 话说我出来benlaox"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很焦躁 手和腿一直在抖 哎 我去离她家近一个地方等她 风超大啊走路的阻力增加不少 但是幸好有很暖的围巾 话说这是我第一次五点出门 除了赶高铁之类的早晨的第一次 经常凌晨回家但是没有凌晨出门过 我带了一把水果刀 下楼的时候总感觉背后有人 可能是今晚吃了点pr吗不知道 好难过 她应该是想见我的吧…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1886731232559686084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10423,
+          "following_count": 211,
+          "like_count": 4085,
+          "listed_count": 24,
+          "media_count": 554,
+          "tweet_count": 4566
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T09:36:16.000Z",
+        "description": "飞吧飞吧～",
+        "id": "1767122266414882816",
+        "name": "临死前最后一顿饭要吃什么好？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809567706330304512/J5J7pI5l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 159,
+          "like_count": 1235,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 1555
+        },
+        "username": "shu_fan0228",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1867815441617551448",
+    "created_at": "2024-12-14T06:26:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-14T07:26:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867818484367040693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1744221287546036224",
+          "start": 0,
+          "username": "MIKU290431"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867818484367040693",
+    "in_reply_to_user_id": "1744221287546036224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867818367694123183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MIKU290431 是的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1867815441617551448",
+        "created_at": "2024-12-14T06:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T07:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867818484367040693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1744221287546036224",
+              "start": 0,
+              "username": "MIKU290431"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867818484367040693",
+        "in_reply_to_user_id": "1744221287546036224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867818367694123183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MIKU290431 是的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744221287546036224",
+        "conversation_id": "1867815441617551448",
+        "created_at": "2024-12-14T06:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T07:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867818367694123183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867818367694123183",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867815441617551448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 胶片机拍照很有仪式感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9137,
+          "following_count": 177,
+          "like_count": 3483,
+          "listed_count": 21,
+          "media_count": 492,
+          "tweet_count": 3885
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T04:55:58.000Z",
+        "description": "喜欢和可爱的一切贴贴ヾ(´〇｀)ﾉ♪♪♪",
+        "id": "1744221287546036224",
+        "name": "无意义",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799296882273112064/K2ZIHqDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 189,
+          "like_count": 485,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "MIKU290431",
+        "verified": false
+      }
+    ]
+  }
+}

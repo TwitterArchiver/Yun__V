@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1872684054631612808",
+    "created_at": "2024-12-27T16:52:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T17:52:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872687114925875599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816105634179534848",
+          "start": 0,
+          "username": "sevensand7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872687114925875599",
+    "in_reply_to_user_id": "1816105634179534848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872684054631612808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sevensand7 美美美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1872684054631612808",
+        "created_at": "2024-12-27T16:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T17:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872687114925875599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816105634179534848",
+              "start": 0,
+              "username": "sevensand7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872687114925875599",
+        "in_reply_to_user_id": "1816105634179534848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872684054631612808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sevensand7 美美美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872684005734207488"
+          ]
+        },
+        "author_id": "1816105634179534848",
+        "conversation_id": "1872684054631612808",
+        "created_at": "2024-12-27T16:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T17:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872684054631612808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yLepv6PQfT",
+              "end": 32,
+              "expanded_url": "https://x.com/sevensand7/status/1872684054631612808/photo/1",
+              "media_key": "3_1872684005734207488",
+              "start": 9,
+              "url": "https://t.co/yLepv6PQfT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872684054631612808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "照着虚无的镜子。 https://t.co/yLepv6PQfT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9352,
+          "following_count": 184,
+          "like_count": 3688,
+          "listed_count": 21,
+          "media_count": 511,
+          "tweet_count": 4078
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T13:38:30.000Z",
+        "description": "queer｜黑色猫咪正淌过绿色的河",
+        "id": "1816105634179534848",
+        "location": "遥远的西伯利亚",
+        "name": "七尺沙地和她孕育的孩子",
+        "pinned_tweet_id": "1859820772740694163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854338904897515520/UW2Hoqy6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 249,
+          "like_count": 12319,
+          "listed_count": 6,
+          "media_count": 277,
+          "tweet_count": 2999
+        },
+        "username": "sevensand7",
+        "verified": false
+      }
+    ]
+  }
+}

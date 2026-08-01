@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1868518059302101040",
+    "created_at": "2024-12-16T05:15:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T06:15:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868525326013550677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1822186783515217920",
+          "start": 0,
+          "username": "niu_fan5778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868525326013550677",
+    "in_reply_to_user_id": "1822186783515217920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868524792447697335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niu_fan5778 双在哪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1868518059302101040",
+        "created_at": "2024-12-16T05:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T06:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868525326013550677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1822186783515217920",
+              "start": 0,
+              "username": "niu_fan5778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868525326013550677",
+        "in_reply_to_user_id": "1822186783515217920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868524792447697335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niu_fan5778 双在哪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822186783515217920",
+        "conversation_id": "1868518059302101040",
+        "created_at": "2024-12-16T05:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T06:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868524792447697335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868524792447697335",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868518059302101040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 👍🏻👍🏻一语双关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9186,
+          "following_count": 179,
+          "like_count": 3556,
+          "listed_count": 21,
+          "media_count": 495,
+          "tweet_count": 3928
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T08:23:07.000Z",
+        "description": "时常对人生，性，死亡，爱进行思考.....\n对政治保持忽冷忽热的态度。（男的）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iiexy/neverhave",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iiexy/neverhave",
+                "start": 0,
+                "url": "https://t.co/yLP4EYm9bS"
+              }
+            ]
+          }
+        },
+        "id": "1822186783515217920",
+        "location": "岐阜 可児市",
+        "name": "404 not found",
+        "pinned_tweet_id": "1849266753387323692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868217722674270208/wZYrsrK-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 98,
+          "like_count": 1652,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 712
+        },
+        "url": "https://t.co/yLP4EYm9bS",
+        "username": "niu_fan5778",
+        "verified": false
+      }
+    ]
+  }
+}

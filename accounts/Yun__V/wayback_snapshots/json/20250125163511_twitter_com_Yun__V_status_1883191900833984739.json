@@ -1,0 +1,128 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883191891942080512",
+        "3_1883191891937972224",
+        "3_1883191891933700096"
+      ]
+    },
+    "author_id": "1650126478213001216",
+    "conversation_id": "1883191900833984739",
+    "created_at": "2025-01-25T16:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T17:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883191900833984739"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CpT0px57Qe",
+          "end": 23,
+          "expanded_url": "https://x.com/Yun__V/status/1883191900833984739/photo/1",
+          "media_key": "3_1883191891942080512",
+          "start": 0,
+          "url": "https://t.co/CpT0px57Qe"
+        },
+        {
+          "display_url": "pic.x.com/CpT0px57Qe",
+          "end": 23,
+          "expanded_url": "https://x.com/Yun__V/status/1883191900833984739/photo/1",
+          "media_key": "3_1883191891937972224",
+          "start": 0,
+          "url": "https://t.co/CpT0px57Qe"
+        },
+        {
+          "display_url": "pic.x.com/CpT0px57Qe",
+          "end": 23,
+          "expanded_url": "https://x.com/Yun__V/status/1883191900833984739/photo/1",
+          "media_key": "3_1883191891933700096",
+          "start": 0,
+          "url": "https://t.co/CpT0px57Qe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883191900833984739",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/CpT0px57Qe"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1883191900833984739].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1883191900833984739",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1883191900833984739"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1883191891942080512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiJxDFMagAAjSzy.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1883191891937972224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiJxDFLb0AAAv2b.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1883191891933700096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiJxDFKaoAAHC0j.jpg",
+        "width": 945
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9610,
+          "following_count": 195,
+          "like_count": 3971,
+          "listed_count": 19,
+          "media_count": 536,
+          "tweet_count": 4335
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

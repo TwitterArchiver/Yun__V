@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1889219581170110790",
+    "created_at": "2025-02-11T13:49:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T14:49:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889310672141586556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1826687223812816901",
+          "start": 0,
+          "username": "syd_ether"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889310672141586556",
+    "in_reply_to_user_id": "1826687223812816901",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889219581170110790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@syd_ether hi椅子 我叫小羊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1889219581170110790",
+        "created_at": "2025-02-11T13:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T14:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889310672141586556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1826687223812816901",
+              "start": 0,
+              "username": "syd_ether"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889310672141586556",
+        "in_reply_to_user_id": "1826687223812816901",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889219581170110790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syd_ether hi椅子 我叫小羊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826687223812816901",
+        "conversation_id": "1889219581170110790",
+        "created_at": "2025-02-11T07:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T08:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889219581170110790"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889219581170110790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 388,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近关注我的中国朋友们\n我的名字是椅子(isu)\n可以叫我sid\n想成为好朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "冬の光が射していた",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1886731232559686084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10597,
+          "following_count": 219,
+          "like_count": 4151,
+          "listed_count": 23,
+          "media_count": 551,
+          "tweet_count": 4630
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T18:26:01.000Z",
+        "description": "i only respect dead people. @blyatifull_drug←art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 28,
+                "username": "blyatifull_drug"
+              }
+            ]
+          }
+        },
+        "id": "1826687223812816901",
+        "location": "恥 注意",
+        "name": "𝔰𝔦𝔡 𝔢𝔱𝔥𝔢𝔯",
+        "pinned_tweet_id": "1883152571688435950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826687352363991040/sLzAccjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 88,
+          "like_count": 8106,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 1515
+        },
+        "username": "syd_ether",
+        "verified": false
+      }
+    ]
+  }
+}

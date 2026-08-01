@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1887458635133166080",
+    "created_at": "2025-02-06T11:19:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T12:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887461226768462265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1810173364331491328",
+          "start": 0,
+          "username": "Killer3Death"
+        },
+        {
+          "end": 26,
+          "id": "1767122266414882816",
+          "start": 14,
+          "username": "shu_fan0228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887461226768462265",
+    "in_reply_to_user_id": "1810173364331491328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887460872521691158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Killer3Death @shu_fan0228 没钱直说好吗 装半天装什么🙄️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1887458635133166080",
+        "created_at": "2025-02-06T11:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T12:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887461226768462265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1810173364331491328",
+              "start": 0,
+              "username": "Killer3Death"
+            },
+            {
+              "end": 26,
+              "id": "1767122266414882816",
+              "start": 14,
+              "username": "shu_fan0228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887461226768462265",
+        "in_reply_to_user_id": "1810173364331491328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887460872521691158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Killer3Death @shu_fan0228 没钱直说好吗 装半天装什么🙄️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810173364331491328",
+        "conversation_id": "1887458635133166080",
+        "created_at": "2025-02-06T11:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T12:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887460872521691158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            },
+            {
+              "end": 20,
+              "id": "1767122266414882816",
+              "start": 8,
+              "username": "shu_fan0228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887460872521691158",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887459505312833644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V @shu_fan0228 凭啥呀宝宝…你又不给我操 你逼烂打我怕得病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1886731232559686084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10374,
+          "following_count": 202,
+          "like_count": 4044,
+          "listed_count": 23,
+          "media_count": 549,
+          "tweet_count": 4511
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-08T04:45:49.000Z",
+        "description": "会分享我的旅游摄影作品和我的日常 想和女宝交朋友  上推特就是为了看你们穷逼福利姬一边卖逼一边打女权",
+        "id": "1810173364331491328",
+        "location": "Hong Kong",
+        "name": "2Dimensionality。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829419416746119168/zjDauaeQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 13,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 36
+        },
+        "username": "Killer3Death",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T09:36:16.000Z",
+        "description": "飞吧飞吧～",
+        "id": "1767122266414882816",
+        "name": "临死前最后一顿饭要吃什么好？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809567706330304512/J5J7pI5l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 159,
+          "like_count": 1208,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 1510
+        },
+        "username": "shu_fan0228",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1902012203974209596",
+    "created_at": "2025-03-18T15:00:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T16:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1902012203974209596"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/loolzaozmin/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/loolzaozmin/status/1902011796116082722",
+          "start": 7,
+          "url": "https://t.co/tb1UYwLWFi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902012203974209596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902011796116082722",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的审美喜好 https://t.co/tb1UYwLWFi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1902012203974209596",
+        "created_at": "2025-03-18T15:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T16:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902012203974209596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/loolzaozmin/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/loolzaozmin/status/1902011796116082722",
+              "start": 7,
+              "url": "https://t.co/tb1UYwLWFi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902012203974209596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902011796116082722",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的审美喜好 https://t.co/tb1UYwLWFi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467368317258248192",
+        "conversation_id": "1902011796116082722",
+        "created_at": "2025-03-18T14:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T15:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902011796116082722"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902011796116082722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢骨头 喜欢纤细的四肢 单薄的身体 喜欢隔着皮肤看肋骨起伏 喜欢苍白皮肤透出来青紫色的血管 喜欢看起来像尸体的人类"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 🐦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "开朋友圈🚪288",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1897278836238352733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896312946994937856/JzQllmQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11250,
+          "following_count": 188,
+          "like_count": 4211,
+          "listed_count": 24,
+          "media_count": 567,
+          "tweet_count": 4895
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T05:40:54.000Z",
+        "description": "我是藻｜撒旦之子｜它/ta｜非二元性别",
+        "id": "1467368317258248192",
+        "name": "小藻",
+        "pinned_tweet_id": "1845795124061823157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879431026067521536/DL95lh-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12697,
+          "following_count": 193,
+          "like_count": 635,
+          "listed_count": 19,
+          "media_count": 118,
+          "tweet_count": 538
+        },
+        "username": "loolzaozmin",
+        "verified": false
+      }
+    ]
+  }
+}

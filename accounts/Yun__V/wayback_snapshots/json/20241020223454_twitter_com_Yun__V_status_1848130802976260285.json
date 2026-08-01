@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1848130802976260285",
+    "created_at": "2024-10-20T22:34:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T23:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1848130802976260285"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1848130802976260285",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "要去學校了。。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1848130802976260285",
+        "created_at": "2024-10-20T22:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T23:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1848130802976260285"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1848130802976260285",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要去學校了。。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "",
+        "id": "1650126478213001216",
+        "name": "After the sheep",
+        "pinned_tweet_id": "1847704934776787255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6183,
+          "following_count": 224,
+          "like_count": 2756,
+          "listed_count": 17,
+          "tweet_count": 3048
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

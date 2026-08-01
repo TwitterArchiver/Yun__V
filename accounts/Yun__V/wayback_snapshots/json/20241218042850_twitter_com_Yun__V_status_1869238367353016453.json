@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1869229553278956001",
+    "created_at": "2024-12-18T04:28:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T05:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869238367353016453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1777176214652035072",
+          "start": 0,
+          "username": "7u7uqu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869238367353016453",
+    "in_reply_to_user_id": "1777176214652035072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869229553278956001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7u7uqu 舍不得你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1869229553278956001",
+        "created_at": "2024-12-18T04:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T05:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869238367353016453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1777176214652035072",
+              "start": 0,
+              "username": "7u7uqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869238367353016453",
+        "in_reply_to_user_id": "1777176214652035072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869229553278956001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7u7uqu 舍不得你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777176214652035072",
+        "conversation_id": "1869229553278956001",
+        "created_at": "2024-12-18T03:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T04:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869229553278956001"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1869229553278956001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想在跨年那天从24楼跳下去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9216,
+          "following_count": 180,
+          "like_count": 3597,
+          "listed_count": 21,
+          "media_count": 502,
+          "tweet_count": 3986
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T03:26:57.000Z",
+        "description": "この世界が終わるのが今ならいい。",
+        "id": "1777176214652035072",
+        "name": "吗啡天使",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822887119930699776/dLc82awk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 1,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 94
+        },
+        "username": "7u7uqu",
+        "verified": false
+      }
+    ]
+  }
+}

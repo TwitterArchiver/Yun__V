@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1889219581170110790",
+    "created_at": "2025-02-11T13:52:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T14:52:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889311464571494412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1826687223812816901",
+          "start": 0,
+          "username": "syd_ether"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889311464571494412",
+    "in_reply_to_user_id": "1826687223812816901",
+    "lang": "ru",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889311248870982003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@syd_ether (^з^)-☆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1889219581170110790",
+        "created_at": "2025-02-11T13:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T14:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889311464571494412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1826687223812816901",
+              "start": 0,
+              "username": "syd_ether"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889311464571494412",
+        "in_reply_to_user_id": "1826687223812816901",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889311248870982003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syd_ether (^з^)-☆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826687223812816901",
+        "conversation_id": "1889219581170110790",
+        "created_at": "2025-02-11T13:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T14:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889311248870982003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889311248870982003",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889310672141586556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V hi 小羊! 好可爱的名字啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "冬の光が射していた",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1886731232559686084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10597,
+          "following_count": 219,
+          "like_count": 4151,
+          "listed_count": 23,
+          "media_count": 551,
+          "tweet_count": 4631
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T18:26:01.000Z",
+        "description": "i only respect dead people. @blyatifull_drug←art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 28,
+                "username": "blyatifull_drug"
+              }
+            ]
+          }
+        },
+        "id": "1826687223812816901",
+        "location": "恥 注意",
+        "name": "𝔰𝔦𝔡 𝔢𝔱𝔥𝔢𝔯",
+        "pinned_tweet_id": "1883152571688435950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826687352363991040/sLzAccjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 88,
+          "like_count": 8110,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 1516
+        },
+        "username": "syd_ether",
+        "verified": false
+      }
+    ]
+  }
+}

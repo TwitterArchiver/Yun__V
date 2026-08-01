@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1865867351847243945",
+    "created_at": "2024-12-08T21:19:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-08T22:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865868732125597986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1548946293313208321",
+          "start": 0,
+          "username": "Michell16788936"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865868732125597986",
+    "in_reply_to_user_id": "1548946293313208321",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865867351847243945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Michell16788936 好美好温暖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1865867351847243945",
+        "created_at": "2024-12-08T21:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T22:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865868732125597986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1548946293313208321",
+              "start": 0,
+              "username": "Michell16788936"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865868732125597986",
+        "in_reply_to_user_id": "1548946293313208321",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865867351847243945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Michell16788936 好美好温暖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865867325322506240",
+            "3_1865867325322432512",
+            "3_1865867325318295553"
+          ]
+        },
+        "author_id": "1548946293313208321",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1865867351847243945",
+        "created_at": "2024-12-08T21:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T22:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865867351847243945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wa7BsJ99Mz",
+              "end": 27,
+              "expanded_url": "https://x.com/Michell16788936/status/1865867351847243945/photo/1",
+              "media_key": "3_1865867325322506240",
+              "start": 4,
+              "url": "https://t.co/Wa7BsJ99Mz"
+            },
+            {
+              "display_url": "pic.x.com/Wa7BsJ99Mz",
+              "end": 27,
+              "expanded_url": "https://x.com/Michell16788936/status/1865867351847243945/photo/1",
+              "media_key": "3_1865867325322432512",
+              "start": 4,
+              "url": "https://t.co/Wa7BsJ99Mz"
+            },
+            {
+              "display_url": "pic.x.com/Wa7BsJ99Mz",
+              "end": 27,
+              "expanded_url": "https://x.com/Michell16788936/status/1865867351847243945/photo/1",
+              "media_key": "3_1865867325318295553",
+              "start": 4,
+              "url": "https://t.co/Wa7BsJ99Mz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865867351847243945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新成員 https://t.co/Wa7BsJ99Mz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1825939223041683885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8026,
+          "following_count": 169,
+          "like_count": 3313,
+          "listed_count": 19,
+          "media_count": 476,
+          "tweet_count": 3712
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T08:22:54.000Z",
+        "description": "脆弱敏感的小缺把她最愛的人宗教化了 以她名字的第三個字命名為靈靈教！ 試圖把所有的惡人與小動物都變成她的信徒 至今仍在努力！！！！！",
+        "id": "1548946293313208321",
+        "name": "鈴木缺缺",
+        "pinned_tweet_id": "1714468292314951777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689752690967171078/m7jb3GrZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 310,
+          "like_count": 1380,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 647
+        },
+        "username": "Michell16788936",
+        "verified": false
+      }
+    ]
+  }
+}

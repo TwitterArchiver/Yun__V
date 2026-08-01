@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965093836084158464"
+      ],
+      "media_source_tweet_id": [
+        "1965093855604400543"
+      ]
+    },
+    "author_id": "1650126478213001216",
+    "conversation_id": "1965094746071990678",
+    "created_at": "2025-09-08T16:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T17:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965094746071990678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1777176214652035072",
+          "start": 3,
+          "username": "7u7uqu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DiDOkDSrqu",
+          "end": 35,
+          "expanded_url": "https://x.com/7u7uqu/status/1965093855604400543/photo/1",
+          "media_key": "3_1965093836084158464",
+          "start": 12,
+          "url": "https://t.co/DiDOkDSrqu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965094746071990678",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965093855604400543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7u7uqu: https://t.co/DiDOkDSrqu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1992,
+        "media_key": "3_1965093836084158464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0VqbrIbIAAE31t.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965093836084158464"
+          ],
+          "media_source_tweet_id": [
+            "1965093855604400543"
+          ]
+        },
+        "author_id": "1650126478213001216",
+        "conversation_id": "1965094746071990678",
+        "created_at": "2025-09-08T16:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T17:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965094746071990678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1777176214652035072",
+              "start": 3,
+              "username": "7u7uqu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DiDOkDSrqu",
+              "end": 35,
+              "expanded_url": "https://x.com/7u7uqu/status/1965093855604400543/photo/1",
+              "media_key": "3_1965093836084158464",
+              "start": 12,
+              "url": "https://t.co/DiDOkDSrqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965094746071990678",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965093855604400543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7u7uqu: https://t.co/DiDOkDSrqu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965093836084158464"
+          ]
+        },
+        "author_id": "1777176214652035072",
+        "conversation_id": "1965093855604400543",
+        "created_at": "2025-09-08T16:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T17:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965093855604400543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DiDOkDSrqu",
+              "end": 23,
+              "expanded_url": "https://x.com/7u7uqu/status/1965093855604400543/photo/1",
+              "media_key": "3_1965093836084158464",
+              "start": 0,
+              "url": "https://t.co/DiDOkDSrqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965093855604400543",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DiDOkDSrqu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 在脊柱上紋一對翅膀我會飛走嗎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：afterthesheep",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1954140315712893198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14032,
+          "following_count": 99,
+          "like_count": 4658,
+          "listed_count": 28,
+          "media_count": 702,
+          "tweet_count": 5626
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T03:26:57.000Z",
+        "description": "この世界が終わるのが今ならいい。",
+        "id": "1777176214652035072",
+        "name": "吗啡天使",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822887119930699776/dLc82awk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 4,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 163
+        },
+        "username": "7u7uqu",
+        "verified": false
+      }
+    ]
+  }
+}

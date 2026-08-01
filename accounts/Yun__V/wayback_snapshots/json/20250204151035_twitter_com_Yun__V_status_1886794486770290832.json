@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1886731232559686084",
+    "created_at": "2025-02-04T15:10:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T16:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886794486770290832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1724697388982710272",
+          "start": 0,
+          "username": "wn0725269588987"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886794486770290832",
+    "in_reply_to_user_id": "1724697388982710272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886776776417820782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wn0725269588987 半绿纯绿都接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1886731232559686084",
+        "created_at": "2025-02-04T15:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T16:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886794486770290832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1724697388982710272",
+              "start": 0,
+              "username": "wn0725269588987"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886794486770290832",
+        "in_reply_to_user_id": "1724697388982710272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886776776417820782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wn0725269588987 半绿纯绿都接"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724697388982710272",
+        "conversation_id": "1886731232559686084",
+        "created_at": "2025-02-04T14:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T15:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886776776417820782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886776776417820782",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886731232559686084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 半绿？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9955,
+          "following_count": 199,
+          "like_count": 4024,
+          "listed_count": 22,
+          "media_count": 543,
+          "tweet_count": 4451
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-15T07:54:46.000Z",
+        "description": "",
+        "id": "1724697388982710272",
+        "name": "我你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886288055679741952/j1g3zICP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 25,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "wn0725269588987",
+        "verified": false
+      }
+    ]
+  }
+}

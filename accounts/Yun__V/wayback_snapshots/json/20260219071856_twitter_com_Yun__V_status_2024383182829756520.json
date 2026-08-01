@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2024383182829756520",
+    "created_at": "2026-02-19T07:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T08:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024383182829756520"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shu_fan0228/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/shu_fan0228/status/2023784512858321016",
+          "start": 3,
+          "url": "https://t.co/1Yed9hwyX0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024383182829756520",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023784512858321016",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😛😛 https://t.co/1Yed9hwyX0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2024383182829756520",
+        "created_at": "2026-02-19T07:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T08:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024383182829756520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shu_fan0228/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/shu_fan0228/status/2023784512858321016",
+              "start": 3,
+              "url": "https://t.co/1Yed9hwyX0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024383182829756520",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023784512858321016",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😛😛 https://t.co/1Yed9hwyX0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767122266414882816",
+        "conversation_id": "2023784512858321016",
+        "created_at": "2026-02-17T15:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T16:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023784512858321016"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023784512858321016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 822,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和羊从第一次见面到现在跟着她回家过年，有太多美好的回忆，我这样从不主动社交的人…有种意外的上天把她送到我面前的感觉。我们定下了一些计划，日子的盼头多了起来，也不觉得孤单了，真好…虽然她看着又小又薄，但我能感到她灵魂的坚固和厚重，真期待我们都变得无坚不摧的那天啊…！新的一年加油吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14559,
+          "following_count": 116,
+          "like_count": 5130,
+          "listed_count": 28,
+          "media_count": 815,
+          "tweet_count": 6416
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T09:36:16.000Z",
+        "description": "不要埋没！",
+        "id": "1767122266414882816",
+        "name": "临死前最后一顿饭要吃什么好？",
+        "pinned_tweet_id": "1901257523258327203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925656856036352000/NJqr_bws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2067,
+          "following_count": 148,
+          "like_count": 3202,
+          "listed_count": 3,
+          "media_count": 613,
+          "tweet_count": 3728
+        },
+        "username": "shu_fan0228",
+        "verified": false
+      }
+    ]
+  }
+}

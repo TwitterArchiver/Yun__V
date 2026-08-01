@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1894713827888906241"
+      ]
+    },
+    "author_id": "1650126478213001216",
+    "conversation_id": "1894713851419205803",
+    "created_at": "2025-02-26T11:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T12:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894713851419205803"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 41,
+          "tag": "南京"
+        },
+        {
+          "end": 49,
+          "start": 45,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 53,
+          "start": 50,
+          "tag": "上海"
+        },
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "门槛"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0L0hoti0cz",
+          "end": 81,
+          "expanded_url": "https://x.com/Yun__V/status/1894713851419205803/photo/1",
+          "media_key": "3_1894713827888906241",
+          "start": 58,
+          "url": "https://t.co/0L0hoti0cz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894713851419205803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在南京谁约我爸爸活 只要报销来回路费江浙沪都可以跑 想约请过66r门槛咨询详情 #南京 #爸爸活 #上海 #门槛 https://t.co/0L0hoti0cz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1894713827888906241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GktgMBZWwAEakIe.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894713827888906241"
+          ]
+        },
+        "author_id": "1650126478213001216",
+        "conversation_id": "1894713851419205803",
+        "created_at": "2025-02-26T11:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T12:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894713851419205803"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "南京"
+            },
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "上海"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "门槛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0L0hoti0cz",
+              "end": 81,
+              "expanded_url": "https://x.com/Yun__V/status/1894713851419205803/photo/1",
+              "media_key": "3_1894713827888906241",
+              "start": 58,
+              "url": "https://t.co/0L0hoti0cz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894713851419205803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在南京谁约我爸爸活 只要报销来回路费江浙沪都可以跑 想约请过66r门槛咨询详情 #南京 #爸爸活 #上海 #门槛 https://t.co/0L0hoti0cz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "冬の光が射していた",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1886731232559686084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10803,
+          "following_count": 216,
+          "like_count": 4170,
+          "listed_count": 23,
+          "media_count": 558,
+          "tweet_count": 4777
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

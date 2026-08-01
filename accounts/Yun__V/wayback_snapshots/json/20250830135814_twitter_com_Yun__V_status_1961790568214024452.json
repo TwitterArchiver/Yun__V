@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1961589170499092914",
+    "created_at": "2025-08-30T13:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T14:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961790568214024452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1675524199694360576",
+          "start": 0,
+          "username": "angiekwi560414"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961790568214024452",
+    "in_reply_to_user_id": "1675524199694360576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961776638229966883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angiekwi560414 我也不想啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1961589170499092914",
+        "created_at": "2025-08-30T13:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T14:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961790568214024452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1675524199694360576",
+              "start": 0,
+              "username": "angiekwi560414"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961790568214024452",
+        "in_reply_to_user_id": "1675524199694360576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961776638229966883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angiekwi560414 我也不想啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675524199694360576",
+        "conversation_id": "1961589170499092914",
+        "created_at": "2025-08-30T13:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T14:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961776638229966883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961776638229966883",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961762266883453427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 被蜀黍搂搂抱抱的事情不要啊😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 在脊柱上紋一對翅膀我會飛走嗎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：afterthesheep",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1954140315712893198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14025,
+          "following_count": 99,
+          "like_count": 4641,
+          "listed_count": 28,
+          "media_count": 697,
+          "tweet_count": 5578
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T15:18:13.000Z",
+        "description": "",
+        "id": "1675524199694360576",
+        "name": "Angiekwi5 Barrettwkj2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862932144558833665/bFYTdTuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 901,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 181
+        },
+        "username": "angiekwi560414",
+        "verified": false
+      }
+    ]
+  }
+}

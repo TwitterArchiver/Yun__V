@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1887579839307342265",
+    "created_at": "2025-02-06T19:15:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T20:15:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887580924419940575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1876330626531618816",
+          "start": 0,
+          "username": "Cimqgbsz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887580924419940575",
+    "in_reply_to_user_id": "1876330626531618816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887580789338218866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cimqgbsz 宝宝哇！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1887579839307342265",
+        "created_at": "2025-02-06T19:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T20:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887580924419940575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1876330626531618816",
+              "start": 0,
+              "username": "Cimqgbsz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887580924419940575",
+        "in_reply_to_user_id": "1876330626531618816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887580789338218866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cimqgbsz 宝宝哇！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876330626531618816",
+        "conversation_id": "1887579839307342265",
+        "created_at": "2025-02-06T19:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T20:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887580789338218866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887580789338218866",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887579839307342265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 宝宝呀！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1886731232559686084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10407,
+          "following_count": 207,
+          "like_count": 4075,
+          "listed_count": 23,
+          "media_count": 554,
+          "tweet_count": 4555
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-06T18:11:06.000Z",
+        "description": "我是KK｜病み垢｜只和同类互fo｜小号@zsbgqmic",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "zsbgqmic"
+              }
+            ]
+          }
+        },
+        "id": "1876330626531618816",
+        "name": "K",
+        "pinned_tweet_id": "1882824065951715421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883564408317808640/S85OtE-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 139,
+          "like_count": 824,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 1034
+        },
+        "username": "Cimqgbsz",
+        "verified": false
+      }
+    ]
+  }
+}

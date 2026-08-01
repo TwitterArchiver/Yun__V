@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917102301841657857",
+        "3_1917102301589999621",
+        "3_1917102301870972928"
+      ]
+    },
+    "author_id": "1650126478213001216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1917102324046332128",
+    "created_at": "2025-04-29T06:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T07:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917102324046332128"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dUepy469zt",
+          "end": 55,
+          "expanded_url": "https://x.com/Yun__V/status/1917102324046332128/photo/1",
+          "media_key": "3_1917102301841657857",
+          "start": 32,
+          "url": "https://t.co/dUepy469zt"
+        },
+        {
+          "display_url": "pic.x.com/dUepy469zt",
+          "end": 55,
+          "expanded_url": "https://x.com/Yun__V/status/1917102324046332128/photo/1",
+          "media_key": "3_1917102301589999621",
+          "start": 32,
+          "url": "https://t.co/dUepy469zt"
+        },
+        {
+          "display_url": "pic.x.com/dUepy469zt",
+          "end": 55,
+          "expanded_url": "https://x.com/Yun__V/status/1917102324046332128/photo/1",
+          "media_key": "3_1917102301870972928",
+          "start": 32,
+          "url": "https://t.co/dUepy469zt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917102324046332128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "要是每次面臨要做決定的時候能有上帝視角告訴我應該如何選擇就好了 https://t.co/dUepy469zt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1710,
+        "media_key": "3_1917102301841657857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GprqYuNbEAEPcK9.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1932,
+        "media_key": "3_1917102301589999621",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GprqYtRbEAUFhZT.jpg",
+        "width": 1179
+      },
+      {
+        "height": 690,
+        "media_key": "3_1917102301870972928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GprqYuUaYAAy0Me.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917102301841657857",
+            "3_1917102301589999621",
+            "3_1917102301870972928"
+          ]
+        },
+        "author_id": "1650126478213001216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1917102324046332128",
+        "created_at": "2025-04-29T06:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T07:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917102324046332128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dUepy469zt",
+              "end": 55,
+              "expanded_url": "https://x.com/Yun__V/status/1917102324046332128/photo/1",
+              "media_key": "3_1917102301841657857",
+              "start": 32,
+              "url": "https://t.co/dUepy469zt"
+            },
+            {
+              "display_url": "pic.x.com/dUepy469zt",
+              "end": 55,
+              "expanded_url": "https://x.com/Yun__V/status/1917102324046332128/photo/1",
+              "media_key": "3_1917102301589999621",
+              "start": 32,
+              "url": "https://t.co/dUepy469zt"
+            },
+            {
+              "display_url": "pic.x.com/dUepy469zt",
+              "end": 55,
+              "expanded_url": "https://x.com/Yun__V/status/1917102324046332128/photo/1",
+              "media_key": "3_1917102301870972928",
+              "start": 32,
+              "url": "https://t.co/dUepy469zt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917102324046332128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要是每次面臨要做決定的時候能有上帝視角告訴我應該如何選擇就好了 https://t.co/dUepy469zt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 🐦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "开朋友圈🚪288",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1904841644140097911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896312946994937856/JzQllmQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12089,
+          "following_count": 98,
+          "like_count": 4378,
+          "listed_count": 25,
+          "media_count": 590,
+          "tweet_count": 5054
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

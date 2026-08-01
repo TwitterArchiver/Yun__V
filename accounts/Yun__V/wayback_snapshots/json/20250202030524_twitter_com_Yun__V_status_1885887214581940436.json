@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1885887206998597632"
+      ]
+    },
+    "author_id": "1650126478213001216",
+    "conversation_id": "1885887214581940436",
+    "created_at": "2025-02-02T03:05:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T04:05:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1885887214581940436"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BQ0GkIPpkn",
+          "end": 58,
+          "expanded_url": "https://x.com/Yun__V/status/1885887214581940436/photo/1",
+          "media_key": "3_1885887206998597632",
+          "start": 35,
+          "url": "https://t.co/BQ0GkIPpkn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885887214581940436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有钱了好开心、、昨天小乔又给我赞赏了两百块钱 特别特别好的小女孩TT https://t.co/BQ0GkIPpkn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1209,
+        "media_key": "3_1885887206998597632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiwEbEOa4AAbitt.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885887206998597632"
+          ]
+        },
+        "author_id": "1650126478213001216",
+        "conversation_id": "1885887214581940436",
+        "created_at": "2025-02-02T03:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T04:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885887214581940436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BQ0GkIPpkn",
+              "end": 58,
+              "expanded_url": "https://x.com/Yun__V/status/1885887214581940436/photo/1",
+              "media_key": "3_1885887206998597632",
+              "start": 35,
+              "url": "https://t.co/BQ0GkIPpkn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885887214581940436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有钱了好开心、、昨天小乔又给我赞赏了两百块钱 特别特别好的小女孩TT https://t.co/BQ0GkIPpkn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9770,
+          "following_count": 197,
+          "like_count": 4021,
+          "listed_count": 20,
+          "media_count": 543,
+          "tweet_count": 4421
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

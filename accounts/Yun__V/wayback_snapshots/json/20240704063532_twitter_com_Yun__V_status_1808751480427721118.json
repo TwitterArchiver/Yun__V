@@ -1,0 +1,84 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1808751480427721118",
+    "created_at": "2024-07-04T06:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T07:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1808751480427721118"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1808751480427721118",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看小时代好下饭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1808751480427721118",
+        "created_at": "2024-07-04T06:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T07:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808751480427721118"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1808751480427721118",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看小时代好下饭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪250/520",
+        "id": "1650126478213001216",
+        "name": "羊儿的聪明难以想象",
+        "pinned_tweet_id": "1755285158981439622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807122222907289600/kh-a97Gm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5455,
+          "following_count": 218,
+          "like_count": 2650,
+          "listed_count": 16,
+          "tweet_count": 2828
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

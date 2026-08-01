@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1822980775228416224",
+    "created_at": "2024-08-12T14:59:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T15:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823011514246369572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1673731239935881216",
+          "start": 0,
+          "username": "TKME2Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823011514246369572",
+    "in_reply_to_user_id": "1673731239935881216",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823000238984228963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TKME2Y 嗯呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1822980775228416224",
+        "created_at": "2024-08-12T14:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T15:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823011514246369572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1673731239935881216",
+              "start": 0,
+              "username": "TKME2Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823011514246369572",
+        "in_reply_to_user_id": "1673731239935881216",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823000238984228963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TKME2Y 嗯呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673731239935881216",
+        "conversation_id": "1822980775228416224",
+        "created_at": "2024-08-12T14:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T15:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823000238984228963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823000238984228963",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822980775228416224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 别抽烟了抽我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "",
+        "id": "1650126478213001216",
+        "name": "After the sheep",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813404495705194498/C3n08IjE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5439,
+          "following_count": 220,
+          "like_count": 2718,
+          "listed_count": 16,
+          "tweet_count": 2938
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-27T16:33:44.000Z",
+        "description": "ずっとあなたのそばで聞いていたい",
+        "id": "1673731239935881216",
+        "location": "🚪88/288/520",
+        "name": "我在你昨天的梦里",
+        "pinned_tweet_id": "1819392260632658070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819719662818443264/v3BhUi_r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 261,
+          "like_count": 2974,
+          "listed_count": 2,
+          "tweet_count": 923
+        },
+        "username": "TKME2Y",
+        "verified": false
+      }
+    ]
+  }
+}

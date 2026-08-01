@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2024381430433010064",
+    "created_at": "2026-02-19T07:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T08:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024381430433010064"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yun__v/status/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/yun__v/status/1942605547196256453",
+          "start": 9,
+          "url": "https://t.co/yuskR9HIRo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024381430433010064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942605547196256453",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好久没用提问箱了 https://t.co/yuskR9HIRo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2024381430433010064",
+        "created_at": "2026-02-19T07:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T08:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024381430433010064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yun__v/status/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/yun__v/status/1942605547196256453",
+              "start": 9,
+              "url": "https://t.co/yuskR9HIRo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024381430433010064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942605547196256453",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好久没用提问箱了 https://t.co/yuskR9HIRo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1942605547196256453",
+        "created_at": "2025-07-08T15:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T16:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942605547196256453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "ngl.link/godsavesheep",
+              "end": 34,
+              "expanded_url": "https://ngl.link/godsavesheep",
+              "start": 11,
+              "status": 200,
+              "unwound_url": "https://ngl.link/godsavesheep",
+              "url": "https://t.co/wl1d1jNryL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942605547196256453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 56374,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 72,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和我隨便說些什麼吧⋯\nhttps://t.co/wl1d1jNryL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14559,
+          "following_count": 116,
+          "like_count": 5129,
+          "listed_count": 28,
+          "media_count": 815,
+          "tweet_count": 6415
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1888270556606447766",
+    "created_at": "2025-02-08T16:57:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T17:57:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888270959448391837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3362173438",
+          "start": 0,
+          "username": "fujyoriaru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888270959448391837",
+    "in_reply_to_user_id": "3362173438",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888270790350827689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fujyoriaru 宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1888270556606447766",
+        "created_at": "2025-02-08T16:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T17:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888270959448391837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3362173438",
+              "start": 0,
+              "username": "fujyoriaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888270959448391837",
+        "in_reply_to_user_id": "3362173438",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888270790350827689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fujyoriaru 宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3362173438",
+        "conversation_id": "1888270556606447766",
+        "created_at": "2025-02-08T16:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T17:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888270790350827689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888270790350827689",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888270556606447766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V omg宝宝你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1886731232559686084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10537,
+          "following_count": 215,
+          "like_count": 4127,
+          "listed_count": 23,
+          "media_count": 552,
+          "tweet_count": 4617
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-06T09:19:01.000Z",
+        "description": "元Vtuber、哲学をする。 サブカル批判/バタイユ主義者/Anarchism/Cinema/Parfume 日本語/中文/English\n“我已不再写诗　世界はもう詩なんていらん”🗿",
+        "id": "3362173438",
+        "location": "子宮",
+        "name": "摩艾石像厨",
+        "pinned_tweet_id": "1881215415894052971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751196444332285952/antWi7vL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 84,
+          "like_count": 332,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 649
+        },
+        "username": "fujyoriaru",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1907597139230052838",
+    "created_at": "2025-04-03T03:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T04:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907637351045836924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1893209290921672704",
+          "start": 0,
+          "username": "guagua_me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907637351045836924",
+    "in_reply_to_user_id": "1893209290921672704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907616580382622170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guagua_me 我將保持！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1907597139230052838",
+        "created_at": "2025-04-03T03:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T04:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907637351045836924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1893209290921672704",
+              "start": 0,
+              "username": "guagua_me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907637351045836924",
+        "in_reply_to_user_id": "1893209290921672704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907616580382622170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guagua_me 我將保持！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893209290921672704",
+        "conversation_id": "1907597139230052838",
+        "created_at": "2025-04-03T02:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T03:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907616580382622170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907616580382622170",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907597139230052838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 羊適合很淺的髮色。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 🐦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "开朋友圈🚪288",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1904841644140097911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896312946994937856/JzQllmQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11782,
+          "following_count": 188,
+          "like_count": 4256,
+          "listed_count": 23,
+          "media_count": 576,
+          "tweet_count": 4944
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T08:01:01.000Z",
+        "description": "不接推廣",
+        "id": "1893209290921672704",
+        "location": "188/288/520🚪",
+        "name": "瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893486504237727744/kriRA7YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5790,
+          "following_count": 13,
+          "like_count": 173,
+          "listed_count": 20,
+          "media_count": 6,
+          "tweet_count": 41
+        },
+        "username": "guagua_me",
+        "verified": false
+      }
+    ]
+  }
+}

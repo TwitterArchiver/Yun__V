@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1880009612776374399",
+    "created_at": "2025-01-18T20:55:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T21:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880720769157898314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1669034162832146433",
+          "start": 0,
+          "username": "minmin1269967"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880720769157898314",
+    "in_reply_to_user_id": "1669034162832146433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880716725542650215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minmin1269967 宝宝😢😢🫂注意安全…找找有没有可以反击防身的东西以防万一！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1880716725542650215].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1880716725542650215",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1880716725542650215"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1880009612776374399",
+        "created_at": "2025-01-18T20:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T21:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880720769157898314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1669034162832146433",
+              "start": 0,
+              "username": "minmin1269967"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880720769157898314",
+        "in_reply_to_user_id": "1669034162832146433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880716725542650215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minmin1269967 宝宝😢😢🫂注意安全…找找有没有可以反击防身的东西以防万一！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9554,
+          "following_count": 192,
+          "like_count": 3911,
+          "listed_count": 20,
+          "media_count": 528,
+          "tweet_count": 4281
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T17:28:57.000Z",
+        "description": "滚",
+        "id": "1669034162832146433",
+        "name": "1",
+        "pinned_tweet_id": "1869820026502689268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880718179137425408/EM8wdh-4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 168,
+          "like_count": 1769,
+          "listed_count": 0,
+          "media_count": 350,
+          "tweet_count": 1740
+        },
+        "username": "minmin1269967",
+        "verified": false
+      }
+    ]
+  }
+}

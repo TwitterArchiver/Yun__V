@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2082200822461644808",
+    "created_at": "2026-07-29T04:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T05:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082324058134471031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1420755048091377669",
+          "start": 0,
+          "username": "pcm_fx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082324058134471031",
+    "in_reply_to_user_id": "1420755048091377669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082317934438101104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pcm_fx 我喝酒也会吐😳😱。但是吐出来之后同时减少了挺爽的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2082200822461644808",
+        "created_at": "2026-07-29T04:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082324058134471031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1420755048091377669",
+              "start": 0,
+              "username": "pcm_fx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082324058134471031",
+        "in_reply_to_user_id": "1420755048091377669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082317934438101104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pcm_fx 我喝酒也会吐😳😱。但是吐出来之后同时减少了挺爽的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420755048091377669",
+        "conversation_id": "2082200822461644808",
+        "created_at": "2026-07-29T04:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082317934438101104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082317934438101104",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082200822461644808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 很容易吐的吧我上次这样吐了好多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "2078707436295430185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16193,
+          "following_count": 142,
+          "like_count": 5735,
+          "listed_count": 28,
+          "media_count": 890,
+          "tweet_count": 7035
+        },
+        "url": "",
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-29T14:36:24.000Z",
+        "description": "",
+        "id": "1420755048091377669",
+        "location": "New York, USA",
+        "name": "傑.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792818130043195392/q4GKqGhg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 187,
+          "like_count": 2590,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 428
+        },
+        "url": "",
+        "username": "pcm_fx",
+        "verified": false
+      }
+    ]
+  }
+}

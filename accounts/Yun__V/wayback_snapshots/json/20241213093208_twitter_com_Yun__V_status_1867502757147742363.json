@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1867495812680626414",
+    "created_at": "2024-12-13T09:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T10:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867502757147742363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1371461435721613320",
+          "start": 0,
+          "username": "Meeeeeee0923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867502757147742363",
+    "in_reply_to_user_id": "1371461435721613320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867502173049041135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meeeeeee0923 我喜歡這樣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1867495812680626414",
+        "created_at": "2024-12-13T09:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T10:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867502757147742363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1371461435721613320",
+              "start": 0,
+              "username": "Meeeeeee0923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867502757147742363",
+        "in_reply_to_user_id": "1371461435721613320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867502173049041135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meeeeeee0923 我喜歡這樣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1371461435721613320",
+        "conversation_id": "1867495812680626414",
+        "created_at": "2024-12-13T09:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T10:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867502173049041135"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "平平",
+              "probability": 0.5726,
+              "start": 8,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867502173049041135",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867495812680626414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 平平淡淡的 融入彼此生活的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9108,
+          "following_count": 177,
+          "like_count": 3462,
+          "listed_count": 21,
+          "media_count": 488,
+          "tweet_count": 3854
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-15T14:01:09.000Z",
+        "description": "188/288/520🚪",
+        "id": "1371461435721613320",
+        "location": "屍體",
+        "name": "一隻西瓜",
+        "pinned_tweet_id": "1851054713124651010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856648679396179968/PE0Ad5TH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27676,
+          "following_count": 12,
+          "like_count": 1021,
+          "listed_count": 58,
+          "media_count": 57,
+          "tweet_count": 162
+        },
+        "username": "Meeeeeee0923",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1954390412166365210",
+    "created_at": "2025-08-10T03:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T04:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954390412166365210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1806236878599041024",
+          "start": 3,
+          "username": "ljny2140072"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954390412166365210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 118
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953724172036976739",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ljny2140072: 没有身份又爱吃醋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1954390412166365210",
+        "created_at": "2025-08-10T03:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T04:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954390412166365210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1806236878599041024",
+              "start": 3,
+              "username": "ljny2140072"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954390412166365210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 118
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953724172036976739",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ljny2140072: 没有身份又爱吃醋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806236878599041024",
+        "conversation_id": "1953724172036976739",
+        "created_at": "2025-08-08T07:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T08:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953724172036976739"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953724172036976739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 111465,
+          "like_count": 866,
+          "quote_count": 51,
+          "reply_count": 126,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "没有身份又爱吃醋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 today is the greatest",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：afterthesheep",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1954140315712893198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13988,
+          "following_count": 97,
+          "like_count": 4647,
+          "listed_count": 26,
+          "media_count": 669,
+          "tweet_count": 5466
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T08:03:45.000Z",
+        "description": "ZUEL'29🧑‍🎓｜BBA（Hons）in Accounting & Finance｜Secondary in AI &Data Analytics｜Cambridge sp'25| IE Exchange'25🌎｜FRM level 1",
+        "id": "1806236878599041024",
+        "location": "中国",
+        "name": "oioi",
+        "pinned_tweet_id": "1952393119233986615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951725581328154624/wIxBpwAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 122,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 102
+        },
+        "username": "ljny2140072",
+        "verified": false
+      }
+    ]
+  }
+}

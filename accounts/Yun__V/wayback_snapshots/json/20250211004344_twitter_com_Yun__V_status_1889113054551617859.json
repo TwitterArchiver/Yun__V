@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1889027674359947275",
+    "created_at": "2025-02-11T00:43:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T01:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889113054551617859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "963352385459429376",
+          "start": 0,
+          "username": "ELEMENT11_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889113054551617859",
+    "in_reply_to_user_id": "963352385459429376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889106108855509067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ELEMENT11_ 痛痛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1889027674359947275",
+        "created_at": "2025-02-11T00:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T01:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889113054551617859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "963352385459429376",
+              "start": 0,
+              "username": "ELEMENT11_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889113054551617859",
+        "in_reply_to_user_id": "963352385459429376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889106108855509067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ELEMENT11_ 痛痛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "963352385459429376",
+        "conversation_id": "1889027674359947275",
+        "created_at": "2025-02-11T00:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T01:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889106108855509067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889106108855509067",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889027674359947275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 宝宝痛痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "冬の光が射していた",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1886731232559686084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10569,
+          "following_count": 219,
+          "like_count": 4146,
+          "listed_count": 23,
+          "media_count": 551,
+          "tweet_count": 4622
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-13T10:01:21.000Z",
+        "description": "我们的存在",
+        "id": "963352385459429376",
+        "name": "美杜莎脱发记",
+        "pinned_tweet_id": "1709457178116182177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844861700169723974/RvJiVeNv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 87,
+          "like_count": 424,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 214
+        },
+        "username": "ELEMENT11_",
+        "verified": false
+      }
+    ]
+  }
+}

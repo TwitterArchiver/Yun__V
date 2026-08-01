@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1850438871978484024",
+    "created_at": "2024-10-27T07:35:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-27T08:35:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850441149326279036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1675524199694360576",
+          "start": 0,
+          "username": "angiekwi560414"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850441149326279036",
+    "in_reply_to_user_id": "1675524199694360576",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850439214015410568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angiekwi560414 差不多！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1850438871978484024",
+        "created_at": "2024-10-27T07:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T08:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850441149326279036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1675524199694360576",
+              "start": 0,
+              "username": "angiekwi560414"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850441149326279036",
+        "in_reply_to_user_id": "1675524199694360576",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850439214015410568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angiekwi560414 差不多！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675524199694360576",
+        "conversation_id": "1850438871978484024",
+        "created_at": "2024-10-27T07:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T08:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850439214015410568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850439214015410568",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850438871978484024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V ？？？你要液断么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "",
+        "id": "1650126478213001216",
+        "name": "After the sheep",
+        "pinned_tweet_id": "1847704934776787255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6629,
+          "following_count": 226,
+          "like_count": 2856,
+          "listed_count": 18,
+          "tweet_count": 3180
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T15:18:13.000Z",
+        "description": "",
+        "id": "1675524199694360576",
+        "name": "Angiekwi5 Barrettwkj2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675524283781746688/THl45g-3_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 475,
+          "like_count": 108,
+          "listed_count": 0,
+          "tweet_count": 131
+        },
+        "username": "angiekwi560414",
+        "verified": false
+      }
+    ]
+  }
+}

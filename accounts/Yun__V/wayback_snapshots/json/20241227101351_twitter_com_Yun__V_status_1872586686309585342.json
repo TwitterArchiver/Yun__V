@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1872474435418223012",
+    "created_at": "2024-12-27T10:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T11:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872586686309585342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1357717510338924547",
+          "start": 0,
+          "username": "Ghuang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872586686309585342",
+    "in_reply_to_user_id": "1357717510338924547",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872579064030179594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ghuang_ the neverminds太好了、、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1872474435418223012",
+        "created_at": "2024-12-27T10:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T11:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872586686309585342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1357717510338924547",
+              "start": 0,
+              "username": "Ghuang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872586686309585342",
+        "in_reply_to_user_id": "1357717510338924547",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872579064030179594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ghuang_ the neverminds太好了、、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1357717510338924547",
+        "conversation_id": "1872474435418223012",
+        "created_at": "2024-12-27T09:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T10:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872579064030179594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872579064030179594",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872474435418223012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V haunt me是我今年听到最好听的盯鞋！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9334,
+          "following_count": 182,
+          "like_count": 3674,
+          "listed_count": 21,
+          "media_count": 510,
+          "tweet_count": 4073
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-05T15:47:47.000Z",
+        "description": "只是浮游的节肢动物 /",
+        "id": "1357717510338924547",
+        "name": "荒",
+        "pinned_tweet_id": "1846108277501055212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788148012658966529/eFNc9hCf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 171,
+          "like_count": 1040,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 636
+        },
+        "username": "Ghuang_",
+        "verified": false
+      }
+    ]
+  }
+}

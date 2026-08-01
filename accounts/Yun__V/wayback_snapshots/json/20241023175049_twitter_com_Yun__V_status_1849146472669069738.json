@@ -1,0 +1,132 @@
+{
+  "data": {
+    "author_id": "1650126478213001216",
+    "conversation_id": "1848745591758618932",
+    "created_at": "2024-10-23T17:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-23T18:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1849146472669069738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1784868282677235712",
+          "start": 0,
+          "username": "h88x4"
+        }
+      ]
+    },
+    "id": "1849146472669069738",
+    "in_reply_to_user_id": "1784868282677235712",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 28,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849140954596581606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h88x4 T^T压了很多但还是遇到压力就逃跑（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1650126478213001216",
+        "conversation_id": "1848745591758618932",
+        "created_at": "2024-10-23T17:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-23T18:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1849146472669069738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1784868282677235712",
+              "start": 0,
+              "username": "h88x4"
+            }
+          ]
+        },
+        "id": "1849146472669069738",
+        "in_reply_to_user_id": "1784868282677235712",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849140954596581606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h88x4 T^T压了很多但还是遇到压力就逃跑（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1825939223041683885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8041,
+          "following_count": 170,
+          "like_count": 3289,
+          "listed_count": 19,
+          "media_count": 475,
+          "tweet_count": 3697
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T08:52:24.000Z",
+        "description": "是个笨蛋，如果做错事了会道歉和尽量补救，请原谅（PS：笨蛋不是没道理的……）",
+        "id": "1784868282677235712",
+        "name": "笨蛋",
+        "pinned_tweet_id": "1847936002658296273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823864549889769472/_4-rU7ik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 33,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 370
+        },
+        "username": "h88x4",
+        "verified": false
+      }
+    ]
+  }
+}

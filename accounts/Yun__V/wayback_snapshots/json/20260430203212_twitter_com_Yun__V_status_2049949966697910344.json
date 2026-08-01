@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2049719022388920726",
+    "created_at": "2026-04-30T20:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T21:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049949966697910344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1870825698744836096",
+          "start": 0,
+          "username": "ifiwereamoth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049949966697910344",
+    "in_reply_to_user_id": "1870825698744836096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049719022388920726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ifiwereamoth 宝宝、只是真心给错了人而已 不要质疑自己的爱…无论如何爱都是很珍贵很难得的东西 只是世界上有太多人爱无能了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2049719022388920726",
+        "created_at": "2026-04-30T20:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T21:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049949966697910344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1870825698744836096",
+              "start": 0,
+              "username": "ifiwereamoth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049949966697910344",
+        "in_reply_to_user_id": "1870825698744836096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049719022388920726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ifiwereamoth 宝宝、只是真心给错了人而已 不要质疑自己的爱…无论如何爱都是很珍贵很难得的东西 只是世界上有太多人爱无能了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870825698744836096",
+        "conversation_id": "2049719022388920726",
+        "created_at": "2026-04-30T05:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T06:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049719022388920726"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049719022388920726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 258,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底怎麼形容我的心情 很多事情我早就不生氣了但我該怎麼樣不委屈 是因為我的愛很廉價吧？所以才隨意的對待我丟棄我反覆鞭屍我 我每天都在為了以前的事情承受巨大的精神壓力 一直都是這樣 我的真心之於某些人只是一文不值。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15642,
+          "following_count": 118,
+          "like_count": 5404,
+          "listed_count": 31,
+          "media_count": 845,
+          "tweet_count": 6690
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-22T13:36:35.000Z",
+        "description": "邊界之物",
+        "id": "1870825698744836096",
+        "location": "🚪88好处只有認識我",
+        "name": "s!xpence",
+        "pinned_tweet_id": "2002568787061846389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002570935380160516/-yco8Owh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1754,
+          "following_count": 112,
+          "like_count": 2992,
+          "listed_count": 7,
+          "media_count": 132,
+          "tweet_count": 645
+        },
+        "username": "ifiwereamoth",
+        "verified": false
+      }
+    ]
+  }
+}

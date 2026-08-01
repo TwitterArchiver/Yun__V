@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046459296570097665"
+      ]
+    },
+    "author_id": "1650126478213001216",
+    "conversation_id": "2046459309890941392",
+    "created_at": "2026-04-21T05:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T06:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046459309890941392"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 55,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 63,
+          "start": 60,
+          "tag": "广州"
+        },
+        {
+          "end": 67,
+          "start": 64,
+          "tag": "门槛"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SJuwqvy5RD",
+          "end": 91,
+          "expanded_url": "https://x.com/Yun__V/status/2046459309890941392/photo/1",
+          "media_key": "3_2046459296570097665",
+          "start": 68,
+          "url": "https://t.co/SJuwqvy5RD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046459309890941392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想接珠三角地区的爸爸活了。我需要交房租只接纯绿和半绿谢谢最近经济非常窘迫有意请过188门槛咨询详情解锁线下。#爸爸活 #广州 #门槛 https://t.co/SJuwqvy5RD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046459296570097665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZ74ztbQAEZr1m.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046459296570097665"
+          ]
+        },
+        "author_id": "1650126478213001216",
+        "conversation_id": "2046459309890941392",
+        "created_at": "2026-04-21T05:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T06:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046459309890941392"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "广州"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "门槛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SJuwqvy5RD",
+              "end": 91,
+              "expanded_url": "https://x.com/Yun__V/status/2046459309890941392/photo/1",
+              "media_key": "3_2046459296570097665",
+              "start": 68,
+              "url": "https://t.co/SJuwqvy5RD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046459309890941392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想接珠三角地区的爸爸活了。我需要交房租只接纯绿和半绿谢谢最近经济非常窘迫有意请过188门槛咨询详情解锁线下。#爸爸活 #广州 #门槛 https://t.co/SJuwqvy5RD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15359,
+          "following_count": 116,
+          "like_count": 5375,
+          "listed_count": 28,
+          "media_count": 843,
+          "tweet_count": 6642
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

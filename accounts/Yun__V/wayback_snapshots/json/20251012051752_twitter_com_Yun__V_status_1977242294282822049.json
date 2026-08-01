@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1942605547196256453",
+    "created_at": "2025-10-12T05:17:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T06:17:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977242294282822049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1900518576781692928",
+          "start": 0,
+          "username": "07896_108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977242294282822049",
+    "in_reply_to_user_id": "1900518576781692928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977238955507827096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@07896_108 无奈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1942605547196256453",
+        "created_at": "2025-10-12T05:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T06:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977242294282822049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1900518576781692928",
+              "start": 0,
+              "username": "07896_108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977242294282822049",
+        "in_reply_to_user_id": "1900518576781692928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977238955507827096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@07896_108 无奈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900518576781692928",
+        "conversation_id": "1942605547196256453",
+        "created_at": "2025-10-12T05:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T06:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977238955507827096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977238955507827096",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977230936048910384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 他嫉妒了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357 在脊柱上紋一對翅膀我會飛走嗎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1957837993022222486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14384,
+          "following_count": 100,
+          "like_count": 4821,
+          "listed_count": 28,
+          "media_count": 747,
+          "tweet_count": 5945
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T12:05:24.000Z",
+        "description": "只是在自说自话。",
+        "id": "1900518576781692928",
+        "location": "東京",
+        "name": "式",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929849329373925380/wqSp3nqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 192,
+          "like_count": 2946,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 1279
+        },
+        "username": "07896_108",
+        "verified": false
+      }
+    ]
+  }
+}

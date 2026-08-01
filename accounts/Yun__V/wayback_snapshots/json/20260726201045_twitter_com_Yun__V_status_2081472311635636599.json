@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2081420309736108215",
+    "created_at": "2026-07-26T20:10:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T21:10:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081472311635636599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1675482712529051648",
+          "start": 0,
+          "username": "tokinonegai42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081472311635636599",
+    "in_reply_to_user_id": "1675482712529051648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081435555905343933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tokinonegai42 好的、。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2081420309736108215",
+        "created_at": "2026-07-26T20:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T21:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081472311635636599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1675482712529051648",
+              "start": 0,
+              "username": "tokinonegai42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081472311635636599",
+        "in_reply_to_user_id": "1675482712529051648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081435555905343933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokinonegai42 好的、。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675482712529051648",
+        "conversation_id": "2081420309736108215",
+        "created_at": "2026-07-26T17:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081435555905343933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081435555905343933",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081420309736108215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 人本来就是孤独的，也许你只是不擅长迎合其他人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16200,
+          "following_count": 141,
+          "like_count": 5718,
+          "listed_count": 28,
+          "media_count": 888,
+          "tweet_count": 7011
+        },
+        "url": "",
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T12:33:11.000Z",
+        "description": "爱是梦中之火",
+        "id": "1675482712529051648",
+        "name": "渡越",
+        "pinned_tweet_id": "1952409050668585350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046459475192889344/up7Q5OcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 16,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 159
+        },
+        "url": "",
+        "username": "tokinonegai42",
+        "verified": false
+      }
+    ]
+  }
+}

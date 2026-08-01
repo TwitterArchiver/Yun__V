@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1808041876215550053",
+    "created_at": "2024-07-02T15:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T16:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808158970420551771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1808076859042607104",
+          "start": 0,
+          "username": "amgt1671635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808158970420551771",
+    "in_reply_to_user_id": "1808076859042607104",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808144135268061656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amgt1671635 渴b又厌女的公狗急着用自身行动来证明我的话是吧😹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1808041876215550053",
+        "created_at": "2024-07-02T15:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T16:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808158970420551771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1808076859042607104",
+              "start": 0,
+              "username": "amgt1671635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808158970420551771",
+        "in_reply_to_user_id": "1808076859042607104",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808144135268061656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amgt1671635 渴b又厌女的公狗急着用自身行动来证明我的话是吧😹"
+      },
+      {
+        "attachments": {},
+        "author_id": "1808076859042607104",
+        "conversation_id": "1808041876215550053",
+        "created_at": "2024-07-02T14:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T15:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808144135268061656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808144135268061656",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808041876215550053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 你个精盆厕所还真给你脸了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪250/520",
+        "id": "1650126478213001216",
+        "name": "羊儿的聪明难以想象",
+        "pinned_tweet_id": "1755285158981439622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807122222907289600/kh-a97Gm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5306,
+          "following_count": 218,
+          "like_count": 2622,
+          "listed_count": 16,
+          "tweet_count": 2810
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T09:54:57.000Z",
+        "description": "",
+        "id": "1808076859042607104",
+        "name": "amgt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808077039800336384/RJgC4sHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 12,
+          "like_count": 2,
+          "listed_count": 0,
+          "tweet_count": 5
+        },
+        "username": "amgt1671635",
+        "verified": false
+      }
+    ]
+  }
+}

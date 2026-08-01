@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1866845750992515582",
+    "created_at": "2024-12-12T01:44:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T02:44:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867022727179276414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1568996373152022529",
+          "start": 0,
+          "username": "42lovebq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867022727179276414",
+    "in_reply_to_user_id": "1568996373152022529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866891727858176273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@42lovebq 确实！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1866845750992515582",
+        "created_at": "2024-12-12T01:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T02:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867022727179276414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1568996373152022529",
+              "start": 0,
+              "username": "42lovebq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867022727179276414",
+        "in_reply_to_user_id": "1568996373152022529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866891727858176273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@42lovebq 确实！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568996373152022529",
+        "conversation_id": "1866845750992515582",
+        "created_at": "2024-12-11T17:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T18:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866891727858176273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866891727858176273",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866845750992515582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 可以没有顾虑地说我爱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8911,
+          "following_count": 171,
+          "like_count": 3372,
+          "listed_count": 21,
+          "media_count": 482,
+          "tweet_count": 3779
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-11T16:14:30.000Z",
+        "description": "有缘自会相遇，我要做的就是放轻松",
+        "id": "1568996373152022529",
+        "location": "华中没有湖",
+        "name": "q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777536432539881473/BDa0d2zN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 158,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 771,
+          "tweet_count": 3531
+        },
+        "username": "42lovebq",
+        "verified": false
+      }
+    ]
+  }
+}

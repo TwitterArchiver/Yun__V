@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2061066164684374337",
+    "created_at": "2026-05-31T12:44:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T13:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061066400467173573"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061066400467173573",
+    "in_reply_to_user_id": "1650126478213001216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061066164684374337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好近啊大屏幕好爽啊。！好想攒钱买投影仪自己在家想看什么就看什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2061066164684374337",
+        "created_at": "2026-05-31T12:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T13:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061066400467173573"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061066400467173573",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061066164684374337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好近啊大屏幕好爽啊。！好想攒钱买投影仪自己在家想看什么就看什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2061066164684374337",
+        "created_at": "2026-05-31T12:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T13:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061066164684374337"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061066164684374337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经记不清有多长时间没去过电影院了，今天去看了晒后假日，选座在第五排的位置，离屏幕很近、但却是意外的不一样的很奇妙的视听效果…感觉自己也身处土耳其蔚蓝的海水里，好梦幻。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "@hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15642,
+          "following_count": 118,
+          "like_count": 5539,
+          "listed_count": 30,
+          "media_count": 853,
+          "tweet_count": 6807
+        },
+        "username": "Yun__V",
+        "verified": false
+      }
+    ]
+  }
+}

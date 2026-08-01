@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1808041876215550053",
+    "created_at": "2024-07-06T16:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-06T17:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809631205241098502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1727870439425531904",
+          "start": 0,
+          "username": "maina1694652"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809631205241098502",
+    "in_reply_to_user_id": "1727870439425531904",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809614949658108130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maina1694652 你嫉妒你也可以😌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1808041876215550053",
+        "created_at": "2024-07-06T16:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T17:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809631205241098502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1727870439425531904",
+              "start": 0,
+              "username": "maina1694652"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809631205241098502",
+        "in_reply_to_user_id": "1727870439425531904",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809614949658108130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maina1694652 你嫉妒你也可以😌"
+      },
+      {
+        "attachments": {},
+        "author_id": "1727870439425531904",
+        "conversation_id": "1808041876215550053",
+        "created_at": "2024-07-06T15:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T16:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809614949658108130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809614949658108130",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808041876215550053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 两腿一张就能赚到钱的人还有什么好评价的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪250/520",
+        "id": "1650126478213001216",
+        "name": "羊儿的聪明难以想象",
+        "pinned_tweet_id": "1808493610540966374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807122222907289600/kh-a97Gm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5438,
+          "following_count": 219,
+          "like_count": 2665,
+          "listed_count": 16,
+          "tweet_count": 2831
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-24T02:03:12.000Z",
+        "description": "live in the past",
+        "id": "1727870439425531904",
+        "location": "Litecoin Lane, Paris, France",
+        "name": "Blooker_Brest",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782325345842323457/l2SY0Mkk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 42,
+          "like_count": 129,
+          "listed_count": 0,
+          "tweet_count": 6
+        },
+        "username": "maina1694652",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1858885534283952339",
+    "created_at": "2024-11-20T12:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T13:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859215054970982541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "701254935686459392",
+          "start": 0,
+          "username": "Akira_Kashiwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859215054970982541",
+    "in_reply_to_user_id": "701254935686459392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859145722115084778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akira_Kashiwa 中南海蓝莓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1858885534283952339",
+        "created_at": "2024-11-20T12:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T13:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859215054970982541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "701254935686459392",
+              "start": 0,
+              "username": "Akira_Kashiwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859215054970982541",
+        "in_reply_to_user_id": "701254935686459392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859145722115084778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akira_Kashiwa 中南海蓝莓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "701254935686459392",
+        "conversation_id": "1858885534283952339",
+        "created_at": "2024-11-20T08:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T09:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859145722115084778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859145722115084778",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858885534283952339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 求菸的牌子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1853874978472825156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7616,
+          "following_count": 228,
+          "like_count": 3116,
+          "listed_count": 19,
+          "tweet_count": 3494
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-21T03:59:40.000Z",
+        "description": "22y\n🇹🇼  English 日本語OK 🇰🇷🇷🇺 Studying\nHate idiot",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=100010632219828",
+                "start": 0,
+                "url": "https://t.co/fOeOSS8pqU"
+              }
+            ]
+          }
+        },
+        "id": "701254935686459392",
+        "location": "Daxi town, Taoyuan, Taiwan",
+        "name": "衛生紙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857225819925725184/8ZAgHIkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 1323,
+          "like_count": 1477,
+          "listed_count": 1,
+          "tweet_count": 428
+        },
+        "url": "https://t.co/fOeOSS8pqU",
+        "username": "Akira_Kashiwa",
+        "verified": false
+      }
+    ]
+  }
+}

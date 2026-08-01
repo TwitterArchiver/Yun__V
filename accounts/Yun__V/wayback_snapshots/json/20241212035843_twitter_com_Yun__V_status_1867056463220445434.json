@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1867056463220445434",
+    "created_at": "2024-12-12T03:58:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T04:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867056463220445434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1438140768091140096",
+          "start": 3,
+          "username": "kumatamasan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867056463220445434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867052538832490683",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kumatamasan: 关系吧是个看不见摸不着的东西所以要给个支点让彼此相信这个东西是存在的\n这时候就需要共同认知，换种说法就是建立属于两个人的私人文化"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1867056463220445434",
+        "created_at": "2024-12-12T03:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T04:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867056463220445434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1438140768091140096",
+              "start": 3,
+              "username": "kumatamasan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867056463220445434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867052538832490683",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kumatamasan: 关系吧是个看不见摸不着的东西所以要给个支点让彼此相信这个东西是存在的\n这时候就需要共同认知，换种说法就是建立属于两个人的私人文化"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1438140768091140096",
+        "conversation_id": "1867051808478335083",
+        "created_at": "2024-12-12T03:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T04:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867052538832490683"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1867052538832490683",
+        "in_reply_to_user_id": "1438140768091140096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867051808478335083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关系吧是个看不见摸不着的东西所以要给个支点让彼此相信这个东西是存在的\n这时候就需要共同认知，换种说法就是建立属于两个人的私人文化"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "我想在天上飞",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847677631497662464/ooA8MBQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8925,
+          "following_count": 171,
+          "like_count": 3384,
+          "listed_count": 21,
+          "media_count": 483,
+          "tweet_count": 3782
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-15T14:03:14.000Z",
+        "description": "世界人です #日本語間違えてたら教えて | \nfull-vegan frontend engineer | necromancer  | 呆萌几维鸟 @Sakamotoloveu\n捡的魅魔 @kafei684134  妹妹 @lortin_73\n宝宝 @fuyumonya @kama292091",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 6,
+                "tag": "日本語間違えてたら教えて"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 89,
+                "start": 75,
+                "username": "Sakamotoloveu"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "kafei684134"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "lortin_73"
+              },
+              {
+                "end": 136,
+                "start": 126,
+                "username": "fuyumonya"
+              },
+              {
+                "end": 148,
+                "start": 137,
+                "username": "kama292091"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumatamasan",
+                "end": 23,
+                "expanded_url": "http://ngl.link/kumatamasan",
+                "start": 0,
+                "url": "https://t.co/2BP3hPxTFe"
+              }
+            ]
+          }
+        },
+        "id": "1438140768091140096",
+        "location": "妖都",
+        "name": "タマキ🧭",
+        "pinned_tweet_id": "1848293622334300465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866269063628144640/I1vvZmAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 941,
+          "like_count": 6610,
+          "listed_count": 4,
+          "media_count": 571,
+          "tweet_count": 4564
+        },
+        "url": "https://t.co/2BP3hPxTFe",
+        "username": "kumatamasan",
+        "verified": false
+      }
+    ]
+  }
+}

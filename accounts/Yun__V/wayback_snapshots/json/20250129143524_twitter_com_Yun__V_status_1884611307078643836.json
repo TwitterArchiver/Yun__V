@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "1884609749699985622",
+    "created_at": "2025-01-29T14:35:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T15:35:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884611307078643836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1673731239935881216",
+          "start": 0,
+          "username": "TKME2Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884611307078643836",
+    "in_reply_to_user_id": "1673731239935881216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884611057311948825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TKME2Y 笑死我了。我对象也说我吻技好烂"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1884611057311948825].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1884611057311948825",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1884611057311948825"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "1884609749699985622",
+        "created_at": "2025-01-29T14:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T15:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884611307078643836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1673731239935881216",
+              "start": 0,
+              "username": "TKME2Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884611307078643836",
+        "in_reply_to_user_id": "1673731239935881216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884611057311948825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TKME2Y 笑死我了。我对象也说我吻技好烂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "🚪288",
+        "id": "1650126478213001216",
+        "name": "afterthesheep",
+        "pinned_tweet_id": "1866510711721279500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879267675534438401/TRJvhd3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9610,
+          "following_count": 197,
+          "like_count": 4001,
+          "listed_count": 19,
+          "media_count": 539,
+          "tweet_count": 4386
+        },
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-27T16:33:44.000Z",
+        "description": "你看到的世界是否也在下降",
+        "id": "1673731239935881216",
+        "name": "雨以外",
+        "pinned_tweet_id": "1884147134402027941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884146043677466627/S9stcR7d_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 217,
+          "like_count": 5642,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 1935
+        },
+        "username": "TKME2Y",
+        "verified": false
+      }
+    ]
+  }
+}
