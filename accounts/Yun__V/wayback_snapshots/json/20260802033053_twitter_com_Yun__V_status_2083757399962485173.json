@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2083533673627082831",
+    "created_at": "2026-08-02T03:30:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T04:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083757399962485173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2059472572866269184",
+          "start": 0,
+          "username": "Chloefgm3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083757399962485173",
+    "in_reply_to_user_id": "2059472572866269184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083749468479086930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloefgm3 关你鸡巴事 你以为你谁啊还打上分了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2083533673627082831",
+        "created_at": "2026-08-02T03:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T04:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083757399962485173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2059472572866269184",
+              "start": 0,
+              "username": "Chloefgm3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083757399962485173",
+        "in_reply_to_user_id": "2059472572866269184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083749468479086930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloefgm3 关你鸡巴事 你以为你谁啊还打上分了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059472572866269184",
+        "conversation_id": "2083533673627082831",
+        "created_at": "2026-08-02T02:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083749468479086930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083749468479086930",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083533673627082831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 以为是男孩子，结果是漂亮的女生，那么邋遢怎么做到的？ 真的非常减分"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "strawberry fields forever @hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "2078707436295430185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16191,
+          "following_count": 142,
+          "like_count": 5767,
+          "listed_count": 29,
+          "media_count": 893,
+          "tweet_count": 7068
+        },
+        "url": "",
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-27T03:12:26.000Z",
+        "description": "树洞碎碎念，是另一个我",
+        "id": "2059472572866269184",
+        "location": "Kowloon City District",
+        "name": "sufuni",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081633455561904128/TkZUwA_5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 68,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "Chloefgm3",
+        "verified": false
+      }
+    ]
+  }
+}

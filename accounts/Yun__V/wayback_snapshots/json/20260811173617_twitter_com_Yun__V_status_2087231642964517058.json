@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087231616020267009"
+      ]
+    },
+    "author_id": "1650126478213001216",
+    "conversation_id": "2087231642964517058",
+    "created_at": "2026-08-11T17:36:17.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T18:36:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087231642964517058"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3zB7TVmUCL",
+          "end": 41,
+          "expanded_url": "https://x.com/Yun__V/status/2087231642964517058/video/1",
+          "media_key": "13_2087231616020267009",
+          "start": 18,
+          "url": "https://t.co/3zB7TVmUCL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087231642964517058",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2087231616020267009"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "六月底，离开广州前看的最后一场雨。 https://t.co/3zB7TVmUCL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11991,
+        "height": 720,
+        "media_key": "13_2087231616020267009",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087231616020267009/img/amkrGkvbvKyvxK_v.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087231616020267009/vid/avc1/360x270/jJBF4PcSVfkugflt.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087231616020267009/vid/avc1/480x360/M_cq1O2HlqIbfrJy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087231616020267009/vid/avc1/960x720/rUvFmPVxVIiUGxbH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087231616020267009/pl/ySJ38aiJ-staTQ5y.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087231616020267009"
+          ]
+        },
+        "author_id": "1650126478213001216",
+        "conversation_id": "2087231642964517058",
+        "created_at": "2026-08-11T17:36:17.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T18:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087231642964517058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3zB7TVmUCL",
+              "end": 41,
+              "expanded_url": "https://x.com/Yun__V/status/2087231642964517058/video/1",
+              "media_key": "13_2087231616020267009",
+              "start": 18,
+              "url": "https://t.co/3zB7TVmUCL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087231642964517058",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087231616020267009"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "六月底，离开广州前看的最后一场雨。 https://t.co/3zB7TVmUCL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "strawberry fields forever @hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "is_identity_verified": false,
+        "location": "🚪288 ig：theplasticsheep",
+        "most_recent_tweet_id": "2087231642964517058",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "2078707436295430185",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1650126478213001216/1785258738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086936235352735744/7Vfl0og5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16189,
+          "following_count": 149,
+          "like_count": 5838,
+          "listed_count": 28,
+          "media_count": 896,
+          "tweet_count": 7128
+        },
+        "url": "",
+        "username": "Yun__V",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2083134759652544571",
+    "created_at": "2026-07-31T10:29:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T11:29:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083137881149989297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1420755048091377669",
+          "start": 0,
+          "username": "pcm_fx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083137881149989297",
+    "in_reply_to_user_id": "1420755048091377669",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083137410251333953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pcm_fx 我哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2083134759652544571",
+        "created_at": "2026-07-31T10:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083137881149989297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1420755048091377669",
+              "start": 0,
+              "username": "pcm_fx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083137881149989297",
+        "in_reply_to_user_id": "1420755048091377669",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083137410251333953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pcm_fx 我哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420755048091377669",
+        "conversation_id": "2083134759652544571",
+        "created_at": "2026-07-31T10:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083137410251333953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083137410251333953",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083134759652544571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 我哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "strawberry fields forever @hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "2078707436295430185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16182,
+          "following_count": 141,
+          "like_count": 5743,
+          "listed_count": 28,
+          "media_count": 892,
+          "tweet_count": 7050
+        },
+        "url": "",
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-29T14:36:24.000Z",
+        "description": "",
+        "id": "1420755048091377669",
+        "location": "New York, USA",
+        "name": "傑.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792818130043195392/q4GKqGhg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 187,
+          "like_count": 2711,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 439
+        },
+        "url": "",
+        "username": "pcm_fx",
+        "verified": false
+      }
+    ]
+  }
+}

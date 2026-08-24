@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087188426563194880"
+      ]
+    },
+    "author_id": "1650126478213001216",
+    "conversation_id": "2087181260817047896",
+    "created_at": "2026-08-11T14:44:37.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T15:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087188444204462312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044813899816402944",
+          "start": 0,
+          "username": "gzgzgzgzds"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A47UDt19EX",
+          "end": 41,
+          "expanded_url": "https://x.com/Yun__V/status/2087188444204462312/photo/1",
+          "media_key": "3_2087188426563194880",
+          "start": 18,
+          "url": "https://t.co/A47UDt19EX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087188444204462312",
+    "in_reply_to_user_id": "2044813899816402944",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087188426563194880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087181493856837846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gzgzgzgzds 这张也很好 https://t.co/A47UDt19EX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087188426563194880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcu0MibEAA_QDm.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087188426563194880"
+          ]
+        },
+        "author_id": "1650126478213001216",
+        "conversation_id": "2087181260817047896",
+        "created_at": "2026-08-11T14:44:37.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087188444204462312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044813899816402944",
+              "start": 0,
+              "username": "gzgzgzgzds"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A47UDt19EX",
+              "end": 41,
+              "expanded_url": "https://x.com/Yun__V/status/2087188444204462312/photo/1",
+              "media_key": "3_2087188426563194880",
+              "start": 18,
+              "url": "https://t.co/A47UDt19EX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087188444204462312",
+        "in_reply_to_user_id": "2044813899816402944",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087188426563194880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087181493856837846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gzgzgzgzds 这张也很好 https://t.co/A47UDt19EX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044813899816402944",
+        "conversation_id": "2087181260817047896",
+        "created_at": "2026-08-11T14:17:00.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087181493856837846"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087181493856837846",
+        "in_reply_to_user_id": "2044813899816402944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087181260817047896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我说韩盯音色真的很干净有没有懂的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "strawberry fields forever @hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "is_identity_verified": false,
+        "location": "🚪288 ig：theplasticsheep",
+        "most_recent_tweet_id": "2087188444204462312",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "2078707436295430185",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1650126478213001216/1785258738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086936235352735744/7Vfl0og5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16188,
+          "following_count": 149,
+          "like_count": 5836,
+          "listed_count": 28,
+          "media_count": 896,
+          "tweet_count": 7128
+        },
+        "url": "",
+        "username": "Yun__V",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-16T16:23:25.000Z",
+        "description": "世界上的音乐是听不完的",
+        "id": "2044813899816402944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087181493856837846",
+        "name": "p2p",
+        "pinned_tweet_id": "2082504334823305655",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044813899816402944/1776739318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080517065236992000/-myqCHEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 316,
+          "like_count": 1811,
+          "listed_count": 3,
+          "media_count": 89,
+          "tweet_count": 581
+        },
+        "url": "",
+        "username": "gzgzgzgzds",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2083533673627082831",
+    "created_at": "2026-08-02T11:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083882164865978737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2050969508542808064",
+          "start": 0,
+          "username": "isumnz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083882164865978737",
+    "in_reply_to_user_id": "2050969508542808064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083877765552705669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@isumnz 对的，但是都是熄灭很久的烟灰所以没事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2083533673627082831",
+        "created_at": "2026-08-02T11:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083882164865978737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2050969508542808064",
+              "start": 0,
+              "username": "isumnz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083882164865978737",
+        "in_reply_to_user_id": "2050969508542808064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083877765552705669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isumnz 对的，但是都是熄灭很久的烟灰所以没事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050969508542808064",
+        "conversation_id": "2083533673627082831",
+        "created_at": "2026-08-02T11:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083877765552705669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083877765552705669",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083533673627082831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 天啊这是打翻了吗，烟灰进插座里会不会炸啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "strawberry fields forever @hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "location": "🚪288 ig：theplasticsheep",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "2078707436295430185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935908908339523584/2FxNaTLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16201,
+          "following_count": 143,
+          "like_count": 5778,
+          "listed_count": 28,
+          "media_count": 895,
+          "tweet_count": 7082
+        },
+        "url": "",
+        "username": "Yun__V",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T16:04:20.000Z",
+        "description": "",
+        "id": "2050969508542808064",
+        "name": "isumnz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083872924189241344/7LkjYTOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 11,
+          "like_count": 1397,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "isumnz",
+        "verified": false
+      }
+    ]
+  }
+}
