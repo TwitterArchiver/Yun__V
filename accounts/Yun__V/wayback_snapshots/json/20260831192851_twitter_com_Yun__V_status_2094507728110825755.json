@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2094126046715252950",
+    "created_at": "2026-08-31T19:28:51.000Z",
+    "display_text_range": [
+      12,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T20:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094507728110825755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1943677617103929344",
+          "start": 0,
+          "username": "Nacluv6114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094507728110825755",
+    "in_reply_to_user_id": "1943677617103929344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094499743925952796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nacluv6114 我之前每天单曲循环这首歌然后开哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2094126046715252950",
+        "created_at": "2026-08-31T19:28:51.000Z",
+        "display_text_range": [
+          12,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T20:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094507728110825755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1943677617103929344",
+              "start": 0,
+              "username": "Nacluv6114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094507728110825755",
+        "in_reply_to_user_id": "1943677617103929344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094499743925952796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nacluv6114 我之前每天单曲循环这首歌然后开哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943677617103929344",
+        "conversation_id": "2094126046715252950",
+        "created_at": "2026-08-31T18:57:07.000Z",
+        "display_text_range": [
+          8,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T19:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094499743925952796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094499743925952796",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094126046715252950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 我很喜欢这首歌 如果有人给我唱我会想让自己活再久点"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "strawberry fields forever @hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "is_identity_verified": false,
+        "location": "🚪288 ig：theplasticsheep",
+        "most_recent_tweet_id": "2094507728110825755",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1650126478213001216/1786514334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087418472280334336/ESHe871S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16636,
+          "following_count": 148,
+          "like_count": 5896,
+          "listed_count": 31,
+          "media_count": 909,
+          "tweet_count": 7181
+        },
+        "url": "",
+        "username": "Yun__V",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-11T14:24:18.000Z",
+        "description": "@Luckiki_1 所有结局都不是我想要的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "Luckiki_1"
+              }
+            ]
+          }
+        },
+        "id": "1943677617103929344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094499743925952796",
+        "name": "nacl",
+        "pinned_tweet_id": "2028778555761742283",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1943677617103929344/1772974211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087556494619545601/ZYwpP8Pg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 242,
+          "like_count": 725,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 1327
+        },
+        "url": "",
+        "username": "Nacluv6114",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098393490958999552"
+      ],
+      "media_source_tweet_id": [
+        "2098393500706562098"
+      ]
+    },
+    "author_id": "1650126478213001216",
+    "conversation_id": "2098478571740447023",
+    "created_at": "2026-09-11T18:27:34.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T19:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098478571740447023"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 53,
+          "tag": "地雷女子"
+        },
+        {
+          "end": 65,
+          "start": 59,
+          "tag": "量产型女子"
+        },
+        {
+          "end": 70,
+          "start": 66,
+          "tag": "江浙沪"
+        },
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "自撮"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1997919029210820608",
+          "start": 3,
+          "username": "douyasaigao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SkYtXH1hrY",
+          "end": 98,
+          "expanded_url": "https://x.com/douyasaigao/status/2098393500706562098/photo/1",
+          "media_key": "3_2098393490958999552",
+          "start": 75,
+          "url": "https://t.co/SkYtXH1hrY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098478571740447023",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098393490958999552"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098393500706562098",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @douyasaigao: 😭小牙牙寻找前世互关中…宝宝们能不能帮我转转帖 让我寻找回前世互关😭\n\n#地雷女子 #量产型女子 #江浙沪 #自撮 https://t.co/SkYtXH1hrY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098393490958999552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR79wyOaYAAfhWw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098393490958999552"
+          ],
+          "media_source_tweet_id": [
+            "2098393500706562098"
+          ]
+        },
+        "author_id": "1650126478213001216",
+        "conversation_id": "2098478571740447023",
+        "created_at": "2026-09-11T18:27:34.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T19:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098478571740447023"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "地雷女子"
+            },
+            {
+              "end": 65,
+              "start": 59,
+              "tag": "量产型女子"
+            },
+            {
+              "end": 70,
+              "start": 66,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "自撮"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1997919029210820608",
+              "start": 3,
+              "username": "douyasaigao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SkYtXH1hrY",
+              "end": 98,
+              "expanded_url": "https://x.com/douyasaigao/status/2098393500706562098/photo/1",
+              "media_key": "3_2098393490958999552",
+              "start": 75,
+              "url": "https://t.co/SkYtXH1hrY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098478571740447023",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098393490958999552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098393500706562098",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @douyasaigao: 😭小牙牙寻找前世互关中…宝宝们能不能帮我转转帖 让我寻找回前世互关😭\n\n#地雷女子 #量产型女子 #江浙沪 #自撮 https://t.co/SkYtXH1hrY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098393490958999552"
+          ]
+        },
+        "author_id": "1997919029210820608",
+        "conversation_id": "2098393500706562098",
+        "created_at": "2026-09-11T12:49:31.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T13:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098393500706562098"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "地雷女子"
+            },
+            {
+              "end": 48,
+              "start": 42,
+              "tag": "量产型女子"
+            },
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "江浙沪"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "自撮"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SkYtXH1hrY",
+              "end": 81,
+              "expanded_url": "https://x.com/douyasaigao/status/2098393500706562098/photo/1",
+              "media_key": "3_2098393490958999552",
+              "start": 58,
+              "url": "https://t.co/SkYtXH1hrY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098393500706562098",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098393490958999552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 956,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "😭小牙牙寻找前世互关中…宝宝们能不能帮我转转帖 让我寻找回前世互关😭\n\n#地雷女子 #量产型女子 #江浙沪 #自撮 https://t.co/SkYtXH1hrY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "strawberry fields forever @hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "is_identity_verified": false,
+        "location": "🚪288 ig：theplasticsheep",
+        "most_recent_tweet_id": "2098478571740447023",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1650126478213001216/1786514334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087418472280334336/ESHe871S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16666,
+          "following_count": 148,
+          "like_count": 5905,
+          "listed_count": 31,
+          "media_count": 916,
+          "tweet_count": 7218
+        },
+        "url": "",
+        "username": "Yun__V",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-08T06:40:02.000Z",
+        "description": "小牙牙转生2.0\n前世@suzukii_ovo…\n🚪188可约拍 接纯绿线下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "suzukii_ovo"
+              }
+            ]
+          }
+        },
+        "id": "1997919029210820608",
+        "is_identity_verified": false,
+        "location": "🚪188",
+        "most_recent_tweet_id": "2098474658572234883",
+        "name": "我是小牙牙",
+        "pinned_tweet_id": "2098392255296057510",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1997919029210820608/1765176278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098396672825126913/amwqL3A6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 19,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "douyasaigao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2097203075727695933",
+    "created_at": "2026-09-08T16:50:11.000Z",
+    "display_text_range": [
+      17,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T17:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097366900808540324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1400025435539271681",
+          "start": 0,
+          "username": "o0lOIlI0oOo0O0I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097366900808540324",
+    "in_reply_to_user_id": "1400025435539271681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097301588154937682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o0lOIlI0oOo0O0I 土耳其确实很漂亮！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2097203075727695933",
+        "created_at": "2026-09-08T16:50:11.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T17:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097366900808540324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1400025435539271681",
+              "start": 0,
+              "username": "o0lOIlI0oOo0O0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097366900808540324",
+        "in_reply_to_user_id": "1400025435539271681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097301588154937682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o0lOIlI0oOo0O0I 土耳其确实很漂亮！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1400025435539271681",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2097203075727695933",
+        "created_at": "2026-09-08T12:30:39.000Z",
+        "display_text_range": [
+          8,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T13:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097301588154937682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097301588154937682",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果只是地理上的欧洲，可以去土耳其，跨过博斯普鲁斯海峡就是欧洲了。\n我记得土耳其对中国有免签还是落地签，伊斯坦布尔（君士坦丁堡）的欧洲区也有也有许多值得观光的景点，比如圣索菲亚大教堂。\n但是也有些不方便的地方。比如土耳其的物价非常高，圣索菲亚大教堂20年后又改回了清真寺，女性观光可能不太方便……"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097203075727695933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 如果只是地理上的欧洲，可以去土耳其，跨过博斯普鲁斯海峡就是欧洲了。\n我记得土耳其对中国有免签还是落地签，伊斯坦布尔（君士坦丁堡）的欧洲区也有也有许多值得观光的景点，比如圣索菲亚大教堂。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "strawberry fields forever @hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "is_identity_verified": false,
+        "location": "🚪288 ig：theplasticsheep",
+        "most_recent_tweet_id": "2097366900808540324",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1650126478213001216/1786514334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087418472280334336/ESHe871S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16660,
+          "following_count": 147,
+          "like_count": 5915,
+          "listed_count": 31,
+          "media_count": 914,
+          "tweet_count": 7208
+        },
+        "url": "",
+        "username": "Yun__V",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-02T09:44:31.000Z",
+        "description": "shang 🫵 \n社畜 | 令和渡来人 | 神奈川県民 | ENG/JPN/CHN | ✉️🚫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ool0io0liiloo0i",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ool0io0liiloo0i",
+                "start": 0,
+                "url": "https://t.co/OHFEVHI7Ta"
+              }
+            ]
+          }
+        },
+        "id": "1400025435539271681",
+        "is_identity_verified": false,
+        "location": "ヨコハマ",
+        "most_recent_tweet_id": "2097361128548618311",
+        "name": "ᅠᅠᅠ",
+        "pinned_tweet_id": "2096946443898794495",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081716526944817153/S_XeAph6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 548,
+          "like_count": 182736,
+          "listed_count": 6,
+          "media_count": 250,
+          "tweet_count": 56981
+        },
+        "url": "https://t.co/OHFEVHI7Ta",
+        "username": "o0lOIlI0oOo0O0I",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

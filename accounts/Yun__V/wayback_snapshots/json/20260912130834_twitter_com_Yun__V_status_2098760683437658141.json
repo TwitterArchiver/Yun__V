@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2097203075727695933",
+    "created_at": "2026-09-12T13:08:34.000Z",
+    "display_text_range": [
+      10,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T14:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098760683437658141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1755532267160756224",
+          "start": 0,
+          "username": "H01Fevcv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098760683437658141",
+    "in_reply_to_user_id": "1755532267160756224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098579400681718240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H01Fevcv 好😭😭听起来很热闹"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2098579400681718240].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2098579400681718240",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2098579400681718240"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2097203075727695933",
+        "created_at": "2026-09-12T13:08:34.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T14:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098760683437658141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1755532267160756224",
+              "start": 0,
+              "username": "H01Fevcv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098760683437658141",
+        "in_reply_to_user_id": "1755532267160756224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098579400681718240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H01Fevcv 好😭😭听起来很热闹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "strawberry fields forever @hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "is_identity_verified": false,
+        "location": "🚪288 ig：theplasticsheep",
+        "most_recent_tweet_id": "2098760683437658141",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1650126478213001216/1786514334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087418472280334336/ESHe871S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16663,
+          "following_count": 146,
+          "like_count": 5907,
+          "listed_count": 31,
+          "media_count": 916,
+          "tweet_count": 7220
+        },
+        "url": "",
+        "username": "Yun__V",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-08T10:01:30.000Z",
+        "description": "",
+        "id": "1755532267160756224",
+        "is_identity_verified": false,
+        "location": "Monica&Bregna",
+        "most_recent_tweet_id": "2032601967508312521",
+        "name": "jigffcgsizhhs",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755532267160756224/1789091745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098229215640334339/Ffemrg0Z_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 127,
+          "like_count": 9214,
+          "listed_count": 0,
+          "media_count": 471,
+          "tweet_count": 5257
+        },
+        "url": "",
+        "username": "H01Fevcv",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
