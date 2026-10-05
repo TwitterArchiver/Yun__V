@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1650126478213001216",
+    "conversation_id": "2106051080396341258",
+    "created_at": "2026-10-03T03:28:55.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T04:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106224954920587292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1942973643962634240",
+          "start": 0,
+          "username": "whywhymemee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106224954920587292",
+    "in_reply_to_user_id": "1942973643962634240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106055285710434418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whywhymemee 来加steam好友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650126478213001216",
+        "conversation_id": "2106051080396341258",
+        "created_at": "2026-10-03T03:28:55.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T04:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106224954920587292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1942973643962634240",
+              "start": 0,
+              "username": "whywhymemee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106224954920587292",
+        "in_reply_to_user_id": "1942973643962634240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106055285710434418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whywhymemee 来加steam好友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942973643962634240",
+        "conversation_id": "2106051080396341258",
+        "created_at": "2026-10-02T16:14:43.000Z",
+        "display_text_range": [
+          8,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T17:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106055285710434418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1650126478213001216",
+              "start": 0,
+              "username": "Yun__V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106055285710434418",
+        "in_reply_to_user_id": "1650126478213001216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106051080396341258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun__V 我来"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-23T13:16:44.000Z",
+        "description": "strawberry fields forever @hx61zi4Jk332357",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "hx61zi4Jk332357"
+              }
+            ]
+          }
+        },
+        "id": "1650126478213001216",
+        "is_identity_verified": false,
+        "location": "🚪288 ig：theplasticsheep",
+        "most_recent_tweet_id": "2106224954920587292",
+        "name": "theplasticsheep",
+        "pinned_tweet_id": "1918010753875120447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1650126478213001216/1786514334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103861953957675008/tKi1GYTG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16848,
+          "following_count": 151,
+          "like_count": 5959,
+          "listed_count": 31,
+          "media_count": 931,
+          "tweet_count": 7286
+        },
+        "url": "",
+        "username": "Yun__V",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-09T15:46:39.000Z",
+        "description": "",
+        "id": "1942973643962634240",
+        "is_identity_verified": false,
+        "location": "家里",
+        "most_recent_tweet_id": "2106055285710434418",
+        "name": "（：sorryimbat",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1942973643962634240/1790651257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075949529384509440/QDd0sZvT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 101,
+          "like_count": 3136,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 88
+        },
+        "url": "",
+        "username": "whywhymemee",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
